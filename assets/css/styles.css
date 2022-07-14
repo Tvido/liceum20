@@ -855,8 +855,8 @@ main
   background: url(../../assets/img/hero/hero.jpg);
   background-size: cover;
   width: 100%;
-  min-height: 100vh;
-  z-index: -1;
+  height: 100vh;
+  z-index: -100;
   opacity: 0.1;
 }
 
