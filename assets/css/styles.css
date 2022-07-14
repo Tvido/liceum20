@@ -856,7 +856,7 @@ main
   background-size: cover;
   width: 100%;
   min-height: 100vh;
-  z-index: 1section__grid;
+  z-index: -1;
   opacity: 0.1;
 }
 
@@ -900,7 +900,6 @@ section.main {
   margin-bottom: 1rem;
   box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 253, 0.1) inset;
   overflow: hidden;
-  z-index: 1;
 }
 
 .section__grid a .section__box::before {
