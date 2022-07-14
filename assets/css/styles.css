@@ -882,7 +882,6 @@ section.main {
 .section__grid {
   display: block;
   padding: 2rem;
-  min-height: 100vh;
 }
 
 .section__grid .section__box {
