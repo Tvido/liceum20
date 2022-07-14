@@ -1121,25 +1121,6 @@ td {
   color: var(--color-primary);
 }
 
-.covid .covid__container {
-  width: 100%;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 1rem 8%;
-}
-
-.covid .covid__container .covid__gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  grid-gap: 3rem;
-}
-
-.covid .covid__container .covid__gallery img {
-  width: 100%;
-}
-
 /*-----------------------------------*\
   contacts
 \*-----------------------------------*/
