@@ -898,6 +898,24 @@ section.main {
   box-sizing: border-box;
   margin-bottom: 1rem;
   box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 253, 0.1) inset;
+  overflow: hidden;
+}
+
+.section__grid a .section__box::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.7);
+  transform: skewX(45deg) translateX(450px);
+  transition: var(--transition);
+}
+
+.section__grid a .section__box:hover::before {
+  transform: skewX(45deg) translateX(-200px);
+  transition: var(--transition);
 }
 
 .section__grid .section__box .section__content {
