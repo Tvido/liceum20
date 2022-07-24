@@ -1,5 +1,5 @@
 export const BASENAME = ''; // don't add '/' at end off BASENAME
-export const BASE_URL = '/dashboard/default';
+export const BASE_URL = '/';
 export const BASE_TITLE = ' Liceum 20';
 
 export const CONFIG = {
