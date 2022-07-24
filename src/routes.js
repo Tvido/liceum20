@@ -36,7 +36,6 @@ const routes = [
         path: '/main',
         component: lazy(() => import('./views/dashboard/DashDefault'))
       },
-
       {
         exact: true,
         path: '/service-territory',
@@ -178,7 +177,7 @@ const routes = [
       //   path: '/lessons-schedule',
       //   component: lazy(() => import('./views/info/LessonsSchedule'))
       // },
-            {
+      {
         exact: true,
         path: '/lessons-schedule',
         component: lazy(() => import('./views/info/LessonsSchedule'))
