@@ -2,6 +2,7 @@
   "name": "liceum20",
   "version": "1.0.1",
   "private": true,
+  "homepage": "https://Tvido.github.io/liceum20",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.0",
     "@tanem/react-nprogress": "^4.0.9",
