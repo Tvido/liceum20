@@ -38,6 +38,64 @@ const routes = [
       },
       {
         exact: true,
+        path: '/elementary-school',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/ElementarySchool'))
+      },
+      {
+        exact: true,
+        path: '/humanitarian-disciplines',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/HumanitarianDisciplines'))
+      },
+      {
+        exact: true,
+        path: '/social-disciplines',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/SocialDisciplines'))
+      },
+      {
+        exact: true,
+        path: '/mathematics-physics-computer-science',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/MathematicsPhysicsComputerScience'))
+      },
+      {
+        exact: true,
+        path: '/natural-disciplines',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/NaturalDisciplines'))
+      },
+      {
+        exact: true,
+        path: '/foreign-languages',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/ForeignLanguages'))
+      },
+      {
+        exact: true,
+        path: '/aesthetic-disciplines',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/AestheticDisciplines'))
+      },
+      {
+        exact: true,
+        path: '/physical-culture-protection-of-ukraine-basics-of-health',
+        component: lazy(() =>
+          import('./views/main/MethodicalWork/MethodologicalAssociations/PhysicalCultureProtectionOfUkraineBasicsOfHealth')
+        )
+      },
+      {
+        exact: true,
+        path: '/class-leaders',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/ClassLeaders'))
+      },
+      {
+        exact: true,
+        path: '/certification',
+        component: lazy(() => import('./views/main/MethodicalWork/Certification'))
+      },
+      {
+        exact: true,
+        path: '/courses',
+        component: lazy(() => import('./views/main/MethodicalWork/Courses'))
+      },
+
+      {
+        exact: true,
         path: '/service-territory',
         component: lazy(() => import('./views/main/ServiceTerritory'))
       },

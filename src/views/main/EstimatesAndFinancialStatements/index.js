@@ -3,7 +3,7 @@ import React from 'react';
 const EstimatesAndFinancialStatements = () => {
   return (
     <React.Fragment>
-      <h3>КОШТОРИС</h3>
+      <h5>КОШТОРИС</h5>
 
       <div class="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1eAWWVirCDwuU2mHE2q_0FuGU6zPhZ1Fv/view">
@@ -67,7 +67,7 @@ const EstimatesAndFinancialStatements = () => {
         </a>
       </div>
 
-      <h3>ФІНАНСОВИЙ ЗВІТ</h3>
+      <h5>ФІНАНСОВИЙ ЗВІТ</h5>
 
       <div class="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1p6ggkt_ivon-oYSqF70BH-Y1HkXlppNn/view">
@@ -265,7 +265,7 @@ const EstimatesAndFinancialStatements = () => {
         </a>
       </div>
 
-      <h3>Звіт благодійного фонду</h3>
+      <h5>Звіт благодійного фонду</h5>
 
       <div class="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1N5Vq0Uat0VhKUMriabiYyDk6jlKjj-Qv/view">
