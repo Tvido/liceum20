@@ -3,13 +3,13 @@ import React from 'react';
 const TermsOfAvailability = () => {
   return (
     <React.Fragment>
-      <div class="terms__link">
+      <div className="terms__link">
         <a target="_blank" href="https://drive.google.com/file/d/1DHFxgBIVFdbvSa-Wy25CjXmWgSwsQhux/view" rel="noreferrer">
           Читати статтю 26 ЗУ “Про повну загальну середню освіту”
         </a>
       </div>
 
-      <div class="article">
+      <div className="article">
         <article>
           <h5>У Ліцеї №20 Івано-Франківської міської ради для осіб з особливими освітніми потребами створені наступні умови:</h5>
 

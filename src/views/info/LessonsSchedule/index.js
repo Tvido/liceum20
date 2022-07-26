@@ -1,12 +1,12 @@
 import React from 'react';
-import { Row, Col, Tabs, Tab, Nav,  Card, Table } from 'react-bootstrap';
+import { Tabs, Tab, Card, Table } from 'react-bootstrap';
 
 const LessonsSchedule = () => {
   return <React.Fragment>
-          <h5 className="mt-4">Режими групи подовженого дня та розклад дзвінків</h5>
+          <h5 classNameName="mt-4">Режими групи подовженого дня та розклад дзвінків</h5>
           <hr />
-          <Tabs variant="pills" defaultActiveKey="1stclass" className="mb-3">
-            <Tab eventKey="1stclass" title="1 класу">
+          <Tabs variant="pills" defaultActiveKey="1stclassName" classNameName="mb-3">
+            <Tab eventKey="1stclassName" title="1 класу">
               <Card.Body>
                 <Table responsive hover>
                   <tbody>
@@ -104,7 +104,7 @@ const LessonsSchedule = () => {
               </Card.Body>
             </Tab>
 
-            <Tab eventKey="2dclass" title="2 класу">
+            <Tab eventKey="2dclassName" title="2 класу">
               <Card.Body>
                 <Table responsive hover>
                 <tbody>
@@ -202,7 +202,7 @@ const LessonsSchedule = () => {
               </Card.Body>
             </Tab>
             
-            <Tab eventKey="3dclass" title="3-4 класу">
+            <Tab eventKey="3dclassName" title="3-4 класу">
               <Card.Body>
                 <Table responsive hover>
                   <tbody>
@@ -255,15 +255,15 @@ const LessonsSchedule = () => {
 
           <hr />
 
-          <Tabs variant="pills" defaultActiveKey="schedule" className="mb-3">
+          <Tabs variant="pills" defaultActiveKey="schedule" classNameName="mb-3">
             <Tab eventKey="schedule" title="Розклад дзвінків">
-              <div class="terms__link">
+              <div className="terms__link">
                 <a target="_blank" href="https://drive.google.com/file/d/1OqgPRcXzQi5kw4XvBxreBpaN2qOlPtRl/view" rel="noreferrer">
                   Розклад I ступінь 2020-2021 (початкова школа)        
                 </a>
               </div>
 
-              <div class="terms__link">
+              <div className="terms__link">
                 <a target="_blank" href="https://docs.google.com/document/d/1vxBpLmNxBfoFtIfWEzyMV0kewIRMT0sp/edit?rtpof=true&sd=true" rel="noreferrer">
                   Розклад II та III ступенів 2020-2021        
                 </a>

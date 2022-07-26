@@ -36,6 +36,8 @@ const routes = [
         path: '/main',
         component: lazy(() => import('./views/dashboard/DashDefault'))
       },
+
+      // Методична робота
       {
         exact: true,
         path: '/elementary-school',
@@ -70,6 +72,14 @@ const routes = [
         exact: true,
         path: '/aesthetic-disciplines',
         component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/AestheticDisciplines'))
+      },
+
+      // Виховна робота
+
+      {
+        exact: true,
+        path: '/take-care-of-the-book',
+        component: lazy(() => import('./views/main/EducationalWork/Library/EducationalActivities/TakeCareOfTheBook'))
       },
       {
         exact: true,
@@ -235,6 +245,33 @@ const routes = [
       //   path: '/lessons-schedule',
       //   component: lazy(() => import('./views/info/LessonsSchedule'))
       // },
+
+      // Info
+      {
+        exact: true,
+        path: '/history',
+        component: lazy(() => import('./views/info/About/History'))
+      },
+      {
+        exact: true,
+        path: '/strategy',
+        component: lazy(() => import('./views/info/About/Strategy'))
+      },
+      {
+        exact: true,
+        path: '/internal-system-of-ensuring-the-quality-of-education',
+        component: lazy(() => import('./views/info/About/InternalSystemOfEnsuring'))
+      },
+      {
+        exact: true,
+        path: '/academic-integrity',
+        component: lazy(() => import('./views/info/About/AcademicIntegrity'))
+      },
+      {
+        exact: true,
+        path: '/orders',
+        component: lazy(() => import('./views/info/About/Orders'))
+      },
       {
         exact: true,
         path: '/lessons-schedule',
@@ -245,6 +282,9 @@ const routes = [
         path: '/contacts',
         component: lazy(() => import('./views/info/Contacts'))
       },
+
+      // Додатково
+
       {
         exact: true,
         path: '/terms-of-availability',

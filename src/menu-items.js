@@ -103,13 +103,13 @@ const menuItems = {
               title: 'Предметні тижні',
               type: 'item',
               url: '/subject-weeks'
-            },
-            {
-              id: 'methodical-decades',
-              title: 'Методичні декади',
-              type: 'item',
-              url: '/methodical-decades'
             }
+            // {
+            //   id: 'methodical-decades',
+            //   title: 'Методичні декади',
+            //   type: 'item',
+            //   url: '/methodical-decades'
+            // }
           ]
         },
         {
@@ -571,6 +571,12 @@ const menuItems = {
               title: 'Академічна доброчесність',
               type: 'item',
               url: '/academic-integrity'
+            },
+            {
+              id: 'orders',
+              title: 'Накази',
+              type: 'item',
+              url: '/orders'
             },
             {
               id: 'languages-of-the-educational-process',

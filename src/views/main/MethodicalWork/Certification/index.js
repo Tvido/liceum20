@@ -59,10 +59,10 @@ const Certification = () => {
         </Table>
       </Card.Body>
 
-      <div class="section__grid">
+      <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12QAq5OrqpqCgizAvBsoLP-2vlFzZrtcs/view">
-          <div class="section__box">
-            <div class="section__content">
+          <div className="section__box">
+            <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
               <p>ПЕРСПЕКТИВНИЙ ПЛАН-ГРАФІК АТЕСТАЦІЇ ПЕДАГОГІЧНИХ ПРАЦІВНИКІВ НА 2019-2024 РОКИ</p>
@@ -71,8 +71,8 @@ const Certification = () => {
         </a>
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ic_QCU8fOoelhdvsOwOke1JXLzji3RrE/view">
-          <div class="section__box">
-            <div class="section__content">
+          <div className="section__box">
+            <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
               <p>Кількісний та якісний склад педагогічного колективу Ліцею №20</p>

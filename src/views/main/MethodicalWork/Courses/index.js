@@ -24,10 +24,10 @@ const Courses = () => {
         </ul>
       </article>
 
-      <div class="section__grid">
+      <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1e-M4udJBXIGQ4hqqGGVCEUwzmmSF5xEC/view">
-          <div class="section__box">
-            <div class="section__content">
+          <div className="section__box">
+            <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
               <p>Інформація щодо кількості зареєстрованих слухачів на курси підвищення кваліфікації Ліцею №20</p>
@@ -36,8 +36,8 @@ const Courses = () => {
         </a>
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1uLOgkV06KaJOMFxI7iEyUtj6bdAGGr15/view">
-          <div class="section__box">
-            <div class="section__content">
+          <div className="section__box">
+            <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
               <p>ПЕРСПЕКТИВНИЙ ПЛАН-ГРАФІК КУРСОВОЇ ПІДГОТОВКИ ПЕДАГОГІЧНИХ ПРАЦІВНИКІВ НА 2019-2024 РОКИ</p>
@@ -46,8 +46,8 @@ const Courses = () => {
         </a>
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1v17QOAIGoze334GP1kqnsUSZDuzsq75k/view">
-          <div class="section__box">
-            <div class="section__content">
+          <div className="section__box">
+            <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
               <p>
@@ -59,8 +59,8 @@ const Courses = () => {
         </a>
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/14n0nUcmpjCqHp8oTGi7rAbxINR6P4gOL/view">
-          <div class="section__box">
-            <div class="section__content">
+          <div className="section__box">
+            <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
               <p>Порядок про визнання результатів ЗЗСО</p>
