@@ -279,6 +279,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/rules-of-conduct',
+        component: lazy(() => import('./views/info/About/RulesOfConduct'))
+      },
+      {
+        exact: true,
         path: '/academic-integrity',
         component: lazy(() => import('./views/info/About/AcademicIntegrity'))
       },
