@@ -286,6 +286,11 @@ const routes = [
         exact: true,
         path: '/orders',
         component: lazy(() => import('./views/info/About/Orders'))
+      },      
+      {
+        exact: true,
+        path: '/vacancies',
+        component: lazy(() => import('./views/info/About/Vacancies'))
       },
       {
         exact: true,
