@@ -34,7 +34,7 @@ const AdditionalEducationalServices = () => {
             </div>
           </div>
         </a>
-      </div>{' '}
+      </div>
     </React.Fragment>
   );
 };

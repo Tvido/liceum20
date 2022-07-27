@@ -5,7 +5,7 @@ const BasicTypography = () => {
   return (
     <React.Fragment>
       <Row>
-        {/* <Col sm={12}>
+        <Col sm={12}>
           <Card>
             <Card.Header>
               <Card.Title as="h5">Headings</Card.Title>
@@ -57,8 +57,8 @@ const BasicTypography = () => {
               <h1 className="display-4">Display 4</h1>
             </Card.Body>
           </Card>
-        </Col> */}
-        {/* <Col md={6}>
+        </Col>
+        <Col md={6}>
           <Card>
             <Card.Header>
               <Card.Title as="h5">Inline Text Elements</Card.Title>
@@ -77,8 +77,8 @@ const BasicTypography = () => {
               <em>rendered as italicized text</em>
             </Card.Body>
           </Card>
-        </Col> */}
-        {/* <Col md={6}>
+        </Col>
+        <Col md={6}>
           <Card>
             <Card.Header>
               <Card.Title as="h5">Contextual Text Colors</Card.Title>
@@ -93,8 +93,8 @@ const BasicTypography = () => {
               <Card.Text className="text-dark mb-1">Nullam id dolor id nibh ultricies vehicula ut id elit.</Card.Text>
             </Card.Body>
           </Card>
-        </Col> */}
-        {/* <Col md={6} xl={4}>
+        </Col>
+        <Col md={6} xl={4}>
           <Card>
             <Card.Header>
               <Card.Title as="h5">Unordered</Card.Title>
@@ -120,8 +120,8 @@ const BasicTypography = () => {
               </ul>
             </Card.Body>
           </Card>
-        </Col> */}
-        {/* <Col md={6} xl={4}>
+        </Col>
+        <Col md={6} xl={4}>
           <Card>
             <Card.Header>
               <Card.Title as="h5">Ordered</Card.Title>
@@ -147,7 +147,7 @@ const BasicTypography = () => {
               </ol>
             </Card.Body>
           </Card>
-        </Col> */}
+        </Col>
         <Col md={6} xl={4}>
           <Card>
             <Card.Header>
@@ -204,6 +204,7 @@ const BasicTypography = () => {
             </Card.Body>
           </Card>
         </Col>
+        
         <Col md={6}>
           <Card>
             <Card.Header>

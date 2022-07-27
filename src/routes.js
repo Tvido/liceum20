@@ -34,7 +34,7 @@ const routes = [
       {
         exact: true,
         path: '/main',
-        component: lazy(() => import('./views/dashboard/DashDefault'))
+        component: lazy(() => import('./views/main/Main'))
       },
 
       // Методична робота
@@ -72,6 +72,11 @@ const routes = [
         exact: true,
         path: '/aesthetic-disciplines',
         component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/AestheticDisciplines'))
+      },
+      {
+        exact: true,
+        path: '/subject-weeks',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodicalDecades'))
       },
 
       // Виховна робота
@@ -210,47 +215,52 @@ const routes = [
       //   path: '/basic/test',
       //   component: lazy(() => import('./views/ui-elements/basic/BasicCollapse'))
       // },
-      {
-        exact: true,
-        path: '/basic/collapse',
-        component: lazy(() => import('./views/ui-elements/basic/BasicCollapse'))
-      },
-      {
-        exact: true,
-        path: '/45',
-        component: lazy(() => import('./views/ui-elements/basic/BasicTabsPills'))
-      },
-      {
-        exact: true,
-        path: '/basic/typography',
-        component: lazy(() => import('./views/ui-elements/basic/BasicTypography'))
-      },
-      {
-        exact: true,
-        path: '/tables/bootstrap',
-        component: lazy(() => import('./views/tables/BootstrapTable'))
-      },
-      {
-        exact: true,
-        path: '/maps/google-map',
-        component: lazy(() => import('./views/maps/GoogleMaps'))
-      },
-      {
-        exact: true,
-        path: '/sample-page',
-        component: lazy(() => import('./views/extra/SamplePage'))
-      },
       // {
       //   exact: true,
-      //   path: '/lessons-schedule',
-      //   component: lazy(() => import('./views/info/LessonsSchedule'))
+      //   path: '/basic/collapse',
+      //   component: lazy(() => import('./views/ui-elements/basic/BasicCollapse'))
+      // },
+      // {
+      //   exact: true,
+      //   path: '/45',
+      //   component: lazy(() => import('./views/ui-elements/basic/BasicTabsPills'))
+      // },
+      // {
+      //   exact: true,
+      //   path: '/basic/typography',
+      //   component: lazy(() => import('./views/ui-elements/basic/BasicTypography'))
+      // },
+      // {
+      //   exact: true,
+      //   path: '/tables/bootstrap',
+      //   component: lazy(() => import('./views/tables/BootstrapTable'))
+      // },
+      // {
+      //   exact: true,
+      //   path: '/maps/google-map',
+      //   component: lazy(() => import('./views/maps/GoogleMaps'))
+      // },
+      // {
+      //   exact: true,
+      //   path: '/sample-page',
+      //   component: lazy(() => import('./views/extra/SamplePage'))
       // },
 
       // Info
       {
         exact: true,
+        path: '/license',
+        component: lazy(() => import('./views/info/About/License'))
+      },
+      {
+        exact: true,
         path: '/history',
         component: lazy(() => import('./views/info/About/History'))
+      },
+      {
+        exact: true,
+        path: '/administration',
+        component: lazy(() => import('./views/info/About/Administration'))
       },
       {
         exact: true,
