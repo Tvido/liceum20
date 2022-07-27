@@ -585,10 +585,10 @@ const menuItems = {
               url: '/languages-of-the-educational-process'
             },
             {
-              id: 'movement-scheme',
-              title: 'Схема руху',
+              id: 'information-materials',
+              title: 'Інформаційні матеріали',
               type: 'item',
-              url: '/movement-scheme'
+              url: '/information-materials'
             },
             {
               id: 'material-and-technical-support',

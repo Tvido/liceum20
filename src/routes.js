@@ -289,6 +289,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/information-materials',
+        component: lazy(() => import('./views/info/About/InformationMaterials'))
+      },  
+      {
+        exact: true,
         path: '/orders',
         component: lazy(() => import('./views/info/About/Orders'))
       },      
