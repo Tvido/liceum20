@@ -269,6 +269,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/regulations',
+        component: lazy(() => import('./views/info/About/Regulations'))
+      },
+      {
+        exact: true,
         path: '/internal-system-of-ensuring-the-quality-of-education',
         component: lazy(() => import('./views/info/About/InternalSystemOfEnsuring'))
       },
