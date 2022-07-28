@@ -75,6 +75,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/teachers',
+        component: lazy(() => import('./views/main/MethodicalWork/Teachers'))
+      },
+      {
+        exact: true,
         path: '/subject-weeks',
         component: lazy(() => import('./views/main/MethodicalWork/MethodicalDecades'))
       },
@@ -289,14 +294,24 @@ const routes = [
       },
       {
         exact: true,
+        path: '/languages-of-the-educational-process',
+        component: lazy(() => import('./views/info/About/LanguagesOfTheEducationalProcess'))
+      },
+      {
+        exact: true,
         path: '/information-materials',
         component: lazy(() => import('./views/info/About/InformationMaterials'))
       },  
       {
         exact: true,
+        path: '/material-and-technical-support',
+        component: lazy(() => import('./views/info/About/MaterialAndTechnicalSupport'))
+      },
+      {
+        exact: true,
         path: '/orders',
         component: lazy(() => import('./views/info/About/Orders'))
-      },      
+      },
       {
         exact: true,
         path: '/vacancies',
