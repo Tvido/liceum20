@@ -146,7 +146,7 @@ const Main = () => {
                   <div>
                     <img src={alert_1} alt="" className="cardHero" />
                   </div>
-                                    <div>
+                  <div>
                     <img src={alert_2} alt="" className="cardHero" />
                   </div>
               </blockquote>

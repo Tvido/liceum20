@@ -73,6 +73,12 @@ const routes = [
         path: '/aesthetic-disciplines',
         component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/AestheticDisciplines'))
       },
+
+            {
+        exact: true,
+        path: '/maria-stepanivna-tomin',
+        component: lazy(() => import('./views/main/PsychologicalService/PracticalPsychologist/MariaStepanivnaTomyn'))
+      },
       {
         exact: true,
         path: '/teachers',
