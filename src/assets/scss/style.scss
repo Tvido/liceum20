@@ -86,7 +86,7 @@ article {
   width: 100px;
   height: 100%;
   background: rgba(255, 255, 255, 0.6);
-  transform: skewX(45deg) translateX(550px);
+  transform: skewX(45deg) translateX(600%);
   transition: 0.5s;
 }
 
@@ -142,7 +142,7 @@ article {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1640px) {
   .section__grid {
     grid-gap: 2rem;
     grid-template-columns: repeat(4, 1fr);
