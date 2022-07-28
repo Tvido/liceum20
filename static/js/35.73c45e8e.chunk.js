@@ -1,0 +1,2 @@
+(this.webpackJsonpliceum20=this.webpackJsonpliceum20||[]).push([[35],{602:function(e,c,n){"use strict";n.r(c);var t=n(0),i=n.n(t),s=n(1);c.default=function(){return Object(s.jsx)(i.a.Fragment,{children:Object(s.jsx)("h5",{children:"Covid"})})}}}]);
+//# sourceMappingURL=35.73c45e8e.chunk.js.map
