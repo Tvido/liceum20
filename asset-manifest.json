@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.3ae93655.chunk.js": "/liceum20/static/js/0.3ae93655.chunk.js",
     "static/js/0.3ae93655.chunk.js.map": "/liceum20/static/js/0.3ae93655.chunk.js.map",
-    "main.css": "/liceum20/static/css/main.429019f1.chunk.css",
+    "main.css": "/liceum20/static/css/main.5a4779ab.chunk.css",
     "main.js": "/liceum20/static/js/main.10226af6.chunk.js",
     "main.js.map": "/liceum20/static/js/main.10226af6.chunk.js.map",
     "runtime-main.js": "/liceum20/static/js/runtime-main.74b7116d.js",
@@ -100,7 +100,7 @@
     "static/js/47.eb11e4b0.chunk.js.map": "/liceum20/static/js/47.eb11e4b0.chunk.js.map",
     "index.html": "/liceum20/index.html",
     "static/css/3.217d4761.chunk.css.map": "/liceum20/static/css/3.217d4761.chunk.css.map",
-    "static/css/main.429019f1.chunk.css.map": "/liceum20/static/css/main.429019f1.chunk.css.map",
+    "static/css/main.5a4779ab.chunk.css.map": "/liceum20/static/css/main.5a4779ab.chunk.css.map",
     "static/js/3.29a41ba3.chunk.js.LICENSE.txt": "/liceum20/static/js/3.29a41ba3.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/liceum20/static/media/pct.eaa84987.eot",
     "static/media/alert_1.8e54eeab.png": "/liceum20/static/media/alert_1.8e54eeab.png",
@@ -128,7 +128,7 @@
     "static/js/runtime-main.74b7116d.js",
     "static/css/3.217d4761.chunk.css",
     "static/js/3.29a41ba3.chunk.js",
-    "static/css/main.429019f1.chunk.css",
+    "static/css/main.5a4779ab.chunk.css",
     "static/js/main.10226af6.chunk.js"
   ]
 }
