@@ -75,8 +75,18 @@ const routes = [
       },
       {
         exact: true,
-        path: '/maria-stepanivna-tomin',
-        component: lazy(() => import('./views/main/PsychologicalService/PracticalPsychologist/MariaStepanivnaTomyn'))
+        path: '/aesthetic-disciplines',
+        component: lazy(() => import('./views/main/MethodicalWork/MethodologicalAssociations/AestheticDisciplines'))
+      },
+      {
+        exact: true,
+        path: '/naotsbsou',
+        component: lazy(() => import('./views/main/EducationalWork/Naotsbsou'))
+      },
+      {
+        exact: true,
+        path: '/german-unification-day',
+        component: lazy(() => import('./views/main/EducationalWork/GermanUnificationDay'))
       },
       {
         exact: true,
