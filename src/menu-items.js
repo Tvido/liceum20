@@ -190,12 +190,6 @@ const menuItems = {
                       type: 'item',
                       url: '/museum-of-the-heavenly-hundred'
                     },
-                    {
-                      id: 'manyava-skete',
-                      title: 'Манявський скит',
-                      type: 'item',
-                      url: '/manyava-skete'
-                    }
                   ]
                 },
                 {
@@ -203,12 +197,6 @@ const menuItems = {
                   title: 'Бібліотека-інфо',
                   type: 'item',
                   url: '/info-library'
-                },
-                {
-                  id: 'all-ukrainian-monthly',
-                  title: 'Всеукраїнський місячник',
-                  type: 'item',
-                  url: '/all-ukrainian-monthly'
                 },
                 {
                   id: 'library-lessons',

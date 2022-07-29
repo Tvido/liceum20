@@ -259,13 +259,13 @@ const routes = [
       },
       {
         exact: true,
-        path: '/manyava-skete',
-        component: lazy(() => import('./views/main/EducationalWork/Library/PatrioticEducation/ManyavaSkete'))
+        path: '/info-library',
+        component: lazy(() => import('./views/main/EducationalWork/Library/InfoLibrary'))
       },
       {
         exact: true,
-        path: '/info-library',
-        component: lazy(() => import('./views/main/EducationalWork/Library/InfoLibrary'))
+        path: '/library-lessons',
+        component: lazy(() => import('./views/main/EducationalWork/Library/LibraryLessons'))
       },
       {
         exact: true,
