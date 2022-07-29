@@ -113,7 +113,7 @@ const menuItems = {
           ]
         },
         {
-          id: 'educational-work',
+          id: 'educational-activities',
           title: 'Виховна робота',
           type: 'collapse',
           icon: 'feather icon-box',
@@ -367,15 +367,8 @@ const menuItems = {
                     {
                       id: 'preventive-parents',
                       title: 'Батьки',
-                      type: 'collapse',
-                      children: [
-                        {
-                          id: 'prevention-of-suicides',
-                          title: 'Профілактика суїцидів',
-                          type: 'item',
-                          url: '/prevention-of-suicides'
-                        }
-                      ]
+                      type: 'item',
+                      url: '/preventive-parents'
                     },
                     {
                       id: 'preventive-teachers',
@@ -384,12 +377,6 @@ const menuItems = {
                       url: '/preventive-teachers'
                     }
                   ]
-                },
-                {
-                  id: 'cooperation-with-the-public',
-                  title: 'Співпраця з громадськістю',
-                  type: 'item',
-                  url: '/cooperation-with-the-public'
                 },
                 {
                   id: 'recommendations',

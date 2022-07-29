@@ -95,6 +95,62 @@ const routes = [
       },
       {
         exact: true,
+        path: '/iryna-ivanivna-letsyn',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/IrynaIvanivnaLetsyn'))
+      },
+
+      {
+        exact: true,
+        path: '/pedagogue-pupils',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/EducationalWork/PedagoguePupils'))
+      },      
+      {
+        exact: true,
+        path: '/pedagogue-parents',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/EducationalWork/PedagogueParents'))
+      },
+      {
+        exact: true,
+        path: '/pedagogue-teachers',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/EducationalWork/PedagogueTeachers'))
+      },      
+      {
+        exact: true,
+        path: '/preventive-pupils',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/PreventiveWork/PreventivePupils'))
+      },
+      {
+        exact: true,
+        path: '/preventive-parents',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/PreventiveWork/PreventiveParents'))
+      },
+      {
+        exact: true,
+        path: '/preventive-teachers',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/PreventiveWork/PreventiveTeachers'))
+      },
+      {
+        exact: true,
+        path: '/recommendations',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/Recommendations'))
+      },
+      {
+        exact: true,
+        path: '/career-orientation',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/CareerOrientation'))
+      },      
+      {
+        exact: true,
+        path: '/rules-of-behavior-on-the-internet',
+        component: lazy(() => import('./views/main/PsychologicalService/RulesOfBehaviorOnTheInternet'))
+      },
+      {
+        exact: true,
+        path: '/internet-security',
+        component: lazy(() => import('./views/main/PsychologicalService/InternetSecurity'))
+      },
+      {
+        exact: true,
         path: '/teachers',
         component: lazy(() => import('./views/main/MethodicalWork/Teachers'))
       },
