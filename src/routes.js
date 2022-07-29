@@ -238,6 +238,21 @@ const routes = [
       },
       {
         exact: true,
+        path: '/ukrainian-vespers',
+        component: lazy(() => import('./views/main/EducationalWork/Library/AestheticEducation/UkrainianVespers'))
+      },
+      {
+        exact: true,
+        path: '/meeting-deleva',
+        component: lazy(() => import('./views/main/EducationalWork/Library/AestheticEducation/MeetingDeleva'))
+      },
+      {
+        exact: true,
+        path: '/shevchenko-days',
+        component: lazy(() => import('./views/main/EducationalWork/Library/AestheticEducation/ShevchenkoDays'))
+      },
+      {
+        exact: true,
         path: '/physical-culture-protection-of-ukraine-basics-of-health',
         component: lazy(() =>
           import('./views/main/MethodicalWork/MethodologicalAssociations/PhysicalCultureProtectionOfUkraineBasicsOfHealth')
