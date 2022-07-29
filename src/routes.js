@@ -90,6 +90,46 @@ const routes = [
       },
       {
         exact: true,
+        path: '/dup-2019',
+        component: lazy(() => import('./views/main/EducationalWork/Dup2019'))
+      },
+      {
+        exact: true,
+        path: '/council-of-student-self-government',
+        component: lazy(() => import('./views/main/EducationalWork/CouncilOfStudentSelfGovernment'))
+      },
+      {
+        exact: true,
+        path: '/musical-art',
+        component: lazy(() => import('./views/main/EducationalWork/MusicalArt'))
+      },
+      {
+        exact: true,
+        path: '/theater',
+        component: lazy(() => import('./views/main/EducationalWork/Theater'))
+      },
+      {
+        exact: true,
+        path: '/circles',
+        component: lazy(() => import('./views/main/EducationalWork/Circles'))
+      },
+      {
+        exact: true,
+        path: '/career-guidance-work',
+        component: lazy(() => import('./views/main/EducationalWork/CareerGuidanceWork'))
+      },
+      {
+        exact: true,
+        path: '/charity-actions',
+        component: lazy(() => import('./views/main/EducationalWork/CharityActions'))
+      },
+      {
+        exact: true,
+        path: '/school-projects',
+        component: lazy(() => import('./views/main/EducationalWork/SchoolProjects'))
+      },
+      {
+        exact: true,
         path: '/psychologist-pupils',
         component: lazy(() => import('./views/main/PsychologicalService/PracticalPsychologist/PsychologistPupils'))
       },

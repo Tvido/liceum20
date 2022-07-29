@@ -301,15 +301,15 @@ const Main = () => {
             </Card.Header>
             <Card.Body>
               <blockquote>
-                 <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/17_WP7Tz6JamaTYDcDldUA7ocNfHQWjlg/edit">
-                <div className="section__box">
-                  <div className="section__content">
-                    <h3>Клікни, щоби читати</h3>
+                <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/17_WP7Tz6JamaTYDcDldUA7ocNfHQWjlg/edit">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
 
-                    <p>ДІЇ УЧАСНИКІВ ОСВІТНЬОГО ПРОЦЕСУ У РАЗІ ВИНИКНЕННЯ ЧИ ЗАГРОЗИ ВИНИКНЕННЯ НАДЗВИЧАЙНИХ СИТУАЦІЙ</p>
+                      <p>ДІЇ УЧАСНИКІВ ОСВІТНЬОГО ПРОЦЕСУ У РАЗІ ВИНИКНЕННЯ ЧИ ЗАГРОЗИ ВИНИКНЕННЯ НАДЗВИЧАЙНИХ СИТУАЦІЙ</p>
+                    </div>
                   </div>
-                </div>
-              </a>
+                </a>
               </blockquote>
 
               <blockquote>
