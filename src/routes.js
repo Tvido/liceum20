@@ -211,11 +211,30 @@ const routes = [
       },
 
       // Виховна робота
-
+      {
+        exact: true,
+        path: '/kruty',
+        component: lazy(() => import('./views/main/EducationalWork/Library/EducationalActivities/Kruty'))
+      },
       {
         exact: true,
         path: '/take-care-of-the-book',
         component: lazy(() => import('./views/main/EducationalWork/Library/EducationalActivities/TakeCareOfTheBook'))
+      },
+      {
+        exact: true,
+        path: '/week-of-books',
+        component: lazy(() => import('./views/main/EducationalWork/Library/EducationalActivities/WeekOfBooks'))
+      },
+      {
+        exact: true,
+        path: '/workshop',
+        component: lazy(() => import('./views/main/EducationalWork/Library/EducationalActivities/Workshop'))
+      },
+      {
+        exact: true,
+        path: '/embroidered-shirts',
+        component: lazy(() => import('./views/main/EducationalWork/Library/AestheticEducation/EmbroideredShirts'))
       },
       {
         exact: true,

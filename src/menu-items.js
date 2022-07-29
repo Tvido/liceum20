@@ -104,16 +104,10 @@ const menuItems = {
               type: 'item',
               url: '/subject-weeks'
             }
-            // {
-            //   id: 'methodical-decades',
-            //   title: 'Методичні декади',
-            //   type: 'item',
-            //   url: '/methodical-decades'
-            // }
           ]
         },
         {
-          id: 'educational-activities',
+          id: 'educational-activity',
           title: 'Виховна робота',
           type: 'collapse',
           icon: 'feather icon-box',
