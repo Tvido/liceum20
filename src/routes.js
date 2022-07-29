@@ -251,6 +251,22 @@ const routes = [
         path: '/shevchenko-days',
         component: lazy(() => import('./views/main/EducationalWork/Library/AestheticEducation/ShevchenkoDays'))
       },
+
+      {
+        exact: true,
+        path: '/museum-of-the-heavenly-hundred',
+        component: lazy(() => import('./views/main/EducationalWork/Library/PatrioticEducation/MuseumOfTheHeavenlyHundred'))
+      },
+      {
+        exact: true,
+        path: '/manyava-skete',
+        component: lazy(() => import('./views/main/EducationalWork/Library/PatrioticEducation/ManyavaSkete'))
+      },
+      {
+        exact: true,
+        path: '/info-library',
+        component: lazy(() => import('./views/main/EducationalWork/Library/InfoLibrary'))
+      },
       {
         exact: true,
         path: '/physical-culture-protection-of-ukraine-basics-of-health',

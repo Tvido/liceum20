@@ -199,6 +199,12 @@ const menuItems = {
                   ]
                 },
                 {
+                  id: 'info-library',
+                  title: 'Бібліотека-інфо',
+                  type: 'item',
+                  url: '/info-library'
+                },
+                {
                   id: 'all-ukrainian-monthly',
                   title: 'Всеукраїнський місячник',
                   type: 'item',
