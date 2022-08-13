@@ -55,6 +55,11 @@ File: style.css
 
 @import 'partials/third-party/third-party';
 
+.blabla {
+  color: $menu-dark-background;
+  font-weight: bold;
+}
+
 article {
   margin: 1rem
 }

@@ -3,6 +3,7 @@ import React from 'react';
 const Food = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a
           target="_blank"
@@ -46,6 +47,8 @@ const Food = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

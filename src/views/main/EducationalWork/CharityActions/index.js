@@ -24,7 +24,7 @@ import two7 from './two7.jpg'
 const CharityActions = () => {
   return (
     <React.Fragment>
-
+<div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -192,6 +192,7 @@ const CharityActions = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

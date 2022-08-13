@@ -25,7 +25,7 @@ const NavLeft = () => {
     <React.Fragment>
       <ListGroup as="ul" bsPrefix=" " className="navbar-nav mr-auto">
         <ListGroup.Item as="li" bsPrefix=" " className={navItemClass.join(' ')}>
-          <h3>Ліцей №20 Івано-Франківської міської ради</h3>
+          <h3 className="blabla">Ліцей №20 Івано-Франківської міської ради</h3>
 
           {/* <Dropdown alignRight={dropdownRightAlign}>
             <Dropdown.Toggle variant={'link'} id="dropdown-basic">

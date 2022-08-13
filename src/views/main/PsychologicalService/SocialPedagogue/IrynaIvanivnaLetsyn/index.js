@@ -7,6 +7,7 @@ import three from './3.jpg'
 const IrynaIvanivnaLetsyn = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -21,12 +22,6 @@ const IrynaIvanivnaLetsyn = () => {
               </blockquote>
 
               <blockquote className="blockquote text-right">
-                 {/* <Card.Text className="mb-2">
-                  <a target="_blank" rel="noreferrer" href="https://psychologisttomun.blogspot.com/?fbclid=IwAR1wp84WZBJqE0TQ2Oue5uqbwI93oFCtfFFgPboYVu_9UCrvfPQhBNqXyh0">
-                    Блог Томин Марії Степанівни
-                  </a>
-                </Card.Text> */}
-
                 <footer className="blockquote-footer">
                   <cite title="Source Title">Телефон: 0954603292</cite>
                 </footer>
@@ -77,23 +72,11 @@ const IrynaIvanivnaLetsyn = () => {
                 </div>
               </blockquote>
 
-              {/* <blockquote className="blockquote text-right">
-                <footer className="blockquote-footer">
-                  <cite title="Source Title">Телефон: 0954603292</cite>
-                </footer>
-                
-                <footer className="blockquote-footer">
-                  <cite title="Source Title">Email: letsyn1984@gmail.com</cite>
-                </footer>
-                
-                <footer className="blockquote-footer">
-                  <cite title="Source Title">Email: irynaivanyvna@gmail.com</cite>
-                </footer>
-              </blockquote> */}
             </Card.Body>
           </Card>
         </Col>
       </div>
+        </div>
 
 
     </React.Fragment>

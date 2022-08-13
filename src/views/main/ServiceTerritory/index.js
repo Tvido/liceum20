@@ -3,6 +3,7 @@ import React from 'react';
 const ServiceTerritory = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1TORckMk2qDm6pQbwLET5a_SRVaUbbh_J/view">
           <div className="section__box">
@@ -44,6 +45,8 @@ const ServiceTerritory = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

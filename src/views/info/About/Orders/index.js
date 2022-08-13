@@ -3,6 +3,7 @@ import React from 'react';
 const Orders = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1hFSy3XlGON4uO6cmBmRQMsNTwcXIFdcc/view">
           <div className="section__box">
@@ -54,6 +55,8 @@ const Orders = () => {
           <p>Дмитро Скиданчук</p>
         </article>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

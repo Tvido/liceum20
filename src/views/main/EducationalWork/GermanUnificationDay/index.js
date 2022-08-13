@@ -8,6 +8,7 @@ import four from './four.jpg'
 const GermanUnificationDay = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>День об’єднання Німеччини</h5>
 
       <div className="cardWrapper">
@@ -47,6 +48,8 @@ const GermanUnificationDay = () => {
           </Card>
         </Col>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

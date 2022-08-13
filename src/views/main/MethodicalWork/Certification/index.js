@@ -4,6 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const Certification = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Атестація</h5>
 
       <Card.Body>
@@ -80,6 +81,8 @@ const Certification = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

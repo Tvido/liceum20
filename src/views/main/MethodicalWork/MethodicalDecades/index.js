@@ -5,6 +5,7 @@ import tizhden_bezpeki from './tizhden_bezpeki.jpg'
 const MethodicalDecades = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -29,6 +30,7 @@ const MethodicalDecades = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

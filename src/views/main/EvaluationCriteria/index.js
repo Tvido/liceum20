@@ -3,6 +3,7 @@ import React from 'react';
 const EvaluationCriteria = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lY2dWhckrbnzhQnfDKm4EAI3xOiKj0s9/view">
           <div className="section__box">
@@ -192,6 +193,8 @@ const EvaluationCriteria = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

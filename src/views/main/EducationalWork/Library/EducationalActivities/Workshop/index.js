@@ -12,7 +12,7 @@ import seven from './seven.jpg'
 const Workshop = () => {
   return (
     <React.Fragment>
-
+<div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -78,6 +78,7 @@ const Workshop = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

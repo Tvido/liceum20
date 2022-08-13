@@ -6,7 +6,7 @@ import one from './one.jpg'
 const MuseumOfTheHeavenlyHundred = () => {
   return (
     <React.Fragment>
-
+<div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -25,6 +25,7 @@ const MuseumOfTheHeavenlyHundred = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

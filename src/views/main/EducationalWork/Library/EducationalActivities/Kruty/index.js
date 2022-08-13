@@ -8,6 +8,7 @@ import three from './three.jpg'
 const Kruty = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Виховний захід присвячений “Пам’яті героїв Крут”</h5>
       <p>7(11)-А; 7(11)-Б класах, класні керівники: Хибінь О.З., Ванзіляк Н.М.</p>
 
@@ -45,6 +46,7 @@ const Kruty = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

@@ -9,6 +9,7 @@ import four from './four.png'
 const MusicalArt = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Керівники:</h5>
       <p>Протас Л.О., учитель  музичного мистецтва</p>
       <p>Тимків Х.П., учитель музичного мистецтва</p>
@@ -51,6 +52,7 @@ const MusicalArt = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

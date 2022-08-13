@@ -4,6 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const AestheticDisciplines = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Методичне об’єднання вчителів естетичних дисциплін, трудового навчання</h5>
 
       <Card.Body>
@@ -77,6 +78,8 @@ const AestheticDisciplines = () => {
           </tbody>
         </Table>
       </Card.Body>
+        </div>
+
     </React.Fragment>
   );
 };

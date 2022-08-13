@@ -3,7 +3,8 @@ import React from 'react';
 const TermsOfAvailability = () => {
   return (
     <React.Fragment>
-      <div className="article">
+      <div class="article__wrapper">
+        <div className="article">
         <article>
           <h6>Етапи розвитку навчального закладу:</h6>
 
@@ -62,6 +63,8 @@ const TermsOfAvailability = () => {
           </ul>
         </article>
       </div>
+        </div>
+      
     </React.Fragment>
   );
 };

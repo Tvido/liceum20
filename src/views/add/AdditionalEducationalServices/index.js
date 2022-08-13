@@ -3,7 +3,9 @@ import React from 'react';
 const AdditionalEducationalServices = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <p>З 2020 року додаткові освітні послуги у Ліцеї №20 Івано-Франківської міської ради не надаються.</p>
+      
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1dVP6s7GYfs6ixexgwfuUAzL3Bc_TKxE9/view">
           <div className="section__box">
@@ -34,6 +36,8 @@ const AdditionalEducationalServices = () => {
             </div>
           </div>
         </a>
+      </div>
+
       </div>
     </React.Fragment>
   );

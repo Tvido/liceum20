@@ -5,6 +5,7 @@ import { Row, Col, Card, Table } from 'react-bootstrap';
 const LibraryLessons = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" href="https://www.youtube.com/watch?v=Lb3HB1M259s" rel="noreferrer">
           <div className="section__box">
@@ -16,6 +17,8 @@ const LibraryLessons = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

@@ -8,8 +8,7 @@ import four from './four.jpg'
 const Bullying = () => {
   return (
     <React.Fragment>
-    <React.Fragment>
-
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=6m8YK6vldYI&app=desktop">
           <div className="section__box">
@@ -109,7 +108,8 @@ const Bullying = () => {
           </Card>
         </Col>
       </div>
-    </React.Fragment>
+        </div>
+
     </React.Fragment>
   );
 };

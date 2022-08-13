@@ -12,6 +12,7 @@ import eight from './eight.jpg'
 const RulesOfBehaviorOnTheInternet = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=1ozgrqHBqjQ&ab_channel=DialogHub">
           <div className="section__box">
@@ -90,6 +91,8 @@ const RulesOfBehaviorOnTheInternet = () => {
           </Card>
         </Col>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

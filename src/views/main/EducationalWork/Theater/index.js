@@ -8,6 +8,7 @@ import three from './three.jpg'
 const Theater = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Оксана Хибінь, керівник літературно-драматичного театру “Первоцвіт”</h5>
 
       <div className="cardWrapper">
@@ -40,6 +41,7 @@ const Theater = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

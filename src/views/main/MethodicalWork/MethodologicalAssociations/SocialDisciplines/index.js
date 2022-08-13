@@ -4,6 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const SocialDisciplines = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Методичного об’єднання вчителів історії, права, християнської етики</h5>
 
       <Card.Body>
@@ -35,6 +36,8 @@ const SocialDisciplines = () => {
           </tbody>
         </Table>
       </Card.Body>
+        </div>
+
     </React.Fragment>
   );
 };

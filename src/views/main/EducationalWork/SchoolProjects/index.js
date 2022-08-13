@@ -10,7 +10,7 @@ import three from './three.jpg'
 const SchoolProjects = () => {
   return (
     <React.Fragment>
-
+<div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -80,6 +80,8 @@ const SchoolProjects = () => {
           </Card>
         </Col>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

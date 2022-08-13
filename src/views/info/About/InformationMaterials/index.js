@@ -7,6 +7,7 @@ import gig_rules from './gig_rules.jpg'
 const InformationMaterials = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -116,6 +117,8 @@ const InformationMaterials = () => {
           </Card>
         </Col>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

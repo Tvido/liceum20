@@ -4,6 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const ClassLeaders = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Методичне об’єднання класних керівників</h5>
 
       <Card.Body>
@@ -171,6 +172,8 @@ const ClassLeaders = () => {
           </tbody>
         </Table>
       </Card.Body>
+        </div>
+
     </React.Fragment>
   );
 };

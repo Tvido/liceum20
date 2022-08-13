@@ -3,6 +3,7 @@ import React from 'react';
 const InternetSecurity = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Дорогі батьки! Зверніть, будь ласка, свою увагу!</h5>
 
         <p>Діти проводять в Інтернеті все більше часу.</p>
@@ -60,6 +61,8 @@ const InternetSecurity = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

@@ -3,6 +3,7 @@ import React from 'react';
 const TakeCareOfTheBook = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/16DzBMF89g5HyPQm0yCn2b8oqRLs8v8rs/edit">
           <div className="section__box">
@@ -28,6 +29,8 @@ const TakeCareOfTheBook = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

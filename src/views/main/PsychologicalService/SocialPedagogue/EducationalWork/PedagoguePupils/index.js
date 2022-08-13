@@ -3,6 +3,7 @@ import React from 'react';
 const PsychologistPupils = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="article">
         <article>
           <h5>Примірний перелік організацій та установ, служб підтримки постраждалих осіб, до яких слід звернутися у випадку домашнього насильства</h5>
@@ -87,6 +88,8 @@ const PsychologistPupils = () => {
 
         </article>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

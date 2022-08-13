@@ -36,7 +36,11 @@ const routes = [
         path: '/main',
         component: lazy(() => import('./views/main/Main'))
       },
-
+      {
+        exact: true,
+        path: '/digest',
+        component: lazy(() => import('./views/main/Digest'))
+      },
       // Методична робота
       {
         exact: true,
@@ -128,6 +132,11 @@ const routes = [
         path: '/school-projects',
         component: lazy(() => import('./views/main/EducationalWork/SchoolProjects'))
       },
+            {
+        exact: true,
+        path: '/maria-stepanivna-tomin',
+        component: lazy(() => import('./views/main/PsychologicalService/PracticalPsychologist/MariaStepanivnaTomyn'))
+      },
       {
         exact: true,
         path: '/psychologist-pupils',
@@ -153,7 +162,7 @@ const routes = [
         exact: true,
         path: '/pedagogue-pupils',
         component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/EducationalWork/PedagoguePupils'))
-      },      
+      },
       {
         exact: true,
         path: '/pedagogue-parents',
@@ -163,7 +172,7 @@ const routes = [
         exact: true,
         path: '/pedagogue-teachers',
         component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/EducationalWork/PedagogueTeachers'))
-      },      
+      },
       {
         exact: true,
         path: '/preventive-pupils',
@@ -188,7 +197,7 @@ const routes = [
         exact: true,
         path: '/career-orientation',
         component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/CareerOrientation'))
-      },      
+      },
       {
         exact: true,
         path: '/rules-of-behavior-on-the-internet',
@@ -477,7 +486,7 @@ const routes = [
         exact: true,
         path: '/information-materials',
         component: lazy(() => import('./views/info/About/InformationMaterials'))
-      },  
+      },
       {
         exact: true,
         path: '/material-and-technical-support',
@@ -505,7 +514,11 @@ const routes = [
       },
 
       // Додатково
-
+      {
+        exact: true,
+        path: '/charity-fund',
+        component: lazy(() => import('./views/add/CharityFund'))
+      },
       {
         exact: true,
         path: '/terms-of-availability',

@@ -9,7 +9,7 @@ import { ConfigProvider } from './contexts/ConfigContext';
 
 import './index.scss';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+// import reportWebVitals from './reportWebVitals';
 import store from './store';
 
 ReactDOM.render(
@@ -21,4 +21,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-reportWebVitals();
+// reportWebVitals();

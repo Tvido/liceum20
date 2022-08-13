@@ -3,6 +3,7 @@ import React from 'react';
 const PsychologistPupils = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="article">
         <article>
           <h5>Як готуватися до іспитів</h5>
@@ -114,6 +115,8 @@ const PsychologistPupils = () => {
           </ul>
         </article>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

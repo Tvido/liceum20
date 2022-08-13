@@ -4,6 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const ForeignLanguages = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Методичне об’єднання вчителів іноземних мов</h5>
 
       <Card.Body>
@@ -101,6 +102,8 @@ const ForeignLanguages = () => {
           </tbody>
         </Table>
       </Card.Body>
+        </div>
+
     </React.Fragment>
   );
 };

@@ -9,6 +9,7 @@ import four from './four.png'
 const Certification = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Розклад гурткових занять у Ліцеї № 20 на 2020-2021 н.р.</h5>
 
       <Card.Body>
@@ -236,6 +237,7 @@ const Certification = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
 
     </React.Fragment>

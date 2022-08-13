@@ -9,7 +9,7 @@ import one2 from './one2.jpg'
 const UkrainianVespers = () => {
   return (
     <React.Fragment>
-
+<div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -56,6 +56,7 @@ const UkrainianVespers = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

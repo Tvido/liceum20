@@ -3,6 +3,7 @@ import React from 'react';
 const MaterialAndTechnicalSupport = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1mCGsgBcJqKSr5HEr67KGl_d90li3HmFc/view">
           <div className="section__box">
@@ -14,6 +15,8 @@ const MaterialAndTechnicalSupport = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

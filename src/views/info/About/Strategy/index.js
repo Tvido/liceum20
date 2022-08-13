@@ -3,7 +3,8 @@ import React from 'react';
 const Strategy = () => {
   return (
     <React.Fragment>
-      <div className="section__grid">
+      <div class="article__wrapper">
+        <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1neM3yuNe9cJgT0U7UfBY6KHTTi300fHD/view">
           <div className="section__box">
             <div className="section__content">
@@ -14,6 +15,8 @@ const Strategy = () => {
           </div>
         </a>
       </div>
+        </div>
+      
     </React.Fragment>
   );
 };

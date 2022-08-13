@@ -4,6 +4,11 @@ import { Card, Table } from 'react-bootstrap';
 const AnnualPlan = () => {
   return (
     <React.Fragment>
+        <div class="article__wrapper">
+        </div>
+
+
+      <div class="article__wrapper">
       <h5>РІЧНИЙ ПЛАН Ліцею №20 Івано-Франківської міської ради Івано-Франківської області на 2020/2021 навчальний рік</h5>
 
       <div className="terms__link">
@@ -156,6 +161,8 @@ const AnnualPlan = () => {
           </p>
         </article>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

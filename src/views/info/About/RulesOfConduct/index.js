@@ -3,6 +3,7 @@ import React from 'react';
 const RulesOfConduct = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <p>Учителя англійської мови (початкова школа).</p>
       <div className="section__grid">
 
@@ -26,6 +27,8 @@ const RulesOfConduct = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

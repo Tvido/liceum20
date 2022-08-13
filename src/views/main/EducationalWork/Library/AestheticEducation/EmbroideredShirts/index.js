@@ -18,7 +18,7 @@ import one12 from './one12.jpg'
 const EmbroideredShirts = () => {
   return (
     <React.Fragment>
-
+<div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -133,6 +133,7 @@ const EmbroideredShirts = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

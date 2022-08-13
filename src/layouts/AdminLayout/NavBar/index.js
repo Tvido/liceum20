@@ -1,8 +1,8 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import logo from './20.png'
 
 import NavLeft from './NavLeft';
-// import NavRight from './NavRight';
 
 import { ConfigContext } from '../../../contexts/ConfigContext';
 import * as actionType from '../../../store/actions';
@@ -45,7 +45,7 @@ const NavBar = () => {
         </Link>
         <Link to="#" className="b-brand">
           <div className="b-bg">
-            <i className="feather icon-trending-up" />
+            <img src={logo} alt="" className="cardHero" />
           </div>
           <span className="b-title">Ліцей №20</span>
         </Link>

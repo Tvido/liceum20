@@ -3,6 +3,7 @@ import React from 'react';
 const InternalSystemOfEnsuring = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="terms__link">
         <a target="_blank" href="https://drive.google.com/file/d/14ZbCY48IhXJT92Wia0fgZDprFmZCBj6Z/view" rel="noreferrer">
           Читати увесь документ
@@ -95,6 +96,8 @@ const InternalSystemOfEnsuring = () => {
           </ul>
         </article>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

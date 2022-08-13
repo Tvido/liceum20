@@ -14,7 +14,7 @@ import nine from './nine.jpg'
 const Covid = () => {
   return (
     <React.Fragment>
-
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=udiZNk018jA">
           <div className="section__box">
@@ -88,6 +88,8 @@ const Covid = () => {
           </Card>
         </Col>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

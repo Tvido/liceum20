@@ -9,6 +9,7 @@ import shkilnyk from './shkilnyk.jpg'
 const Administration = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -136,6 +137,8 @@ const Administration = () => {
         </Col>
 
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

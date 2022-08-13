@@ -1,5 +1,26 @@
 @import 'assets/scss/style.scss';
 
+#root {
+  background-image: url(./bg.jpg);
+  background-size: cover;
+  position: fixed;
+  overflow: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.cardHero {
+  border-radius: 0.25rem;
+}
+
+.article__wrapper {
+  padding: 1rem;
+  background: rgba(249, 255, 251, .7);
+  border-radius: .25rem;
+}
+
 .nav-outside.mob-backdrop {
   &.mob-fixed .pcoded-navbar {
     z-index: 1032;

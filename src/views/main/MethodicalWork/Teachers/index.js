@@ -6,6 +6,7 @@ import teachers from './teachers.jpg'
 const Teachers = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Кількісний та якісний аналіз педагогічного складу Ліцею № 20 2020-2021</h5>
 
       <Card.Body>
@@ -198,6 +199,8 @@ const Teachers = () => {
           </tbody>
         </Table>
       </Card.Body>
+        </div>
+
     </React.Fragment>
   );
 };

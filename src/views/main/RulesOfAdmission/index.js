@@ -3,6 +3,7 @@ import React from 'react';
 const RulesOfAdmission = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1WUnO0QlJuFZldMQEiDqtyVTCWfVu7umg/view">
           <div className="section__box">
@@ -84,6 +85,8 @@ const RulesOfAdmission = () => {
           </div>
         </a>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

@@ -3,6 +3,7 @@ import React from 'react';
 const PedagogueParents = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/19nn0QLvpP2BAQobnSjlGqp1wYtVpLG15/view">
           <div className="section__box">
@@ -163,6 +164,7 @@ const PedagogueParents = () => {
             <li>Держава надає батькам і особам, які їх замінюють, допомогу у виконанні ними своїх обов’язків, захищає права сім’ї.</li>
 
           </ul>
+        </div>
 
 
     </React.Fragment>

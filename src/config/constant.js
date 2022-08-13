@@ -1,6 +1,6 @@
 export const BASENAME = ''; // don't add '/' at end off BASENAME
 export const BASE_URL = '/main';
-export const BASE_TITLE = ' Liceum 20';
+export const BASE_TITLE = ' Ліцей №20';
 
 export const CONFIG = {
   layout: 'vertical', // vertical, horizontal

@@ -3,6 +3,8 @@ import { Tabs, Tab, Card, Table } from 'react-bootstrap';
 
 const LessonsSchedule = () => {
   return <React.Fragment>
+        <div class="article__wrapper">
+
           <h5 classNameName="mt-4">Режими групи подовженого дня та розклад дзвінків</h5>
           <hr />
           <Tabs variant="pills" defaultActiveKey="1stclassName" classNameName="mb-3">
@@ -412,6 +414,8 @@ const LessonsSchedule = () => {
               </Card.Body>
               </Tab>
           </Tabs>
+        </div>
+
   </React.Fragment>;
 };
 

@@ -15,7 +15,7 @@ import one9 from './one9.jpg'
 const ShevchenkoDays = () => {
   return (
     <React.Fragment>
-
+<div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -106,6 +106,7 @@ const ShevchenkoDays = () => {
           </Card>
         </Col>
       </div>
+        </div>
 
     </React.Fragment>
   );

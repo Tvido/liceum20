@@ -7,6 +7,7 @@ import three from './three.jpg'
 const Naotsbsou = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <h5>Національна академія Державної прикордонної служби України</h5>
 
       <div className="cardWrapper">
@@ -38,6 +39,8 @@ const Naotsbsou = () => {
           </Card>
         </Col>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

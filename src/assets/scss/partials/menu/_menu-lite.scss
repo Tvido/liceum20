@@ -5,7 +5,6 @@
   align-items: center;
 
   .b-bg {
-    background: $theme-color;
     border-radius: 10px;
     width: 35px;
     height: 35px;
@@ -20,7 +19,7 @@
 
   .b-title {
     margin-left: 10px;
-    font-weight: 100;
+    font-weight: 700;
     color: #fff;
     font-size: 18px;
   }
@@ -838,7 +837,7 @@
   color: $menu-dark-text-color;
 
   .pcoded-submenu {
-    background: darken($header-dark-background, 3%);
+    background: darken($menu-dark-background, 3%);
     padding: 15px 0;
   }
 
@@ -848,6 +847,7 @@
 
   .navbar-content,
   .navbar-wrapper {
+    background: $menu-dark-background;    
     width: 100%;
     height: 100%;
   }
@@ -1090,7 +1090,7 @@
   }
 
   .pcoded-menu-caption {
-    color: #e8edf7;
+    color: #888;
   }
 
   .pcoded-inner-navbar {
@@ -1098,7 +1098,7 @@
       &.active,
       &:focus,
       &:hover {
-        color: #1dc4e9;
+        color: #6e6e6e;
       }
 
       .pcoded-submenu > li {
@@ -1579,7 +1579,7 @@
 /* ==========================    Rsponsive Menu  start   ====================== */
 @media only screen and (max-width: 991px) {
   .pcoded-header {
-    background: $header-dark-background;
+    background: $menu-dark-background;
     color: $header-dark-text-color;
 
     .input-group-text,
@@ -2940,7 +2940,10 @@ body {
 
   &.brand-default .header-logo,
   &[class*='navbar-'].brand-default .header-logo {
-    background: $menu-dark-background;
+    // background: $menu-dark-background;
+          background: $menu-dark-background;
+
+
   }
 }
 /* ====== [ Brand color end ] ======== */
@@ -3901,7 +3904,7 @@ body.layout-6 {
   }
 
   .pcoded-navbar .navbar-content {
-    background: #3f4d67;
+    background: $menu-dark-background;
     border-radius: 0 10px 0 0;
     box-shadow: 0 0 20px 0 #3f4d67;
   }

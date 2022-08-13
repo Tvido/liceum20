@@ -5,6 +5,7 @@ import tomyn from './tomyn.png'
 const MariaStepanivnaTomyn = () => {
   return (
     <React.Fragment>
+      <div class="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
@@ -37,6 +38,8 @@ const MariaStepanivnaTomyn = () => {
           </Card>
         </Col>
       </div>
+        </div>
+
     </React.Fragment>
   );
 };

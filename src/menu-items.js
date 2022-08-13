@@ -8,16 +8,23 @@ const menuItems = {
       children: [
         {
           id: 'main',
-          title: 'ГОЛОВНА',
+          title: 'Головна',
           type: 'item',
           url: '/main',
-          icon: 'feather icon-home'
+          icon: 'feather icon-hash'
+        },
+        {
+          id: 'digest',
+          title: 'Дайджест',
+          type: 'item',
+          url: '/digest',
+          icon: 'feather icon-hash'
         },
         {
           id: 'methodical-work',
           title: 'Методична робота',
           type: 'collapse',
-          icon: 'feather icon-box',
+          icon: 'feather icon-menu',
           children: [
             {
               id: 'methodological-associations',
@@ -110,7 +117,7 @@ const menuItems = {
           id: 'educational-activity',
           title: 'Виховна робота',
           type: 'collapse',
-          icon: 'feather icon-box',
+          icon: 'feather icon-menu',
           children: [
             {
               id: 'library',
@@ -189,7 +196,7 @@ const menuItems = {
                       title: 'Музей Небесної Сотні',
                       type: 'item',
                       url: '/museum-of-the-heavenly-hundred'
-                    },
+                    }
                   ]
                 },
                 {
@@ -272,7 +279,7 @@ const menuItems = {
           id: 'psychological-service',
           title: 'Психологічна служба',
           type: 'collapse',
-          icon: 'feather icon-box',
+          icon: 'feather icon-menu',
           children: [
             {
               id: 'practical-psychologist',
@@ -399,14 +406,14 @@ const menuItems = {
           title: 'Територія обслуговування',
           type: 'item',
           url: '/service-territory',
-          icon: 'feather icon-server'
+          icon: 'feather icon-hash',
         },
         {
           id: 'rules-of-admission',
           title: 'Правила прийому до ЗО',
           type: 'item',
           url: '/rules-of-admission',
-          icon: 'feather icon-map'
+          icon: 'feather icon-hash',
         },
         {
           id: 'educational-programs',
@@ -414,14 +421,14 @@ const menuItems = {
           type: 'item',
           url: '/educational-programs',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-hash',
         },
         {
           id: 'evaluation-criteria',
           title: 'Критерії оцінювання',
           type: 'item',
           url: '/evaluation-criteria',
-          icon: 'feather icon-server'
+          icon: 'feather icon-hash',
         },
         {
           //
@@ -429,7 +436,7 @@ const menuItems = {
           title: 'Річний план',
           type: 'item',
           url: '/annual-plan',
-          icon: 'feather icon-map'
+          icon: 'feather icon-hash',
         },
         {
           id: 'annual-report',
@@ -437,21 +444,21 @@ const menuItems = {
           type: 'item',
           url: '/annual-report',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-hash',
         },
         {
           id: 'estimates-and-financial-statements',
           title: 'Кошторис та фінансова звітність',
           type: 'item',
           url: '/estimates-and-financial-statements',
-          icon: 'feather icon-server'
+          icon: 'feather icon-hash',
         },
         {
           id: 'food',
           title: 'Харчування',
           type: 'item',
           url: '/food',
-          icon: 'feather icon-map'
+          icon: 'feather icon-hash',
         },
         {
           id: 'bullying',
@@ -459,7 +466,7 @@ const menuItems = {
           type: 'item',
           url: '/bullying',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-hash',
         },
         {
           id: 'covid',
@@ -467,7 +474,7 @@ const menuItems = {
           type: 'item',
           url: '/covid',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-hash',
         }
       ]
     },
@@ -483,7 +490,7 @@ const menuItems = {
           type: 'item',
           url: '/lessons-schedule',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-info',
         },
         {
           id: 'contacts',
@@ -491,7 +498,7 @@ const menuItems = {
           type: 'item',
           url: '/contacts',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-info',
         },
         {
           id: 'about-the-lyceum',
@@ -587,13 +594,21 @@ const menuItems = {
       type: 'group',
       icon: 'icon-pages',
       children: [
+                {
+          id: 'charity-fund',
+          title: 'Благодійний Фонд "ЗГАРДА"',
+          type: 'item',
+          url: '/charity-fund',
+          classes: 'nav-item',
+          icon: 'feather icon-paperclip',
+        },
         {
           id: 'terms-of-availability',
           title: 'Умови доступності ЗО',
           type: 'item',
           url: '/terms-of-availability',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-paperclip',
         },
         {
           id: 'memorandum-on-cooperation',
@@ -601,7 +616,7 @@ const menuItems = {
           type: 'item',
           url: '/memorandum-on-cooperation',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-paperclip',
         },
         {
           id: 'additional-educational-services',
@@ -609,7 +624,7 @@ const menuItems = {
           type: 'item',
           url: '/additional-educational-services',
           classes: 'nav-item',
-          icon: 'feather icon-sidebar'
+          icon: 'feather icon-paperclip',
         }
       ]
     },
