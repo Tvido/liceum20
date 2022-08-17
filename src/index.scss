@@ -11,6 +11,18 @@
   bottom: 0;
 }
 
+@media only screen and (min-width: 660px) {
+  #root {
+    background-image: url(./bg-mid.jpg);
+    }
+}
+
+@media only screen and (min-width: 880px) {
+  #root {
+    background-image: url(./bg-large.jpg);
+    }
+}
+
 .cardHero {
   border-radius: 0.25rem;
 }
