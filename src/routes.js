@@ -33,7 +33,7 @@ const routes = [
     routes: [
       {
         exact: true,
-        path: '/main',
+        path: '/',
         component: lazy(() => import('./views/main/Main'))
       },
       {

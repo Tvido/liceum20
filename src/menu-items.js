@@ -10,7 +10,7 @@ const menuItems = {
           id: 'main',
           title: 'Головна',
           type: 'item',
-          url: '/main',
+          url: '/',
           icon: 'feather icon-hash'
         },
         {
