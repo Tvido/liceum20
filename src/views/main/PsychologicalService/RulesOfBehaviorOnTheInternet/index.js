@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import one from './one.jpg'
 import two from './two.jpg'
 import three from './three.jpg'
@@ -12,7 +12,7 @@ import eight from './eight.jpg'
 const RulesOfBehaviorOnTheInternet = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=1ozgrqHBqjQ&ab_channel=DialogHub">
           <div className="section__box">

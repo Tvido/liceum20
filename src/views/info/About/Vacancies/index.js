@@ -3,7 +3,7 @@ import React from 'react';
 const Vacancies = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <p>Вакансія учителя англійської мови (початкова школа).</p>
       <div className="section__grid">
 

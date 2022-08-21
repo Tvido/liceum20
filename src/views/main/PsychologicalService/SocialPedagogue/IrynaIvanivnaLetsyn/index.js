@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import one from './1.jpg'
 import two from './2.jpg'
 import three from './3.jpg'
@@ -7,7 +7,7 @@ import three from './3.jpg'
 const IrynaIvanivnaLetsyn = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>

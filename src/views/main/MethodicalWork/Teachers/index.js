@@ -1,12 +1,12 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card, Table } from 'react-bootstrap';
 
 import teachers from './teachers.jpg'
 
 const Teachers = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Кількісний та якісний аналіз педагогічного складу Ліцею № 20 2020-2021</h5>
 
       <Card.Body>

@@ -3,7 +3,7 @@ import React from 'react';
 const PsychologistParents = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="article">
         <article>
           <h5>Скільки часу необхідно приділяти спілкуванню з дитиною?</h5>

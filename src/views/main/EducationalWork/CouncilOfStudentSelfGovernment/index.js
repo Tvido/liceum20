@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card, Table } from 'react-bootstrap';
 
 import one from './one.png'
 import two from './two.jpg'
@@ -15,7 +15,7 @@ import ten from './ten.jpg'
 const CouncilOfStudentSelfGovernment = () => {
   return (
     <React.Fragment>
-<div class="article__wrapper">
+<div className="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1iTbgsh3it4Kg85WY1gBuCqTTRDpbrwrH/view">
           <div className="section__box">

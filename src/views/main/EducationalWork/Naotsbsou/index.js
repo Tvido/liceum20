@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import one from './one.jpg'
 import two from './two.jpg'
 import three from './three.jpg'
@@ -7,7 +7,7 @@ import three from './three.jpg'
 const Naotsbsou = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Національна академія Державної прикордонної служби України</h5>
 
       <div className="cardWrapper">

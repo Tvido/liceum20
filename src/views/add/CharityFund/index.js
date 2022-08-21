@@ -3,7 +3,7 @@ import React from 'react';
 const CharityFund = () => {
   return (
       <React.Fragment>
-        <div class="article__wrapper">
+        <div className="article__wrapper">
           <h5>Звіт благодійного фонду</h5>
 
           <div className="section__grid">

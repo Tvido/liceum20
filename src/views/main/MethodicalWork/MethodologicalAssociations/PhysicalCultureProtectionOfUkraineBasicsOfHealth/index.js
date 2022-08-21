@@ -4,7 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const PhysicalCultureProtectionOfUkraineBasicsOfHealth = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Методичне об’єднання вчителів фізичної культури , предмета “Захист України”, основ здоров’я</h5>
 
       <Card.Body>

@@ -3,7 +3,7 @@ import React from 'react';
 const RulesOfConduct = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <p>Учителя англійської мови (початкова школа).</p>
       <div className="section__grid">
 

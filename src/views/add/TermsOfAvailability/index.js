@@ -3,7 +3,7 @@ import React from 'react';
 const TermsOfAvailability = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
         <div className="terms__link">
           <a target="_blank" href="https://drive.google.com/file/d/1DHFxgBIVFdbvSa-Wy25CjXmWgSwsQhux/view" rel="noreferrer">
             Читати статтю 26 ЗУ “Про повну загальну середню освіту”

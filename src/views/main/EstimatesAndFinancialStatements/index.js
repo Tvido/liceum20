@@ -3,7 +3,7 @@ import React from 'react';
 const EstimatesAndFinancialStatements = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>КОШТОРИС</h5>
 
       <div className="section__grid">

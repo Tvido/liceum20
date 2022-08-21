@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 
 import one from './one.jpg'
 import two from './two.jpg'
@@ -9,7 +9,7 @@ import four from './four.png'
 const MusicalArt = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Керівники:</h5>
       <p>Протас Л.О., учитель  музичного мистецтва</p>
       <p>Тимків Х.П., учитель музичного мистецтва</p>

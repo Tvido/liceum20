@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import scheme from './scheme.png'
 import security_rules from './security_rules.jpg'
 import gig_rules from './gig_rules.jpg'
@@ -7,7 +7,7 @@ import gig_rules from './gig_rules.jpg'
 const InformationMaterials = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>

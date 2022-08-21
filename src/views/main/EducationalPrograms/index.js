@@ -3,7 +3,7 @@ import React from 'react';
 const EducationalPrograms = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="section__grid">
         <a target="_blank" href="https://drive.google.com/file/d/1iDb4siZJUbAeWRoglrncJ1SOwHV5l-Cb/view" rel="noreferrer">
           <div className="section__box">

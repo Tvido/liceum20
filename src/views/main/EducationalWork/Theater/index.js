@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 
 import one from './one.jpg'
 import two from './two.jpg'
@@ -8,7 +8,7 @@ import three from './three.jpg'
 const Theater = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Оксана Хибінь, керівник літературно-драматичного театру “Первоцвіт”</h5>
 
       <div className="cardWrapper">

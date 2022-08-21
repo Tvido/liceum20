@@ -3,7 +3,7 @@ import React from 'react';
 const PsychologistTeachers = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="article">
         <article>
           <h5>Сім способів зняти стрес і поліпшити настрій</h5>

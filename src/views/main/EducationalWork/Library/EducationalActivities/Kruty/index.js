@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 
 import one from './one.jpg'
 import two from './two.jpg'
@@ -8,7 +8,7 @@ import three from './three.jpg'
 const Kruty = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Виховний захід присвячений “Пам’яті героїв Крут”</h5>
       <p>7(11)-А; 7(11)-Б класах, класні керівники: Хибінь О.З., Ванзіляк Н.М.</p>
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 
 import one from './one.jpg'
 import two from './two.jpg'
@@ -14,7 +14,7 @@ import nine from './nine.jpg'
 const Covid = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=udiZNk018jA">
           <div className="section__box">

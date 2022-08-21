@@ -4,7 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const ElementarySchool = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Методичне об’єднання вчителів математики, фізики, інформатики</h5>
 
       <Card.Body>

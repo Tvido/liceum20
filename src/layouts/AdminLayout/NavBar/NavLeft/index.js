@@ -1,5 +1,5 @@
 import React from 'react';
-import { ListGroup, Dropdown } from 'react-bootstrap';
+import { ListGroup } from 'react-bootstrap';
 // import { Link } from 'react-router-dom';
 
 import useWindowSize from '../../../../hooks/useWindowSize';

@@ -3,7 +3,7 @@ import React from 'react';
 const PreventivePupils = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Робота психологічної служби навчального закладу з попередження насильства серед дітей та учнівської молоді спрямована на:</h5>
 
       <ul>

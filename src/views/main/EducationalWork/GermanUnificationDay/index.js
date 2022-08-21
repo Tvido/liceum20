@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import one from './one.jpg'
 import two from './two.jpg'
 import three from './three.jpg'
@@ -8,7 +8,7 @@ import four from './four.jpg'
 const GermanUnificationDay = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>День об’єднання Німеччини</h5>
 
       <div className="cardWrapper">

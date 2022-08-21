@@ -4,7 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const HumanitarianDisciplines = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Методичне об’єднання вчителів української мови і літератури, зарубіжної літератури</h5>
 
       <Card.Body>

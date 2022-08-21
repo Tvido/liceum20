@@ -1,11 +1,11 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import tizhden_bezpeki from './tizhden_bezpeki.jpg'
 
 const MethodicalDecades = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>

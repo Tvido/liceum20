@@ -3,7 +3,7 @@ import React from 'react';
 const PreventiveTeachers = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Види соціальної профілактики насильства</h5>
 
       <p>Визначають такі основні види соціальної профілактики насильства у молодіжному середовищі: первинна, вторинна та третинна. Кожний з видів профілактики має свої особливості.</p>

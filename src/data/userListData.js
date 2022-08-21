@@ -48,8 +48,7 @@ const newPerson = () => {
           <div className="overlay-edit">
             <button type="button" className="btn btn-icon btn-success">
               <i className="feather icon-check-circle">
-                {' '}
-                <span className="sr-only" />{' '}
+                <span className="sr-only" />
               </i>
             </button>
             <button type="button" className="btn btn-icon btn-danger">
@@ -65,8 +64,7 @@ const newPerson = () => {
           <div className="overlay-edit">
             <button type="button" className="btn btn-icon btn-success">
               <i className="feather icon-check-circle">
-                {' '}
-                <span className="sr-only" />{' '}
+                <span className="sr-only" />
               </i>
             </button>
             <button type="button" className="btn btn-icon btn-danger">
@@ -82,8 +80,7 @@ const newPerson = () => {
           <div className="overlay-edit">
             <button type="button" className="btn btn-icon btn-success">
               <i className="feather icon-check-circle">
-                {' '}
-                <span className="sr-only" />{' '}
+                <span className="sr-only" />
               </i>
             </button>
             <button type="button" className="btn btn-icon btn-danger">

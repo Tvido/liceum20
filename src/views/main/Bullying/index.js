@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import one from './one.png'
 import two from './two.jpg'
 import three from './three.jpg'
@@ -8,7 +8,7 @@ import four from './four.jpg'
 const Bullying = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="section__grid">
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=6m8YK6vldYI&app=desktop">
           <div className="section__box">

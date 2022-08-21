@@ -4,7 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const NaturalDisciplines = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Методичне об’єднання вчителів географії, біології, хімії</h5>
 
       <Card.Body>

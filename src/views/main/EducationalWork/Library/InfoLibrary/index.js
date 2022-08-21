@@ -1,11 +1,9 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
-
 
 const InfoLibrary = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="section__grid">
         <a target="_blank" href="https://docs.google.com/document/d/17XCCF-ouid27bTZ0V3ZOEAV7jXKmQ_us/edit?rtpof=true&sd=true" rel="noreferrer">
           <div className="section__box">

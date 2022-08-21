@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import algorithm from './algorithm_diy.png';
 import do_uvagu_batkiv from './do_uvagu_batkiv.png';
 import onlain_rejestraciya from './onlain_rejestraciya.jpg';
@@ -14,7 +14,7 @@ import nakaz_2 from './nakaz_2.jpeg';
 const Digest = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
         <div className="cardWrapper">
           <Col md={12}>
             <Card>

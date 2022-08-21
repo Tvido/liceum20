@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import skydanchuk from './skydanchuk.jpg'
 import grekul from './grekul.jpg'
 import filipovych from './filipovych.jpg'
@@ -9,7 +9,7 @@ import shkilnyk from './shkilnyk.jpg'
 const Administration = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <div className="cardWrapper">
         <Col md={12}>
           <Card>

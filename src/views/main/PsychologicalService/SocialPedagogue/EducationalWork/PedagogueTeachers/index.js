@@ -3,7 +3,7 @@ import React from 'react';
 const PedagogueTeachers = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Адміністративна відповідальність за булінг</h5>
 
       <div className="section__grid">

@@ -4,7 +4,7 @@ import { Card, Table } from 'react-bootstrap';
 const Certification = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Атестація</h5>
 
       <Card.Body>

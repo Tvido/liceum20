@@ -3,7 +3,7 @@ import React from 'react';
 const Courses = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Курси</h5>
 
       <h6>Мінімальні вимоги щодо обсягу (кількості годин) підвищення кваліфікації педагогічних працівників</h6>

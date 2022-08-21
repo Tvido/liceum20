@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 
 import one1 from './one1.jpg'
 import one2 from './one2.jpg'
@@ -19,7 +19,7 @@ import seven2 from './seven2.jpg'
 const WeekOfBooks = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Звіт про проведення Тижня дитячої та юнацької книги</h5>
       <p>НВК «Школа-гімназія №3» з 01.04.2019р. до 05.04.2019р. Під гаслом «Бібліотека: час змін – час дій!»</p>
 

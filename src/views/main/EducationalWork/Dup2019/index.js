@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import one from './one.jpg'
 import two from './two.jpg'
 import three from './three.jpg'
@@ -9,7 +9,7 @@ import five from './five.jpg'
 const Dup2019 = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>ДЮП-2019</h5>
 
       <p>18 квітня 2019р. на базі НВК “Школа-гімназія №3” відбувся завершальний (фінальний) етап міських змагань дружини юних пожежних на Кубок міського голови імені Романа Шухевича. Команда «Спалах» НВК «Школа-гімназія №3» у нелегкій боротьбі здобула I місце і отримала безліч чудових подарунків</p>

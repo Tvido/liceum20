@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, Card, Table } from 'react-bootstrap';
+import { Col, Card, Table } from 'react-bootstrap';
 
 import one from './one.png'
 import two from './two.png'
@@ -9,7 +9,7 @@ import four from './four.png'
 const Certification = () => {
   return (
     <React.Fragment>
-      <div class="article__wrapper">
+      <div className="article__wrapper">
       <h5>Розклад гурткових занять у Ліцеї № 20 на 2020-2021 н.р.</h5>
 
       <Card.Body>
