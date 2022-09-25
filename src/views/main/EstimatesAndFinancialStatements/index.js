@@ -264,6 +264,26 @@ const EstimatesAndFinancialStatements = () => {
             </div>
           </div>
         </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1YyZuIORLvX6Quxn99u3Px7toNW-XWKYS/view">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за липень 2022 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1C1YR-WcxtmxiU7DEU8l-90wINFkrjrLQ/view">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за серпень 2022 року</p>
+            </div>
+          </div>
+        </a>
       </div>
         </div>
 
