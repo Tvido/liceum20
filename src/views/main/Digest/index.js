@@ -29,7 +29,8 @@ const Digest = () => {
                     <img src={radiation_danger_1} alt="" className="cardHero" />
                   </div>
                 </blockquote>
-
+                  <br></br>
+                  <br></br>
                 <blockquote>
                   <div>
                     <img src={radiation_danger_2} alt="" className="cardHero" />
