@@ -10,8 +10,8 @@ import alert_2 from './alert_2.png';
 import attention from './attention.png';
 import nakaz_1 from './nakaz_1.jpeg';
 import nakaz_2 from './nakaz_2.jpeg';
-import radiation_danger-1 from './radiation_danger-1.jpg';
-import radiation_danger-2 from './radiation_danger-2.jpg';
+import radiation_danger_1 from './radiation_danger-1.jpg';
+import radiation_danger_2 from './radiation_danger-2.jpg';
 
 const Digest = () => {
   return (
@@ -26,13 +26,13 @@ const Digest = () => {
               <Card.Body>
                 <blockquote>
                   <div>
-                    <img src={radiation_danger-1} alt="" className="cardHero" />
+                    <img src={radiation_danger_1} alt="" className="cardHero" />
                   </div>
                 </blockquote>
 
                 <blockquote>
                   <div>
-                    <img src={radiation_danger-2} alt="" className="cardHero" />
+                    <img src={radiation_danger_2} alt="" className="cardHero" />
                   </div>
                 </blockquote>
 
