@@ -10,11 +10,43 @@ import alert_2 from './alert_2.png';
 import attention from './attention.png';
 import nakaz_1 from './nakaz_1.jpeg';
 import nakaz_2 from './nakaz_2.jpeg';
+import radiation_danger-1 from './radiation_danger-1.jpg';
+import radiation_danger-2 from './radiation_danger-2.jpg';
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">05.10.2022</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <img src={radiation_danger-1} alt="" className="cardHero" />
+                  </div>
+                </blockquote>
+
+                <blockquote>
+                  <div>
+                    <img src={radiation_danger-2} alt="" className="cardHero" />
+                  </div>
+                </blockquote>
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                    <cite title="Source Title">Будь ласка, уважно прочитайте і збережіть! Часом така проста інформація допомагає врятувати здоров‘я і навіть життя.
+Не панікуємо, віримо в ЗСУ і нашу неминучу перемогу!</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
+
         <div className="cardWrapper">
           <Col md={12}>
             <Card>
