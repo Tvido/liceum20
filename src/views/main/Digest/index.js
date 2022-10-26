@@ -12,11 +12,64 @@ import nakaz_1 from './nakaz_1.jpeg';
 import nakaz_2 from './nakaz_2.jpeg';
 import radiation_danger_1 from './radiation_danger-1.jpg';
 import radiation_danger_2 from './radiation_danger-2.jpg';
+import upa from './UPA.png';
+
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">26.10.2022</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <img src={upa} alt="" className="cardHero" />
+                  </div>
+                </blockquote>
+                  <br></br>
+                 
+                  <blockquote>
+                  <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1dh3e0Xb9y1ONrgO4PHH_-WVRVSMz5FyL/view?usp=sharing">
+                    <div className="section__box">
+                      <div className="section__content">
+                        <h3>Клікни, щоби читати</h3>
+
+                        <p>Інформаційні матеріали до 80-річчя УПА</p>
+                      </div>
+                    </div>
+                  </a>
+                </blockquote>
+                <br></br>
+                 
+                <blockquote>
+                  <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1QJJ0AtrqdUoP5nyfc0mPw-ehOr13r0QZ/view?usp=sharing">
+                    <div className="section__box">
+                      <div className="section__content">
+                        <h3>Клікни, щоби читати</h3>
+
+                        <p>Презентація до Дня захисників і захисниць України та 80 річчя Української повстанської армії </p>
+                      </div>
+                    </div>
+                  </a>
+                </blockquote>
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                    <cite title="Source Title">Інформаційні матеріали до 80-річчя Української повстанської армії
+та Дня захисників і захисниць України
+</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
+
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
@@ -39,7 +92,7 @@ const Digest = () => {
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
-                    <cite title="Source Title">Будь ласка, уважно прочитайте і збережіть! Часом така проста інформація допомагає врятувати здоров‘я і навіть життя.
+                    <cite title="Source Title">Будь ласка, уважно прочитайте і збережіть ! Часом така проста інформація допомагає врятувати здоров‘я і навіть життя.
 Не панікуємо, віримо в ЗСУ і нашу неминучу перемогу!</cite>
                   </footer>
                 </blockquote>
