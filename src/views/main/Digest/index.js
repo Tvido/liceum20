@@ -13,12 +13,40 @@ import nakaz_2 from './nakaz_2.jpeg';
 import radiation_danger_1 from './radiation_danger-1.jpg';
 import radiation_danger_2 from './radiation_danger-2.jpg';
 import upa from './UPA.png';
+import rozklad_gurtkiv from './rozklad-gurtkiv.png';
 
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">15.11.2022</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <a href="https://liceum20.com.ua/static/media/rozklad-gurtkiv.d80ec15e.png"><img src={rozklad_gurtkiv} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://liceum20.com.ua/static/media/rozklad-gurtkiv.d80ec15e.png"><cite title="Source Title">Розклад гуртків, які працюють на базі ліцею</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
+
+
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
