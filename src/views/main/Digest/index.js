@@ -14,12 +14,38 @@ import radiation_danger_1 from './radiation_danger-1.jpg';
 import radiation_danger_2 from './radiation_danger-2.jpg';
 import upa from './UPA.png';
 import rozklad_gurtkiv from './rozklad-gurtkiv.png';
+import mcdut_education from './mcdut_education.png';
 
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">16.11.2022</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <a href="https://docs.google.com/document/d/1a_vlZ6ZPLbU_HHo-_Lxx27hOvG6x3ag2/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true"><img src={mcdut_education} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://docs.google.com/document/d/1a_vlZ6ZPLbU_HHo-_Lxx27hOvG6x3ag2/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true"><cite title="Source Title">ІВАНО-ФРАНКІВСЬКИЙ МІСЬКИЙ ЦЕНТР ДИТЯЧОЇ ТА ЮНАЦЬКОЇ ТВОРЧОСТІ проводить набір на навчання у 2022-2023 навчальному році</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
 
       <div className="cardWrapper">
           <Col md={12}>
@@ -38,7 +64,7 @@ const Digest = () => {
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
-                  <a href="https://liceum20.com.ua/static/media/rozklad-gurtkiv.d80ec15e.png"><cite title="Source Title">Розклад гуртків, які працюють на базі ліцею</cite></a>
+                  <a href="https://liceum20.com.ua/circles"><cite title="Source Title">Розклад гуртків, які працюють на базі ліцею</cite></a>
                   </footer>
                 </blockquote>
               </Card.Body>
