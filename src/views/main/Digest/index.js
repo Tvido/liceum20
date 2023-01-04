@@ -15,12 +15,53 @@ import radiation_danger_2 from './radiation_danger-2.jpg';
 import upa from './UPA.png';
 import rozklad_gurtkiv from './rozklad-gurtkiv.png';
 import mcdut_education from './mcdut_education.png';
+import peremozhci_olimpiad from './peremozhci_olimpiad.png';
+import peremozhci_konkursiv from './peremozhci_konkursiv.png';
+import peremozhci_olimpiad_foto from './peremozhci_olimpiad_foto.png';
+
 
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">21.12.2022</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <a href=""><img src={peremozhci_olimpiad} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={peremozhci_olimpiad_foto} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={peremozhci_konkursiv} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Вітання переможців олімпіад та конкурсів</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
 
       <div className="cardWrapper">
           <Col md={12}>
