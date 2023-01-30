@@ -215,3 +215,33 @@ article {
 .cardHero {
   width: 100%
 }
+
+
+
+/*************************** main-video begin**************************/
+
+.main__section {
+  position: relative;
+  height: 650px;
+}
+
+iframe.main-video {
+  position: absolute;
+  right: 0;
+  top: 65%;
+  width: 500px;
+  height: 280px;
+}
+
+@media (max-width: 500px) {
+  iframe.main-video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 280px;
+  }
+}
+
+  
+/*************************** main-video end**************************/
