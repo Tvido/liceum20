@@ -11,6 +11,17 @@ const InternetSecurity = () => {
         <p>Stop_sexтинг пропонує відеоролики для батьків про те, як поговорити з дитиною про оголені селфі і пояснити небезпеку такої поведінки.</p>
 
       <div className="section__grid">
+
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1fXBCs9MZ1LXkCZiYf8fagBRZUSEkV7VD/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Безпека в інтернеті: корисні посилання</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=VfssdFA2nfs&list=PLSH7_JT0iK6EiciPlco4NL6pW52cVeK8T&index=3&ab_channel=StopSextingUkraine">
           <div className="section__box">
             <div className="section__content">
@@ -21,15 +32,7 @@ const InternetSecurity = () => {
           </div>
         </a>
 
-         <a target="_blank" rel="noreferrer" href="https://nus.org.ua/articles/7-porad-dlya-vchyteliv-pro-onlajn-bezpeku-ditej/">
-          <div className="section__box">
-            <div className="section__content">
-              <h3>Клікни, щоби читати</h3>
-
-              <p>7 порад для вчителів, як навчити учнів безпечної поведінки в інтернеті</p>
-            </div>
-          </div>
-        </a>
+         
 
          <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Zx-I4Hs47D6m7wMOY_v91kuE1Gc8p_7q/view">
           <div className="section__box">
@@ -57,6 +60,16 @@ const InternetSecurity = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Комунікація у віртуальному просторі</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://nus.org.ua/articles/7-porad-dlya-vchyteliv-pro-onlajn-bezpeku-ditej/">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>7 порад для вчителів, як навчити учнів безпечної поведінки в інтернеті</p>
             </div>
           </div>
         </a>
