@@ -18,6 +18,8 @@ import mcdut_education from './mcdut_education.png';
 import peremozhci_olimpiad from './peremozhci_olimpiad.png';
 import peremozhci_konkursiv from './peremozhci_konkursiv.png';
 import peremozhci_olimpiad_foto from './peremozhci_olimpiad_foto.png';
+import sitki_1 from './sitki_1.jpg';
+import sitki_2 from './sitki_2.jpg';
 
 
 
@@ -25,6 +27,40 @@ const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">14.02.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <a href=""><img src={sitki_1} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={sitki_2} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">А наші сіточки вже когось захищають!!!!<br></br>
+Так радісно на душі!!!<br></br> 
+#Разом_до_Перемоги<br></br>
+Все буде Україна!!!</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
 
       <div className="cardWrapper">
           <Col md={12}>
