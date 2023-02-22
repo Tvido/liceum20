@@ -38,7 +38,7 @@ const Digest = () => {
               <Card.Body>
                 <blockquote>
                   <div>
-                    <a href=""><img src={priyom_u_1_klas} alt="" className="cardHero" /></a>
+                    <a href="https://liceum20.com.ua/static/media/priyom_u_1_klas.f8cbe5ce.png"><img src={priyom_u_1_klas} alt="" className="cardHero" /></a>
                   </div>
                 </blockquote>
                   <br></br>
@@ -48,7 +48,7 @@ const Digest = () => {
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
-                  <a href=""><cite title="Source Title">До уваги батьків!</cite></a>
+                  <cite title="Source Title">До уваги батьків майбутніх першокласників!!!<br></br>01.03.2023р. о 8:00 розпочнеться електронна реєстрація на сайті <a href="https://school.bloqly.com/#/">https://school.bloqly.com</a></cite>
                   </footer>
                 </blockquote>
               </Card.Body>
