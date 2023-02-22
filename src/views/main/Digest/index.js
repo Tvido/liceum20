@@ -21,6 +21,7 @@ import peremozhci_olimpiad_foto from './peremozhci_olimpiad_foto.png';
 import sitki_1 from './sitki_1.jpg';
 import sitki_2 from './sitki_2.jpg';
 import priyom_u_1_klas from './priyom_u_1_klas.png';
+import nakaz_reestracija_1_klas from './nakaz_reestracija_1_klas.png';
 
 
 
@@ -29,6 +30,46 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">22.02.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qLWXy8UzCYEkMOHvHq4cbV9x5zCNpLcg/view?usp=share_link">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+              <blockquote>
+                  <div>
+                    <a href="https://drive.google.com/file/d/1Z-MB4yPrARrFinQ_cOa3V3EqusKfDhHE/view?usp=share_link"><img src={nakaz_reestracija_1_klas} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+             
+            </div>
+          </div>
+        </a>
+        
+                
+                
+
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Про порядок організації та проведення електронної реєстрації (зарахування) дітей до 1-их класів Ліцею №20</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
+
+      
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
