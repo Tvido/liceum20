@@ -20,6 +20,7 @@ import peremozhci_konkursiv from './peremozhci_konkursiv.png';
 import peremozhci_olimpiad_foto from './peremozhci_olimpiad_foto.png';
 import sitki_1 from './sitki_1.jpg';
 import sitki_2 from './sitki_2.jpg';
+import priyom_u_1_klas from './priyom_u_1_klas.png';
 
 
 
@@ -27,6 +28,34 @@ const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">22.02.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <a href=""><img src={priyom_u_1_klas} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                
+
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">До уваги батьків!</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
+
 
       <div className="cardWrapper">
           <Col md={12}>
