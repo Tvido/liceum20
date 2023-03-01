@@ -5,47 +5,47 @@ const RulesOfAdmission = () => {
     <React.Fragment>
       <div className="article__wrapper">
       <div className="section__grid">
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1WUnO0QlJuFZldMQEiDqtyVTCWfVu7umg/view">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1y05jidTkvHnaSHdgYW94uQbdAblh-LUr/view?usp=share_link">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Наказ про зарахування до закладу освіти</p>
+              <p>Наказ Департаменту освіти та науки</p>
             </div>
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/15hWgNB9dJXYeALjZYE69zkPwpmaFZyzM/view">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1BM49xL807vVjiQxx7yZJ2TLazvW4uH4v/view?usp=share_link">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Додаток №2</p>
+              <p>Наказ Ліцею №20</p>
             </div>
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qbjE17bXTH9QzCNERsF_iPO4iMrn24Pl/view">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1x54GPyP3kOJU5NxoFLeKdT2Iezta_k4_/view?usp=share_link">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Наказ про організацію зарахування учнів до 1 класу Ліцею №20</p>
+              <p>Положення про реєстрацію</p>
             </div>
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1it6NZTCYJ82iBMPOMkLPKtWGkWGgwzM6/view">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_3_D3OMduWjpBonqWLp7_V7lA-dlpyr6/view?usp=share_link">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Рішення від 28.01.2021р. Про порядок електронної реєстрації до 1-их класів</p>
+              <p>Документи для зарахування</p>
             </div>
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12NmO-giVtG8w4enQDYIp8S6YxpfpAD7X/view">
+         {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12NmO-giVtG8w4enQDYIp8S6YxpfpAD7X/view">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -83,8 +83,9 @@ const RulesOfAdmission = () => {
               <p>Перелік документів для прийому дітей до 1-ого класу</p>
             </div>
           </div>
-        </a>
-      </div>
+        </a> */}
+      
+       </div>
         </div>
 
     </React.Fragment>
