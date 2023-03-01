@@ -89,7 +89,7 @@ const Digest = () => {
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
-                  <cite title="Source Title">До уваги батьків майбутніх першокласників!!!<br></br>01.03.2023р. о 8:00 розпочнеться електронна реєстрація на сайті <a href="https://school.bloqly.com/#/">https://school.bloqly.com</a></cite>
+                  <cite title="Source Title">До уваги батьків майбутніх першокласників!!!<br></br>01.03.2023р. о 7:00 розпочнеться електронна реєстрація на сайті <a href="https://school.bloqly.com/#/">https://school.bloqly.com</a></cite>
                   </footer>
                 </blockquote>
               </Card.Body>

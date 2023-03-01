@@ -25,7 +25,7 @@ const PhysicalCultureProtectionOfUkraineBasicsOfHealth = () => {
 
             <tr>
               <td>
-                <b>Гайдейчук Лариса Василівна</b>
+                <b>Кошовець Анастасія Сергіївна</b>
               </td>
             </tr>
 
@@ -37,13 +37,13 @@ const PhysicalCultureProtectionOfUkraineBasicsOfHealth = () => {
 
             <tr>
               <td>
-                <b>Касперська Надія Іванівна</b>
+                <b>Джус Романа Романівна</b>
               </td>
             </tr>
 
             <tr>
               <td>
-                <b>Плисак Юлія Олександрівна</b>
+                <b>Петрина Юлія Олександрівна</b>
               </td>
             </tr>
 

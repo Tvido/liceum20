@@ -12,7 +12,9 @@ const ForeignLanguages = () => {
           <tbody>
             <tr>
               <td>
-                <b>Масляк Тетяна Романівна</b> – керівник методичного об’єднання вчителів іноземних мов
+              <a target="_blank" rel="noreferrer" href="https://myfirstenglishblogkalytchuk.blogspot.com/">
+                    Калитчук Юлія Романівна
+                  </a> – керівник методичного об’єднання вчителів іноземних мов
               </td>
             </tr>
             <tr>
@@ -27,7 +29,7 @@ const ForeignLanguages = () => {
             </tr>
             <tr>
               <td>
-                <b>Риндич Стефанія Василівна</b>
+                <b>Федорків Оксана Миколаївна</b>
               </td>
             </tr>
             <tr>
@@ -35,7 +37,7 @@ const ForeignLanguages = () => {
                 <b>Іванус Людмила Олександрівна</b>
               </td>
             </tr>
-            <tr>
+            {/* <tr>
               <td>
                 <b>
                   <a target="_blank" rel="noreferrer" href="https://khrystynakalyniuk.blogspot.com/">
@@ -43,25 +45,20 @@ const ForeignLanguages = () => {
                   </a>
                 </b>
               </td>
-            </tr>
+            </tr> */}
             <tr>
               <td>
-                <b>Трощук Марія Михайлівна</b>
+                <b>Чувальська Юлія Петрівна</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>Михайлюк Марія Василівна</b>
+                <b>Лавринович Анна Любомирівна</b>
               </td>
             </tr>
             <tr>
               <td>
-                <b>Буняк Христина Ігорівна</b>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>Пінчак Леся Василівна</b>
+                <b>Мицкан Олександра Миколаївна</b>
               </td>
             </tr>
             <tr>
@@ -77,26 +74,6 @@ const ForeignLanguages = () => {
             <tr>
               <td>
                 <b>Когуч Христина Олегівна</b>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>
-                  <a target="_blank" rel="noreferrer" href="https://myfirstenglishblogkalytchuk.blogspot.com/">
-                    Калитчук Юлія Романівна
-                  </a>
-                </b>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>Винничук Леся Йосипівна</b>
-              </td>
-            </tr>
-
-            <tr>
-              <td>
-                <b>Худецька Ірина Василівна</b>
               </td>
             </tr>
           </tbody>
