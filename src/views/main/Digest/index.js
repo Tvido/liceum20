@@ -22,7 +22,8 @@ import sitki_1 from './sitki_1.jpg';
 import sitki_2 from './sitki_2.jpg';
 import priyom_u_1_klas from './priyom_u_1_klas.png';
 import nakaz_reestracija_1_klas from './nakaz_reestracija_1_klas.png';
-
+import odeska_uridchna_akademiya_1 from './odeska_uridchna_akademiya_1.jpg';
+import odeska_uridchna_akademiya_2 from './odeska_uridchna_akademiya_2.jpg';
 
 
 const Digest = () => {
@@ -34,9 +35,41 @@ const Digest = () => {
           <Col md={12}>
             <Card>
               <Card.Header>
-                <Card.Title as="h5">22.02.2023</Card.Title>
+                <Card.Title as="h5">01.03.2023</Card.Title>
               </Card.Header>
               <Card.Body>
+
+              <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">14.02.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <a href=""><img src={odeska_uridchna_akademiya_1} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={odeska_uridchna_akademiya_1} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Сьогодні до ліцею завітали представники Івано-Франківського навчально-наукового юридичного інституту та фахового коледжу Національного університету «Одеська юридична академія». 
+Секретар приймальної комісії та студенти університету, серед яких і колишні випускники нашого ліцею, поспілкувалися з учнями випускних класів щодо особливостей вступної кампанії до закладів вищої освіти у 2023 році та запросили всіх на День відкритих дверей до Івано-Франківського навчально-наукового юридичного інституту та фахового коледжу Національного університету «Одеська юридична академія», що відбудеться в цю п’ятницю, 3 березня о 12:00 год., за адресою: м. Івано-Франківськ, вул. Максимовича, 13.</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+        </div>
 
               
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qLWXy8UzCYEkMOHvHq4cbV9x5zCNpLcg/view?usp=share_link">
