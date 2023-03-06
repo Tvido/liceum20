@@ -22,13 +22,13 @@ const Food = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/if.nvk3/posts/1797266993768507?__cft__[0]=AZWhc47VsHQLSwW4kSvMqCVQwgWUVc4Tex9nObBpOOzPxY42ySRPrnx6G3UQcvyc1lEwLVIMlP2csKJ4FjZaxGhW3MiUFAKRStWiCkkp8m0iZ37C5KrVNU2yRLhbewcqXyeY-JouUDzqmBDzUh7fAlm4&__tn__=%2CO%2CP-R"
+          href="https://osvita.if.ua/page/pro-zabezpechennia-kharchuvanniam-uchniv-zzso-za-koshti-biudzhetu-u-2023-rotsi-1"
         >
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Про встановлення вартості харчування учнів, які навчаються у 1-11 класах закладів загальної середньої освіти</p>
+              <p>Про забезпечення харчуванням учнів ЗЗСО за кошти бюджету у 2023 році</p>
             </div>
           </div>
         </a>
@@ -43,6 +43,20 @@ const Food = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Нові вимоги до організації харчування учнів у закладах загальної середньої освіти</p>
+            </div>
+          </div>
+        </a>
+
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://znaimo.gov.ua/"
+        >
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Знаїмо - коли ми знаїмо, що їмо</p>
             </div>
           </div>
         </a>

@@ -35,15 +35,38 @@ const Digest = () => {
           <Col md={12}>
             <Card>
               <Card.Header>
-                <Card.Title as="h5">01.03.2023</Card.Title>
+                <Card.Title as="h5">03.03.2023</Card.Title>
               </Card.Header>
               <Card.Body>
+             
+                <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1UrSLVzNHF0fSRWJl8a1TDTHnzMYJ0mwD/view?usp=share_link">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
 
-              <div className="cardWrapper">
+                      <p>Щодо штурмових бригад</p>
+                    </div>
+                  </div>
+                </a>
+                
+              <br></br>
+                                   
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">На Івано-Франківщині стартував проєкт зі створення додаткових штурмових бригад - «Гвардія Наступу». Додаткову консультацію щодо вступу до бригад можна отримати за номером гарячої лінії <a href="0800100020" tel="0800100020">0800100020</a>.</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+      <div className="cardWrapper">
           <Col md={12}>
             <Card>
               <Card.Header>
-                <Card.Title as="h5">14.02.2023</Card.Title>
+                <Card.Title as="h5">01.03.2023</Card.Title>
               </Card.Header>
               <Card.Body>
                 <blockquote>
@@ -69,7 +92,17 @@ const Digest = () => {
               </Card.Body>
             </Card>
           </Col>
-        </div>
+      </div>
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">01.03.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+      
 
               
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qLWXy8UzCYEkMOHvHq4cbV9x5zCNpLcg/view?usp=share_link">
@@ -85,12 +118,7 @@ const Digest = () => {
              
             </div>
           </div>
-        </a>
-        
-                
-                
-
-                 
+        </a> 
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
@@ -102,7 +130,7 @@ const Digest = () => {
           </Col>
         </div>
 
-      
+     
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
