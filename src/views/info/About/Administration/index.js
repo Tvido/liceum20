@@ -5,6 +5,8 @@ import grekul from './grekul.jpg'
 import filipovych from './filipovych.jpg'
 import knysh from './knysh.jpg'
 import shkilnyk from './shkilnyk.jpg'
+import shevchuk from './shevchuk.jpg'
+import slavenuk from './slavenuk.jpg'
 
 const Administration = () => {
   return (
@@ -130,6 +132,58 @@ const Administration = () => {
                 </Card.Text>
                 <footer className="blockquote-footer">
                    <cite title="Source Title">заступник директора з господарських питань</cite>
+                </footer>
+              </blockquote>
+            </Card.Body>
+          </Card>
+        </Col>
+
+      </div>
+
+      <div className="cardWrapper">
+        <Col md={12}>
+          <Card>
+            <Card.Header>
+              <Card.Title as="h5">Голова профспілкової організації</Card.Title>
+            </Card.Header>
+            <Card.Body>
+              <blockquote>
+                  <div>
+                    <img src={shevchuk} alt="" className="cardHero" />
+                  </div>
+              </blockquote>
+              <blockquote className="blockquote text-right">
+                <Card.Text className="mb-2">
+                Шевчук Галина Петрівна
+                </Card.Text>
+                <footer className="blockquote-footer">
+                   <cite title="Source Title">Голова профспілкової організації</cite>
+                </footer>
+              </blockquote>
+            </Card.Body>
+          </Card>
+        </Col>
+
+      </div>
+
+      <div className="cardWrapper">
+        <Col md={12}>
+          <Card>
+            <Card.Header>
+              <Card.Title as="h5">Голова батьківського самоврядування</Card.Title>
+            </Card.Header>
+            <Card.Body>
+              <blockquote>
+                  <div>
+                    <img src={slavenuk} alt="" className="cardHero" />
+                  </div>
+              </blockquote>
+              <blockquote className="blockquote text-right">
+                <Card.Text className="mb-2">
+                Славенюк Петро Васильович
+                </Card.Text>
+                <footer className="blockquote-footer">
+                   <cite title="Source Title">Голова батьківського самоврядування</cite>
                 </footer>
               </blockquote>
             </Card.Body>
