@@ -210,6 +210,18 @@ const menuItems = {
                   title: 'Бібліотечні уроки',
                   type: 'item',
                   url: '/library-lessons'
+                },
+                {
+                  id: 'monthly-school-libraries',
+                  title: 'Місячник шкільних бібліотек',
+                  type: 'item',
+                  url: '/monthly-school-libraries'
+                },
+                {
+                  id: 'library-exhibitions',
+                  title: 'Бібліотечні виставки',
+                  type: 'item',
+                  url: '/library-exhibitions'
                 }
               ]
             },

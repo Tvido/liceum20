@@ -278,6 +278,16 @@ const routes = [
       },
       {
         exact: true,
+        path: '/monthly-school-libraries',
+        component: lazy(() => import('./views/main/EducationalWork/Library/MonthlySchoolLibraries'))
+      },
+      {
+        exact: true,
+        path: '/library-exhibitions',
+        component: lazy(() => import('./views/main/EducationalWork/Library/LibraryExhibitions'))
+      },
+      {
+        exact: true,
         path: '/physical-culture-protection-of-ukraine-basics-of-health',
         component: lazy(() =>
           import('./views/main/MethodicalWork/MethodologicalAssociations/PhysicalCultureProtectionOfUkraineBasicsOfHealth')
