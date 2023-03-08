@@ -39,6 +39,34 @@ const InfoLibrary = () => {
           </div>
         </a>
 
+        <a
+          target="_blank"
+          href="https://drive.google.com/file/d/1eysf4r8vakqhKLwFHgY3Z2anu9B0kyud/view"
+          rel="noreferrer"
+        >
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Результати вибору електронних версій оригінал-макетів підручників для 1 класу</p>
+            </div>
+          </div>
+        </a>
+
+        <a
+          target="_blank"
+          href="https://docs.google.com/document/d/1bQyZZe7m4vb1UkiAjhH885xuKrxvnYFI2q4U_Wxp0Hw/edit"
+          rel="noreferrer"
+        >
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Промоція книга</p>
+            </div>
+          </div>
+        </a>
+
         {/* <a target="_blank" href="https://docs.google.com/document/d/17XCCF-ouid27bTZ0V3ZOEAV7jXKmQ_us/edit?rtpof=true&sd=true" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
