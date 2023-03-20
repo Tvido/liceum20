@@ -192,6 +192,36 @@ const EvaluationCriteria = () => {
             </div>
           </div>
         </a>
+
+        <a target="_blank" href="https://drive.google.com/file/d/1hUkKT67WHJNX-oTQmV9x19BkwdrsVLUg/view" rel="noreferrer">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Критерії оцінювання навчальних досягнень учнів 5-9 класів</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" href="https://drive.google.com/file/d/1hUkKT67WHJNX-oTQmV9x19BkwdrsVLUg/view" rel="noreferrer">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Критерії оцінювання навчальних досягнень учнів 10-11 класів</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" href="/">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Критерії оцінювання загальноосвітніх дисциплін ??????????</p>
+            </div>
+          </div>
+        </a>
       </div>
         </div>
 

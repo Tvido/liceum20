@@ -15,7 +15,7 @@ const EducationalPrograms = () => {
           </div>
         </a>
 
-        <a target="_blank" href="https://mon.gov.ua/storage/app/media/zagalna%20serednya/924.pdf" rel="noreferrer">
+        {/* <a target="_blank" href="https://mon.gov.ua/storage/app/media/zagalna%20serednya/924.pdf" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -47,7 +47,7 @@ const EducationalPrograms = () => {
               <p>Критерії оцінювання навчальних досягнень учнів 3-4 класів НУШ</p>
             </div>
           </div>
-        </a>
+        </a> */}
 
         <a target="_blank" href="https://drive.google.com/file/d/1cL34AcF3wEb2fVu6Yqhbjok-iy5D4x0I/view" rel="noreferrer">
           <div className="section__box">
@@ -59,7 +59,7 @@ const EducationalPrograms = () => {
           </div>
         </a>
 
-        <a target="_blank" href="http://old.mon.gov.ua/img/zstored/files/1-2-08-%D1%96.pdf" rel="noreferrer">
+        {/* <a target="_blank" href="http://old.mon.gov.ua/img/zstored/files/1-2-08-%D1%96.pdf" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -67,7 +67,7 @@ const EducationalPrograms = () => {
               <p>Критерії оцінювання навчальних досягнень учнів 4 класів ??????????</p>
             </div>
           </div>
-        </a>
+        </a> */}
 
         {/* <a target="_blank" href="https://drive.google.com/file/d/1GQByI1Mq3swJOdo88eEbljWGLfsDNMGx/view" rel="noreferrer">
           <div className="section__box">
@@ -84,21 +84,22 @@ const EducationalPrograms = () => {
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Освітня програма НУШ Ліцею №20 2022-2023 н.р.</p>
+              <p>Освітня програма НУШ 5 класи</p>
             </div>
           </div>
         </a>
 
-        <a target="_blank" href="https://drive.google.com/file/d/1hUkKT67WHJNX-oTQmV9x19BkwdrsVLUg/view" rel="noreferrer">
+       
+        <a target="_blank" href="https://docs.google.com/document/d/1elaLrnLuLxr9h-BK5UxJM3-5B-JIl1o_/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Критерії оцінювання навчальних досягнень учнів 5-9 класів</p>
+              <p>Освітні програми 6-9 класи</p>
             </div>
           </div>
         </a>
-
+        
         <a target="_blank" href="https://drive.google.com/file/d/1E46VUfhHMo6jklb-2GkXP-OGCyoW4BEy/view" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
@@ -109,25 +110,9 @@ const EducationalPrograms = () => {
           </div>
         </a>
 
-        <a target="_blank" href="https://drive.google.com/file/d/1hUkKT67WHJNX-oTQmV9x19BkwdrsVLUg/view" rel="noreferrer">
-          <div className="section__box">
-            <div className="section__content">
-              <h3>Клікни, щоби читати</h3>
+       
 
-              <p>Критерії оцінювання навчальних досягнень учнів 10-11 класів</p>
-            </div>
-          </div>
-        </a>
-
-        <a target="_blank" href="/">
-          <div className="section__box">
-            <div className="section__content">
-              <h3>Клікни, щоби читати</h3>
-
-              <p>Критерії оцінювання загальноосвітніх дисциплін ??????????</p>
-            </div>
-          </div>
-        </a>
+        
 
         <a target="_blank" href="https://drive.google.com/file/d/1EqbKZgnBw9hU-SqmlkzGRplUVdIwH4Wj/view" rel="noreferrer">
           <div className="section__box">
