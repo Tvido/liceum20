@@ -114,7 +114,7 @@ const EducationalPrograms = () => {
 
         
 
-        <a target="_blank" href="https://drive.google.com/file/d/1EqbKZgnBw9hU-SqmlkzGRplUVdIwH4Wj/view" rel="noreferrer">
+        {/* <a target="_blank" href="https://drive.google.com/file/d/1EqbKZgnBw9hU-SqmlkzGRplUVdIwH4Wj/view" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -162,7 +162,7 @@ const EducationalPrograms = () => {
               <p>Навчальний план навчання на 2020-2021 н.р. для класів I ступеня (4 класи)</p>
             </div>
           </div>
-        </a>
+        </a> */}
       </div>
         </div>
 
