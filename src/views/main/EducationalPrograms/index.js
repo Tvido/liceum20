@@ -109,7 +109,36 @@ const EducationalPrograms = () => {
             </div>
           </div>
         </a>
+        
+        <a target="_blank" href="https://drive.google.com/file/d/1Tb8UHK5xRe0vf6hoD2ERDxxQxiBvihX_/view?usp=share_link" rel="noreferrer">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
 
+              <p>Навчальний план 5 класи</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" href="https://drive.google.com/file/d/1eGXiHrsIDqwBKYpUQo9cI01AK-4Q8X5j/view?usp=share_link" rel="noreferrer">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Навчальний план 6-9 класи</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" href="https://drive.google.com/file/d/1QpkJV2Hc3zn5dMjMeLfr6nVIb8aZPOMf/view?usp=share_link" rel="noreferrer">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Навчальний план 10-11 класи</p>
+            </div>
+          </div>
+        </a>
        
 
         
