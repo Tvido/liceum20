@@ -35,6 +35,41 @@ const Digest = () => {
           <Col md={12}>
             <Card>
               <Card.Header>
+                <Card.Title as="h5">30.03.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+             
+                {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1UrSLVzNHF0fSRWJl8a1TDTHnzMYJ0mwD/view?usp=share_link">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Щодо штурмових бригад</p>
+                    </div>
+                  </div>
+                </a>
+                
+              <br></br> */}
+
+               
+                 <iframe width="100%" height="293" src="https://www.youtube.com/embed/UjBJrgrRwvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                
+                                   
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Вітаємо інстументальний ансамбль «Усмішка» Ліцею №20 за зайняте I місце у обласному конкурсі. Солісти - Личук Владислав та Личук Станіслав. Керівник - Цібій Петро Омелянович.</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
                 <Card.Title as="h5">03.03.2023</Card.Title>
               </Card.Header>
               <Card.Body>

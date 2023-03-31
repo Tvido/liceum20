@@ -5,6 +5,27 @@ const PedagogueParents = () => {
     <React.Fragment>
       <div className="article__wrapper">
       <div className="section__grid">
+
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/16XnIkNPsYQou7D-o61jO_9mWsRJK8GRZ/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кращі вправи для дітей</p>
+            </div>
+          </div>
+        </a>
+
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1kHo9qJEjULNlHL90SDB8lxr0cHK2UyKt/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>22 ПОДАРУНКИ ЯКІ ДІТИ ЗБЕРЕЖУТЬ НА ВСЕ ЖИТТЯ</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/19nn0QLvpP2BAQobnSjlGqp1wYtVpLG15/view">
           <div className="section__box">
             <div className="section__content">

@@ -1,18 +1,24 @@
 import React from 'react';
-import fasilitatotors1 from './fasilitatotors1.jpg';
-import fasilitatotors2 from './fasilitatotors2.jpg';
-import fasilitatotors3 from './fasilitatotors3.jpg';
-import fasilitatotors4 from './fasilitatotors4.jpg';
-import fasilitatotors5 from './fasilitatotors5.jpg';
-import fasilitatotors6 from './fasilitatotors6.jpg';
-import fasilitatotors7 from './fasilitatotors7.jpg';
-import fasilitatotors8 from './fasilitatotors8.jpg';
+// import fasilitatotors1 from './fasilitatotors1.jpg';
+
 
 
 const PreventivePupils = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+      <div className="section__grid">
+
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/15nKsScVRsHhRhdegceZ5QLvvYUeuERM-/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
+            <div className="section__box">
+              <div className="section__content">
+                <h3>Клікни, щоби читати</h3>
+
+                <p>Співпраця з громадською організацією "Проліска". "Реагування на надзвичайні ситуації для задоволення потреб у захисті та освіті постраждалих від конфлікту та переміщених дітей та їхніх сімей в Україні"</p>
+              </div>
+            </div>
+          </a>
+      </div>
       <h5>Робота психологічної служби навчального закладу з попередження насильства серед дітей та учнівської молоді спрямована на:</h5>
 
       <ul>
@@ -26,34 +32,7 @@ const PreventivePupils = () => {
 
       <p>Однією з можливих форм роботи, спрямованої на профілактику насильства у навчальному закладі, може бути шкільна медіація — вирішення конфліктних ситуацій примиренням сторін через знаходження оптимального варіанта подолання проблеми, що задовольняє обидві сторони, за взаємного бажання сторін знайти вихід із ситуації.</p>
         </div>
-        <div className="article__wrapper">
-      <h5>“Реагування на надзвичайні ситуації для задоволення потреб у захисті та освіті постраждалих від конфлікту та переміщених дітей та їхніх сімей в Україні”</h5>
-
-     
-      <p>Громадська організація “Проліска" реалізує в співпраці з Міжнародною гуманітарною організацією Save the Children in Ukraine Проєкт “Реагування на надзвичайні ситуації для задоволення потреб у захисті та освіті постраждалих від конфлікту та переміщених дітей та їхніх сімей в Україні”.</p>
-
-      <p>Тож до нас  завітали  фасилітатори(тренера) з мінної небезпеки Марія та Надія разом з собачкою Патрончиком і провели сесію для учнів1-4 класів</p>
-     
-      
-          <img src={fasilitatotors1} alt="" className="cardHero" />
-          <br /><br />
-          <img src={fasilitatotors2} alt="" className="cardHero" />
-          <br /><br />
-          <img src={fasilitatotors3} alt="" className="cardHero" />
-          <br /><br />
-          <img src={fasilitatotors4} alt="" className="cardHero" />
-          <br /><br />
-          <img src={fasilitatotors5} alt="" className="cardHero" />
-          <br /><br />
-          <img src={fasilitatotors6} alt="" className="cardHero" />
-          <br /><br />
-          <img src={fasilitatotors7} alt="" className="cardHero" />
-          <br /><br />
-          <img src={fasilitatotors8} alt="" className="cardHero" />
-          <br /><br />
        
-     
-        </div>
     
     </React.Fragment>
   );

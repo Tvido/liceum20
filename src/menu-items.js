@@ -231,12 +231,12 @@ const menuItems = {
               type: 'item',
               url: '/naotsbsou'
             },
-            {
-              id: 'german-unification-day',
-              title: "День об'єднання Німеччини",
-              type: 'item',
-              url: '/german-unification-day'
-            },
+            // {
+            //   id: 'german-unification-day',
+            //   title: "День об'єднання Німеччини",
+            //   type: 'item',
+            //   url: '/german-unification-day'
+            // },
             {
               id: 'dup-2019',
               title: 'ДЮП-2019',
