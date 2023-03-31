@@ -58,7 +58,7 @@ const Digest = () => {
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
-                  <cite title="Source Title">Вітаємо інстументальний ансамбль «Усмішка» Ліцею №20 за зайняте I місце у обласному конкурсі. Солісти - Личук Владислав та Личук Станіслав. Керівник - Цібій Петро Омелянович.</cite>
+                  <cite title="Source Title">Вітаємо інстументальний ансамбль «Усмішка»<br></br>  Ліцею №20 за зайняте I місце у обласному конкурсі. Солісти - Личук Владислав та Личук Станіслав.<br></br>          Керівник - Цібій Петро Омелянович.</cite>
                   </footer>
                 </blockquote>
               </Card.Body>
