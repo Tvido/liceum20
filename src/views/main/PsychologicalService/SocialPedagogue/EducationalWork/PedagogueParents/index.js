@@ -6,6 +6,18 @@ const PedagogueParents = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Rgb-wAZ_99kbmOClWBBQPJla7Y_bUXO9/view?usp=share_link">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Аптечка швидкої психологічної допомоги.
+
+В аптечці зібрані прості вправи для заспокоєння та поради для стійкості. Вона буде корисною всім, хто рідко чи часто відчуває емоційне спустошення, втому, напругу в тілі, паніку, злість, сум. А також тим, хто хоче підтримати своїх близьких.</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/16XnIkNPsYQou7D-o61jO_9mWsRJK8GRZ/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">

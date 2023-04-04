@@ -129,7 +129,7 @@ const EvaluationCriteria = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://mon.gov.ua/storage/app/media/zagalna%20serednya/924.pdf">
+        {/* <a target="_blank" rel="noreferrer" href="https://mon.gov.ua/storage/app/media/zagalna%20serednya/924.pdf">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -189,6 +189,16 @@ const EvaluationCriteria = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Критерії оцінювання навчальних досягнень учнів 3-4 класів НУШ з мовно-літературної галузі (англійська мова)</p>
+            </div>
+          </div>
+        </a> */}
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/113VKm-S8SvxO-9Smm4WraEQXcG9cCWVG/view?usp=share_link">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Методичні рекомендації щодо оцінювання результатів навчання учнів 1-4-х класів закладів середньої освіти</p>
             </div>
           </div>
         </a>
