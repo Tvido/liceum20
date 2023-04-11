@@ -6,6 +6,17 @@ const PsychologistPupils = () => {
       <div className="article__wrapper">
         <div className="section__grid">
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/17pnjd5mHBwyKnmxuIwgS8h7c7zG-_4Oh/view?usp=share_link">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+
+                  <p>Куди звернутись? Корисні посилання з інформацією для тебе. Ресурс для отримання психологічної допомоги. Жіночі консультації, та необхідні контакти де тобі нададуть інформативну допомогу, консультативну та медичну.</p>
+                </div>
+              </div>
+            </a>
+        
+
           <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1q3Ld9wEdeK4vQtRICQqArdNSzcZW3FKI/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
               <div className="section__box">
                 <div className="section__content">

@@ -6,6 +6,16 @@ const PedagogueParents = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://nus.org.ua/news/obov-yazky-batkiv-i-ditej-shhodo-zdobuttya-shkilnoyi-osvity-v-ukrayini-sluzhba-osvitnogo-ombudsmena/">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обов’язки батьків і дітей щодо здобуття шкільної освіти в Україні – Служба освітнього омбудсмена</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Rgb-wAZ_99kbmOClWBBQPJla7Y_bUXO9/view?usp=share_link">
           <div className="section__box">
             <div className="section__content">
