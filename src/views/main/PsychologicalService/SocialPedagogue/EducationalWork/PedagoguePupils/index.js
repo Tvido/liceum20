@@ -6,6 +6,16 @@ const PsychologistPupils = () => {
       <div className="article__wrapper">
         <div className="section__grid">
 
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1ldELnY2-TM3QCx8NxboemuZPtHyfHNf-/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+
+                  <p>Тренінг "Як стати лідером та що для цього потрібно" Навички Soft skills від студентів Української академії лідерства для учнів 10-11 класів.</p>
+                </div>
+              </div>
+            </a>
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/17pnjd5mHBwyKnmxuIwgS8h7c7zG-_4Oh/view?usp=share_link">
               <div className="section__box">
                 <div className="section__content">
@@ -33,7 +43,7 @@ const PsychologistPupils = () => {
         <article>
           <h5>Примірний перелік організацій та установ, служб підтримки постраждалих осіб, до яких слід звернутися у випадку домашнього насильства</h5>
 
-          <h5>Уповноважена особа закладу освіти НВК “Школа-гімназія №3” Філіпович Лілія Іванівна: +380501566014</h5>
+          <h5>Уповноважена особа закладу освіти Ліцей №20 Філіпович Лілія Іванівна: +380501566014</h5>
 
           <h5>Організації та установи до яких слід звернутися у випадку домашнього насильства:</h5>
 

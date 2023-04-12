@@ -9,6 +9,16 @@ const PreventivePupils = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1KGldvnbDVp47O4H51yvb1M6DUfUbtW_H/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
+            <div className="section__box">
+              <div className="section__content">
+                <h3>Клікни, щоби читати</h3>
+
+                <p>День безпеки. Практичні заняття для учнів 8-х класів Ліцею 20 проведено спільно з фахівцями сектору Ювенальної превенції, працівниками сектору по протидії домашнього насильства та ГУ ДСНС.</p>
+              </div>
+            </div>
+          </a>
+
         <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/15nKsScVRsHhRhdegceZ5QLvvYUeuERM-/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
             <div className="section__box">
               <div className="section__content">
