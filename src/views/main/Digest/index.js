@@ -35,6 +35,37 @@ const Digest = () => {
           <Col md={12}>
             <Card>
               <Card.Header>
+                <Card.Title as="h5">28.04.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+             
+                <a target="_blank" rel="noreferrer" href="https://forms.gle/hBMYAnbdn9bTqFSXA">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Анкета для педагогічних працівників  «Використання цифрових інструментів у закладах освіти в умовах дистанційного навчання»</p>
+                    </div>
+                  </div>
+                </a>
+                
+              <br></br>
+                                   
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Опитування щодо використання цифрових інструментів у закладах освіти в умовах дистанційного навчання.</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
                 <Card.Title as="h5">30.03.2023</Card.Title>
               </Card.Header>
               <Card.Body>
