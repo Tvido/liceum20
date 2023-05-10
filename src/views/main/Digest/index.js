@@ -24,12 +24,83 @@ import priyom_u_1_klas from './priyom_u_1_klas.png';
 import nakaz_reestracija_1_klas from './nakaz_reestracija_1_klas.png';
 import odeska_uridchna_akademiya_1 from './odeska_uridchna_akademiya_1.jpg';
 import odeska_uridchna_akademiya_2 from './odeska_uridchna_akademiya_2.jpg';
-
+import hnu from './hnu.jpg';
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+        
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">10.05.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+             
+              {/* <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1zvXRic54E7i7LMoHhPn5ohI8yYnn04RD/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Інформаційні матеріали до Дня пам’яті та примирення (8 травня)</p>
+                    </div>
+                  </div>
+                </a> */}
+                
+              <br></br>
+                                   
+              <blockquote>
+                  <div>
+                    <a href="https://docs.google.com/document/d/1zvXRic54E7i7LMoHhPn5ohI8yYnn04RD/edit?usp=share_link&ouid=104991853798134703900&rtpof=true&sd=true"><img src={hnu} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Харківський національний університет Повітряних Сил імені Івана Кожедуба</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+
+        <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">10.05.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+             
+              <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1gWPh1qt-mtUkZsKGXNlf0TnoCkSuK7Yd/view?usp=share_link">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Інформаційні матеріали до Дня пам’яті та примирення (8 травня)</p>
+                    </div>
+                  </div>
+                </a>
+                
+              <br></br>
+                                   
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Український інститут національної пам’яті. Інформаційні матеріали до Дня пам’яті та примирення (8 травня)</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
 
       <div className="cardWrapper">
           <Col md={12}>
@@ -143,7 +214,7 @@ const Digest = () => {
                   <br></br>
                   <blockquote>
                   <div>
-                    <a href=""><img src={odeska_uridchna_akademiya_1} alt="" className="cardHero" /></a>
+                    <a href=""><img src={odeska_uridchna_akademiya_2} alt="" className="cardHero" /></a>
                   </div>
                 </blockquote>
 
