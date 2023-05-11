@@ -193,7 +193,7 @@ const EvaluationCriteria = () => {
           </div>
         </a> */}
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/113VKm-S8SvxO-9Smm4WraEQXcG9cCWVG/view?usp=share_link">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1TbOaiMK8kI0jaKl5Ebv3LkJ6pgy0EQpW/view?usp=share_link">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
