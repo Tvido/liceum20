@@ -175,6 +175,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/safety',
+        component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/EducationalWork/Safety'))
+      },
+      {
+        exact: true,
         path: '/preventive-pupils',
         component: lazy(() => import('./views/main/PsychologicalService/SocialPedagogue/PreventiveWork/PreventivePupils'))
       },

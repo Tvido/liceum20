@@ -357,6 +357,12 @@ const menuItems = {
                       title: 'Учителі',
                       type: 'item',
                       url: '/pedagogue-teachers'
+                    },
+                    {
+                      id: 'safety',
+                      title: 'Безпека',
+                      type: 'item',
+                      url: '/safety'
                     }
                   ]
                 },
