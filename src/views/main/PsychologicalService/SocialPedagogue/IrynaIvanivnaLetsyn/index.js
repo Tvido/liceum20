@@ -39,6 +39,20 @@ const IrynaIvanivnaLetsyn = () => {
         </Col>
       </div>
 
+      <div className="section__grid">
+
+        <a target="_blank" rel="noreferrer" href="https://fb.watch/ky05f-XVg3/">
+                <div className="section__box">
+                  <div className="section__content">
+                    <h3>Клікни, щоби читати</h3>
+
+                    <p>Статеве виховання учнів.</p>
+                  </div>
+                </div>
+        </a>
+
+      </div>
+
       <div className="article">
         <article>
           <h5>Сім способів зняти стрес і поліпшити настрій</h5>
