@@ -5,7 +5,7 @@ const EducationalPrograms = () => {
     <React.Fragment>
       <div className="article__wrapper">
       <div className="section__grid">
-        <a target="_blank" href="https://drive.google.com/file/d/1iDb4siZJUbAeWRoglrncJ1SOwHV5l-Cb/view" rel="noreferrer">
+        {/* <a target="_blank" href="https://drive.google.com/file/d/1iDb4siZJUbAeWRoglrncJ1SOwHV5l-Cb/view" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -13,7 +13,7 @@ const EducationalPrograms = () => {
               <p>Освітні програми 1-3 класи</p>
             </div>
           </div>
-        </a>
+        </a> */}
 
         {/* <a target="_blank" href="https://mon.gov.ua/storage/app/media/zagalna%20serednya/924.pdf" rel="noreferrer">
           <div className="section__box">
@@ -49,12 +49,22 @@ const EducationalPrograms = () => {
           </div>
         </a> */}
 
-        <a target="_blank" href="https://drive.google.com/file/d/1cL34AcF3wEb2fVu6Yqhbjok-iy5D4x0I/view" rel="noreferrer">
+        {/* <a target="_blank" href="https://drive.google.com/file/d/1cL34AcF3wEb2fVu6Yqhbjok-iy5D4x0I/view" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
               <p>Освітні програми 4 класи</p>
+            </div>
+          </div>
+        </a> */}
+
+        <a target="_blank" href="https://docs.google.com/document/d/1AoJIKkxSptfo_640Rvgue543K4rXnNIa/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true" rel="noreferrer">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Освітня програма 1-4 класи</p>
             </div>
           </div>
         </a>
