@@ -31,6 +31,40 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+      
+
+        <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">01.06.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+             
+              <a target="_blank" rel="noreferrer" href="  https://drive.google.com/file/d/1GXOj-LBnh-HwD5SoxvOtEo2oyTPhpmIa/view?usp=sharing">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Інформація про дитячі заклади оздоровлення та відпочинку</p>
+                    </div>
+                  </div>
+                </a>
+                
+              <br></br>
+
+                                              
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Інформація про дитячі заклади оздоровлення та відпочинку Івано-Франківської області які планують здійснювати діяльність у 2023р.</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
