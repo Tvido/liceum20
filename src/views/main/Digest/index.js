@@ -33,6 +33,36 @@ const Digest = () => {
 
       
 
+        {/* <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">09.06.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+             
+              
+              <iframe width="100%" height="293" src="https://www.youtube.com/embed/ZWxBA5dtiWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <br></br>                               
+              <br></br>                               
+              <iframe width="100%" height="293" src="https://www.youtube.com/embed/YFEA3uViHwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <br></br>                               
+              <br></br>                               
+              <iframe width="100%" height="293" src="https://www.youtube.com/embed/7ez-OKnkOmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <br></br>   
+              <br></br>   
+                            
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">ГУНП в Івано-Франківській області попереджає! </cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> */}
+
         <div className="cardWrapper">
           <Col md={12}>
             <Card>
