@@ -33,11 +33,11 @@ const Digest = () => {
 
       
 
-        {/* <div className="cardWrapper">
+        <div className="cardWrapper">
           <Col md={12}>
             <Card>
               <Card.Header>
-                <Card.Title as="h5">09.06.2023</Card.Title>
+                <Card.Title as="h5">15.06.2023</Card.Title>
               </Card.Header>
               <Card.Body>
              
@@ -61,7 +61,7 @@ const Digest = () => {
               </Card.Body>
             </Card>
           </Col>
-      </div> */}
+      </div>
 
         <div className="cardWrapper">
           <Col md={12}>
