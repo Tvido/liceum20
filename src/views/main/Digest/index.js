@@ -25,11 +25,105 @@ import nakaz_reestracija_1_klas from './nakaz_reestracija_1_klas.png';
 import odeska_uridchna_akademiya_1 from './odeska_uridchna_akademiya_1.jpg';
 import odeska_uridchna_akademiya_2 from './odeska_uridchna_akademiya_2.jpg';
 import hnu from './hnu.jpg';
+import card1 from './Cards_OO_1.png';
+import card2 from './Cards_OO_2.png';
+import card3 from './Cards_OO_3.png';
+import card4 from './Cards_OO_4.png';
+import card5 from './Cards_OO_5.png';
+import card6 from './Cards_OO_6.png';
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+          <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">27.06.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+             
+              <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1jvO5odgD3uQiCtN91RTdZPtG8ehNHHgu/view?usp=sharing">
+                  <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Про зарахування здобувачів освіти на вільні місця до 1-ого класу на 2023-2024 н.р.</p>
+                    </div>
+                  </div>
+                </a>
+                
+              <br></br>
+
+            
+                                   
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Наказ про зарахування здобувачів освіти на вільні місця до 1-ого класу на 2023-2024 н.р.</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">16.06.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+                <blockquote>
+                  <div>
+                    <a href=""><img src={card1} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={card2} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={card3} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={card4} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={card5} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+                  <br></br>
+                  <blockquote>
+                  <div>
+                    <a href=""><img src={card6} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+
+                 
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">ЧИМ ЗАЙМАЄТЬСЯ УПОВНОВАЖЕНИЙ ВЕРХОВНОЇ РАДИ УКРАЇНИ З ПРАВ ЛЮДИНИ?</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
 
       <div className="cardWrapper">
           <Col md={12}>
