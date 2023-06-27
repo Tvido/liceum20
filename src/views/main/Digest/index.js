@@ -45,12 +45,12 @@ const Digest = () => {
               </Card.Header>
               <Card.Body>
              
-              <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1jvO5odgD3uQiCtN91RTdZPtG8ehNHHgu/view?usp=sharing">
+              <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSeyjpm_QpEphW63VfNYuHpHHpIxyqdbnpUsigR9Xtk8ujtndA/closedform">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
 
-                      <p>Про зарахування здобувачів освіти на вільні місця до 1-ого класу на 2023-2024 н.р.</p>
+                      <p>Опитування щодо безпеки в організації освітнього процесу в умовах воєнного стану.</p>
                     </div>
                   </div>
                 </a>
@@ -62,7 +62,7 @@ const Digest = () => {
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
-                  <cite title="Source Title">Наказ про зарахування здобувачів освіти на вільні місця до 1-ого класу на 2023-2024 н.р.</cite>
+                  <cite title="Source Title">Опитування щодо безпеки в організації освітнього процесу в умовах воєнного стану.</cite>
                   </footer>
                 </blockquote>
               </Card.Body>
