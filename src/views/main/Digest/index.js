@@ -31,11 +31,45 @@ import card3 from './Cards_OO_3.png';
 import card4 from './Cards_OO_4.png';
 import card5 from './Cards_OO_5.png';
 import card6 from './Cards_OO_6.png';
+import Svitlana_Haridzhuk from './Svitlana Haridzhuk.jpg';
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">27.06.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href=""><img src={Svitlana_Haridzhuk} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+             
+             
+                
+              <br></br>
+
+              <p>Воркшоп "From Phd to Innovator WOMXNI" проходив у місті Потсдам, Німеччина. Тривав 2 дні, з 01.06 до 02.06. Програма заходу націлена  на те, щоб заохочувати молодь брати участь у науковій діяльності, а також перетворювати свої дослідження чи ідеї на комерційні проекти. Це інтерактивна програма семінарів, де разом з однолітками учасники вивчали методи та навички реалізації свого інноваційного потенціалу під керівництвом професійних тренерів з інновацій.
+Семінар проводився англійською мовою. Перший день складався з знайомства, формування команд, лекцій та зустрічей з сучасними інноваторами. Другий день воркшопу був присвячений роботі в команді та створенню свого стартапу. 
+Все це є чудовим досвідом та можливістю отримати нові знайомства серед загальноєвропейської спільноти, а також перевірити себе на креативність та цілеспрямованість.</p>
+                                   
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Учитель біології Світлана Гаріджук взяла участь у воркшопі "From Phd to Innovator WOMXNI"</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
 
       <div className="cardWrapper">
           <Col md={12}>
@@ -78,6 +112,8 @@ const Digest = () => {
                 <Card.Title as="h5">27.06.2023</Card.Title>
               </Card.Header>
               <Card.Body>
+
+                
              
               <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSeyjpm_QpEphW63VfNYuHpHHpIxyqdbnpUsigR9Xtk8ujtndA/closedform">
                   <div className="section__box">
