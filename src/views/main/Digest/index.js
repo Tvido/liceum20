@@ -32,11 +32,94 @@ import card4 from './Cards_OO_4.png';
 import card5 from './Cards_OO_5.png';
 import card6 from './Cards_OO_6.png';
 import Svitlana_Haridzhuk from './Svitlana Haridzhuk.jpg';
+import Kostyuk_Yevhen from './Kostyuk_Yevhen.jpg';
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">30.06.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+                    
+                           
+             <h4>Запрошуємо студентів та абітурієнтів Івано-Франківська взяти участь у соціальній програмі Scholarship.</h4> 
+              <b><p>Адже майбутнє нашої країни не тільки в руках наших відважних військових, а й у ваших! 
+Головний приз - гранти (стипендія) на сплату року навчання в українському ВНЗ. <br></br>
+Наразі відкрито 4 номінації: <br></br>
+18 000 грн. - <a href="https://seoquick.com.ua/scholarship-ua/">https://seoquick.com.ua/scholarship-ua/</a> (запитання та роботи надсилати на пошту: lily@scholarship.events)<br></br>
+25 000 грн. - <a href="https://trading.biz/ua/scholarship">https://trading.biz/ua/scholarship</a> (запитання та роботи надсилати на пошту: scholarship@trading.biz)<br></br>
+25 000 грн. - <a href="https://art-trade.com.ua/ua/scholarship/">https://art-trade.com.ua/ua/scholarship/</a> (запитання та роботи надсилати на пошту: scholarship@art-trade.com.ua )<br></br>
+30 000 грн. - <a href="https://kes.com.ua/ua/scholarship/">https://kes.com.ua/ua/scholarship/</a> (запитання та роботи надсилати на пошту: kesklinika@ukr.net)<br></br>
+Участь повністю безкоштовна. <br></br>
+Ми оплачуємо навчання в усіх закладах, як приватних, так і державних. <br></br>
+Будемо дуже вдячні, якщо Ви зможете розмістити інформацію про соціальну програму на Вашому сайті osvita.if.ua<br></br>
+
+В цей тяжкий і нелегкий час для всіх українців, в умовах військового стану, багато сімей вже постраждало від рук ворога.
+В зв'язку з цим ми хочемо потурбуватися про наступне покоління нашої держави і надати можливість юним українцям отримати безкоштовне навчання.
+Давайте об єднаймося! Нехай кожен зробить свій вклад для побудови гідного майбутнього України.   
+Запрошуємо студентів та абітурієнтів Івано-Франківська взяти участь у соціальній програмі Scholarship. 
+Адже майбутнє нашої країни не тільки в руках наших відважних військових, а й у ваших! 
+Головний приз - гранти (стипендія) на сплату року навчання в українському ВНЗ. 
+Наразі відкрита ще одна номінація: 
+25 000 грн. - <a href="https://trading.biz/ua/scholarship">https://trading.biz/ua/scholarship</a> (запитання та роботи надсилати на пошту: scholarship@trading.biz)
+Участь повністю безкоштовна. <br></br>
+Ми оплачуємо навчання в усіх закладах, як приватних, так і державних.<br></br> 
+Будемо дуже вдячні, якщо Ви зможете розмістити інформацію про соціальну програму на Вашому сайті osvita-mvk.if.ua
+Розбудуймо Україну разом! Слава Україні!<br></br>
+Запрошуємо студентів та абітурієнтів Івано-Франківська взяти участь у соціальній програмі Scholarship.<br></br> 
+Головний приз - гранти (стипендія) на сплату року навчання в українському ВНЗ. 
+<br></br>
+<br></br>
+З повагою <br></br>
+Лілія Ярмоленко, куратор соціальних і благодійних проектів</p></b>
+                                   
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Cоціальна програма Scholarship</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">29.06.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href=""><img src={Kostyuk_Yevhen} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote>
+             
+             
+                
+              <br></br>
+
+                                                
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <cite title="Source Title">Вітаємо Костюка Євгена</cite>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
 
       <div className="cardWrapper">
           <Col md={12}>
