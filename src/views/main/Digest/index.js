@@ -34,11 +34,51 @@ import card6 from './Cards_OO_6.png';
 import Svitlana_Haridzhuk from './Svitlana Haridzhuk.jpg';
 import Kostyuk_Yevhen from './Kostyuk_Yevhen.jpg';
 import HNUVS from './HNUVS.png';
+import UINP from './UINP.png';
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">01.08.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href="https://drive.google.com/file/d/11Cs4q0PtOsK9Zct-JD8YyGwCDRojVUV-/view?usp=sharing">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <img src={UINP} alt="" className="cardHero" />
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+             
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://drive.google.com/file/d/1ZP3nWtg7zBYcnTxSvroi_vDb5szW8y1D/view?usp=sharing"><cite title="Source Title">Інформаційні матеріали до Дня Української Державності – 2023</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
 
       <div className="cardWrapper">
           <Col md={12}>
