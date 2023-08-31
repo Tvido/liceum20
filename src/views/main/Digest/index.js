@@ -40,6 +40,59 @@ const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">31.08.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href="https://drive.google.com/file/d/1Xj6GmEW9MDWAKogJ0U1iw7fI6ligfKvN/view?usp=sharing">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Наказ про зарахування здобувачів освіти на вільні місця до 1-ого класу на 2023-2024 н.р</p>
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+
+                <blockquote>
+                  <div>
+                    <a href="https://drive.google.com/file/d/1wgjXnL-_FSeyCA7gktUuhJ-O7hVY6H2J/view?usp=sharing">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Додаток до наказу про зарахування здобувачів освіти на вільні місця до 1-ого класу на 2023-2024 н.р</p>
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+             
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Наказ про зарахування здобувачів освіти на вільні місця до 1-ого класу на 2023-2024 н.р</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
+
 
       <div className="cardWrapper">
           <Col md={12}>
