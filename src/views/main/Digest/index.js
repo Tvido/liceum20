@@ -40,6 +40,46 @@ const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">11.09.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href="https://docs.google.com/document/d/1kseFn7-zyRuPgu_mpg1LhlKcSeuO4Av6/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>МІСЬКИЙ ЦЕНТР ДИТЯЧОЇ ТА ЮНАЦЬКОЇ ТВОРЧОСТІ проводить набір на навчання у 2023-2024 навчальному році</p>
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">МІСЬКИЙ ЦЕНТР ДИТЯЧОЇ ТА ЮНАЦЬКОЇ ТВОРЧОСТІ проводить набір на навчання у 2023-2024 навчальному році </cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
+
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
