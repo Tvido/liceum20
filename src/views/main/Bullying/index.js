@@ -20,27 +20,37 @@ const Bullying = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ae39NNbg8N5HFHnVA9KiNA4wUQ0qi8g3/view">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qmHGuXqLOx4TCijq-l7TR06P4ZSElw5Y/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Наказ “Про внесення змін до Закону України “Про освіту” щодо протидію булінгу”</p>
+              <p>Про організацію роботи щодо запобігання та протидії булінгу</p>
             </div>
           </div>
         </a>
 
-         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1OiEA5pKnT6-BjicD0ilkACGwscmIo7Vu/view">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1GnF_mGMdJQSanHeIhK6TiKpRmjc-oAn5/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Додаток №2 План заходів, спрямованих на запобігання та протидію булінгу</p>
+              <p>Додаток №1. Комісія з розгляду випадку булінгу</p>
             </div>
           </div>
         </a>
 
-                <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/13eC2-FgBpQzeZEEeyTwf7fioU-g23SB6/view">
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1BDpibHjZ8pW0I5WAJ_k6Q5OvpU2mI83U/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Додаток №2. План заходів щодо створення безпечного середовища та профілактики булінгу</p>
+            </div>
+          </div>
+        </a>
+
+                {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/13eC2-FgBpQzeZEEeyTwf7fioU-g23SB6/view">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -58,9 +68,9 @@ const Bullying = () => {
               <p>Додаток №4 “Порядок реагування”</p>
             </div>
           </div>
-        </a>
+        </a> */}
         
-         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1QvZ2kJjt_upcKqaMVsyvjJEClwNtn2S5/view">
+         {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1QvZ2kJjt_upcKqaMVsyvjJEClwNtn2S5/view">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -68,8 +78,8 @@ const Bullying = () => {
               <p>Про організацію роботи щодо запобігання та протидії булінгу (цькуванню)”</p>
             </div>
           </div>
-        </a>
-      </div>
+        </a>*/}
+      </div> 
 
       <div className="cardWrapper">
         <Col md={12}>
