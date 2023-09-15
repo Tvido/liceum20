@@ -7,8 +7,21 @@ const AnnualPlan = () => {
         <div className="article__wrapper">
         </div>
 
+        
+
 
       <div className="article__wrapper">
+
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1TYPl9Q5AH2AvlFEHpjE38g46YOz2zRJd/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Річний план роботи ліцею на 2022-2023 н. р.</p>
+            </div>
+          </div>
+        </a>
+
       <h5>РІЧНИЙ ПЛАН Ліцею №20 Івано-Франківської міської ради Івано-Франківської області на 2020/2021 навчальний рік</h5>
 
       <div className="terms__link">
