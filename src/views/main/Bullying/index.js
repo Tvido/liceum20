@@ -50,6 +50,16 @@ const Bullying = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1gL4qAFy1zlDoOBJP0wELGnhR7GEzQt4c/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Додаток №3. Порядок реагування на доведені випадки булінгу (цькування) в закладі освіти та відповідальність осіб, причетних до булінгу (цькування)</p>
+            </div>
+          </div>
+        </a>
+
                 {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/13eC2-FgBpQzeZEEeyTwf7fioU-g23SB6/view">
           <div className="section__box">
             <div className="section__content">
