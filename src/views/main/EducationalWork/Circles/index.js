@@ -5,6 +5,7 @@ import one from './one.png'
 import two from './two.png'
 import three from './three.png'
 import four from './four.png'
+import DUSSH from './DUSSH.jpg'
 
 const Certification = () => {
   return (
@@ -190,6 +191,14 @@ const Certification = () => {
         </Table>
       </Card.Body>
 
+      <Card.Body>
+              <blockquote>
+                <div>
+                  <img src={DUSSH} alt="" className="cardHero" />
+                </div>
+              </blockquote>
+            </Card.Body>
+
       <p>Директор Ліцею № 20 Дмитро Скиданчук</p>
 
 
@@ -198,6 +207,9 @@ const Certification = () => {
       <div className="cardWrapper">
         <Col md={12}>
           <Card>
+
+          
+
             <Card.Body>
               <blockquote>
                 <div>
