@@ -6,6 +6,18 @@ const PedagogueParents = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+
+
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1CH8pITraK8yBGKoSEXDX9dDebcMarLOn/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>ДОМАШНІ ЗАНЯТТЯ З ДИТИНОЮ: ЯК ОРГАНІЗУВАТИ?</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://nus.org.ua/news/obov-yazky-batkiv-i-ditej-shhodo-zdobuttya-shkilnoyi-osvity-v-ukrayini-sluzhba-osvitnogo-ombudsmena/">
           <div className="section__box">
             <div className="section__content">

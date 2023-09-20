@@ -4,9 +4,20 @@ const PedagogueTeachers = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
-      <h5>Адміністративна відповідальність за булінг</h5>
+      
 
       <div className="section__grid">
+
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1msXRVzdW5jKaJOg3DJvZJfN0rgFBGkjy/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Топ-10 неприємних порад дорослим</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1fZ83R_dTy93HsScbFPcjLK96ZnG0_zlu/view">
           <div className="section__box">
             <div className="section__content">
