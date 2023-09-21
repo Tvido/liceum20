@@ -4,7 +4,9 @@ const Vacancies = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
-      <p>Вакансія учителя англійської мови (початкова школа).</p>
+      <p>Вакансія учителя інформатики (декретне місце).</p>
+      <br></br>
+      
       <div className="section__grid">
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1cP-z_xop5g1z-QDTRMTo15nFajh8DeSq/view">
