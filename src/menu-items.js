@@ -442,6 +442,14 @@ const menuItems = {
           icon: 'feather icon-hash',
         },
         {
+          id: 'results-of-education-quality-monitoring',
+          title: 'Результати моніторингу якості освіти',
+          type: 'item',
+          url: '/results-of-education-quality-monitoring',
+          classes: 'nav-item',
+          icon: 'feather icon-hash',
+        },
+        {
           id: 'evaluation-criteria',
           title: 'Критерії оцінювання',
           type: 'item',

@@ -329,6 +329,11 @@ const routes = [
         path: '/educational-programs',
         component: lazy(() => import('./views/main/EducationalPrograms'))
       },
+       {
+        exact: true,
+        path: '/results-of-education-quality-monitoring',
+        component: lazy(() => import('./views/main/ResultsOfEducationQualityMonitoring'))
+      },
       {
         exact: true,
         path: '/evaluation-criteria',
