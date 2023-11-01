@@ -71,7 +71,7 @@ const Certification = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ic_QCU8fOoelhdvsOwOke1JXLzji3RrE/view">
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1r_96sFAxoLI7CTFZ89fpLVEx7di4YJmH/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -87,6 +87,16 @@ const Certification = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Список педагогічних працівників Ліцею №20, які атестуються у 2024</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1UUPFr_0nbxz7Fxm_w1XVDErDmXvmHGp7/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>ПЕРСПЕКТИВНИЙ ПЛАН-ГРАФІК АТЕСТАЦІЇ ПЕДАГОГІЧНИХ ПРАЦІВНИКІВ НА 2024-2029 РОКИ</p>
             </div>
           </div>
         </a>
