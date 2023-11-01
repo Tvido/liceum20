@@ -61,16 +61,6 @@ const Certification = () => {
       </Card.Body>
 
       <div className="section__grid">
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12QAq5OrqpqCgizAvBsoLP-2vlFzZrtcs/view">
-          <div className="section__box">
-            <div className="section__content">
-              <h3>Клікни, щоби читати</h3>
-
-              <p>ПЕРСПЕКТИВНИЙ ПЛАН-ГРАФІК АТЕСТАЦІЇ ПЕДАГОГІЧНИХ ПРАЦІВНИКІВ НА 2019-2024 РОКИ</p>
-            </div>
-          </div>
-        </a>
-
         <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1r_96sFAxoLI7CTFZ89fpLVEx7di4YJmH/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">
