@@ -26,6 +26,16 @@ const EstimatesAndFinancialStatements = () => {
             </div>
           </div>
         </a>
+
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/12zZqsunpEah-27XTrHyQV4e2Di1bTEQI/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обґрунтування технічних та якісних характеристик закупівлі послуг з організації гарячого харчування учнів пільгових категорій</p>
+            </div>
+          </div>
+        </a>
       </div>
 
       <h5>Фінансова  звітність за 2022р.</h5>
@@ -537,6 +547,16 @@ const EstimatesAndFinancialStatements = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Звіт про обіг бюджетних коштів за вересень 2023 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1D85vOTcA-k2G5NyYgd_8tsy41WsbUNOE/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за жовтень 2023 року</p>
             </div>
           </div>
         </a>
