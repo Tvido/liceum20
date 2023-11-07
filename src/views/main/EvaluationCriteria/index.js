@@ -223,15 +223,7 @@ const EvaluationCriteria = () => {
           </div>
         </a>
 
-        <a target="_blank" href="/">
-          <div className="section__box">
-            <div className="section__content">
-              <h3>Клікни, щоби читати</h3>
-
-              <p>Критерії оцінювання загальноосвітніх дисциплін ??????????</p>
-            </div>
-          </div>
-        </a>
+        
       </div>
         </div>
 
