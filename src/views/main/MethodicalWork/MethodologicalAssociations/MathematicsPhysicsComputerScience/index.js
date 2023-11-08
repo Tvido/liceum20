@@ -30,7 +30,13 @@ const ElementarySchool = () => {
 
             <tr>
               <td>
-                <b>Дутчак Тарас Вікторович</b>
+                <b>Безрука Вікторія Євгенівна</b>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <b>Шишман Владислав Володимирович</b>
               </td>
             </tr>
 
@@ -46,7 +52,7 @@ const ElementarySchool = () => {
               </td>
             </tr>
 
-            {/* <tr>
+            <tr>
               <td>
                 <b>
                   <a target="_blank" rel="noreferrer" href="https://blohinformatuka.blogspot.com/2019/01/blog-post.html">
@@ -54,7 +60,7 @@ const ElementarySchool = () => {
                   </a>
                 </b>
               </td>
-            </tr> */}
+            </tr>
 
             {/* <tr>
               <td>
@@ -86,7 +92,7 @@ const ElementarySchool = () => {
 
             <tr>
               <td>
-                <b>Гайдаш Микола Іванович</b>
+                <b>Комарницька Ірина Степанівна</b>
               </td>
             </tr>
           </tbody>

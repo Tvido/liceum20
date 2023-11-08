@@ -7,7 +7,7 @@ const Teachers = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
-      <h5>Кількісний та якісний аналіз педагогічного складу Ліцею № 20 2020-2021</h5>
+      <h5>Кількісний та якісний аналіз педагогічного складу Ліцею № 20 2023-2024</h5>
 
       <Card.Body>
         <Table responsive hover>
@@ -24,7 +24,7 @@ const Teachers = () => {
 
             <tr>
               <td>“Спеціаліст вищої категорії”</td>
-              <td>46</td>
+              <td>47</td>
             </tr>
 
             <tr>
@@ -34,7 +34,7 @@ const Teachers = () => {
 
             <tr>
               <td>“Спеціаліст другої категорії”</td>
-              <td>18</td>
+              <td>15</td>
             </tr>
 
             <tr>
@@ -43,13 +43,23 @@ const Teachers = () => {
             </tr>
 
             <tr>
+              <td>Бакалаврів</td>
+              <td>8</td>
+            </tr>
+
+            <tr>
               <td>Спеціалістів</td>
-              <td>21</td>
+              <td>8</td>
+            </tr>
+
+            <tr>
+              <td>Магістрів</td>
+              <td>8</td>
             </tr>
 
             <tr>
               <td>Разом</td>
-              <td>97</td>
+              <td>98</td>
             </tr>
 
           </tbody>

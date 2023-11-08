@@ -34,7 +34,7 @@ const NaturalDisciplines = () => {
               </td>
             </tr>
 
-            {/* <tr>
+            <tr>
               <td>
                 <b>
                   <a target="_blank" rel="noreferrer" href="https://katrych-irina.blogspot.com/">
@@ -42,7 +42,7 @@ const NaturalDisciplines = () => {
                   </a>
                 </b>
               </td>
-            </tr> */}
+            </tr>
 
             <tr>
               <td>

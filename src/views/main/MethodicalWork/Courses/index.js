@@ -11,16 +11,16 @@ const Courses = () => {
       <article>
         <ul>
           <li>
-            <b>30</b> годин, якщо завершення атестації припадає на <b>2020</b> рік;
+            <b>30</b> годин, якщо завершення атестації припадає на <b>2021</b> рік;
           </li>
           <li>
-            <b>60</b> годин, якщо завершення атестації припадає на <b>2021</b> рік;
+            <b>60</b> годин, якщо завершення атестації припадає на <b>2022</b> рік;
           </li>
           <li>
-            <b>90</b> годин, якщо завершення атестації припадає на <b>2022</b> рік;
+            <b>90</b> годин, якщо завершення атестації припадає на <b>2023</b> рік;
           </li>
           <li>
-            <b>150</b> годин, якщо завершення атестації припадає на <b>2023</b> рік та наступні роки;
+            <b>150</b> годин, якщо завершення атестації припадає на <b>2024</b> рік та наступні роки;
           </li>
         </ul>
       </article>
@@ -46,7 +46,7 @@ const Courses = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1v17QOAIGoze334GP1kqnsUSZDuzsq75k/view">
+        {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1v17QOAIGoze334GP1kqnsUSZDuzsq75k/view">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -57,9 +57,9 @@ const Courses = () => {
               </p>
             </div>
           </div>
-        </a>
+        </a> */}
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/14n0nUcmpjCqHp8oTGi7rAbxINR6P4gOL/view">
+        {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/14n0nUcmpjCqHp8oTGi7rAbxINR6P4gOL/view">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -67,7 +67,7 @@ const Courses = () => {
               <p>Порядок про визнання результатів ЗЗСО</p>
             </div>
           </div>
-        </a>
+        </a> */}
       </div>
         </div>
 

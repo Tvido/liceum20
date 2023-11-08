@@ -43,7 +43,7 @@ const PhysicalCultureProtectionOfUkraineBasicsOfHealth = () => {
 
             <tr>
               <td>
-                <b>Петрина Юлія Олександрівна</b>
+                <b>Костів Ольга Анатоліївна</b>
               </td>
             </tr>
 
