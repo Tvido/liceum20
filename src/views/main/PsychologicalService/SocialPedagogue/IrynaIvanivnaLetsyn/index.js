@@ -51,6 +51,16 @@ const IrynaIvanivnaLetsyn = () => {
                 </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1FiYgtJEOAbW7oFgkp0xOixsJ9zH4m6P4/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+                <div className="section__box">
+                  <div className="section__content">
+                    <h3>Клікни, щоби читати</h3>
+
+                    <p>Інформація про діяльність гарячих ліній</p>
+                  </div>
+                </div>
+        </a>
+
       </div>
 
       <div className="article">
