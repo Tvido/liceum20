@@ -6,6 +6,19 @@ const EstimatesAndFinancialStatements = () => {
       <div className="article__wrapper">
 
       <div className="section__grid">
+
+      
+
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_3VlckYiSKmcp_IAxvxTUbUU4Ghxm9iv/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування підстави для здійснення закупівлі теплової енергії</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qLWXy8UzCYEkMOHvHq4cbV9x5zCNpLcg/view?usp=share_link">
           <div className="section__box">
             <div className="section__content">
