@@ -8,8 +8,17 @@ const EstimatesAndFinancialStatements = () => {
       <div className="section__grid">
 
       
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1z7U_vaOTf9rQMDDvjeSCw2ntln6gOswV/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
 
-      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_3VlckYiSKmcp_IAxvxTUbUU4Ghxm9iv/view?usp=sharing">
+              <p>Обгрунтування характеристик (Електрична енергія на 2024 р.)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_3VlckYiSKmcp_IAxvxTUbUU4Ghxm9iv/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -18,6 +27,7 @@ const EstimatesAndFinancialStatements = () => {
             </div>
           </div>
         </a>
+
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qLWXy8UzCYEkMOHvHq4cbV9x5zCNpLcg/view?usp=share_link">
           <div className="section__box">
