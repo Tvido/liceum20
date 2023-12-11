@@ -45,6 +45,85 @@ const Digest = () => {
           <Col md={12}>
             <Card>
               <Card.Header>
+                <Card.Title as="h5">11.12.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href="https://docs.google.com/document/d/1hluWqaNVAaU6lyUaFuEfG63Us4Vj9jH4/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Всеукраїнська акція «16 днів проти насильства»</p>
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Комунікаційна пам'ятка до Всеукраїнської акції «16 днів проти насильства»</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">11.12.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href="https://docs.google.com/document/d/12AO_MT4iuTY_DRy_G933tKVAEbhn89B6/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Проєкт «5 Кроків до здорового харчування»</p>
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Наш ліцей бере участь у проєкті «5 Кроків до здорового харчування». Тож упродовж наступних двох тижнів ми дізнаємося всі секрети про здорове та збалансоване харчування, його вплив на твоє самопочуття і навіть на успішність у навчанні!</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div> 
+
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
                 <Card.Title as="h5">21.11.2023</Card.Title>
               </Card.Header>
               <Card.Body>
