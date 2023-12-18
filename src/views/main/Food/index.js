@@ -6,6 +6,17 @@ const Food = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+      
+                    <a href="https://docs.google.com/document/d/1ib924r3V2acwuGb4uqbuoXJFPNUpRqF3/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Поговоримо про цукор</p>
+                    </div>
+                    </div>
+                    </a>
+                
      
              
                     <a href="https://docs.google.com/document/d/1V5tK5R8n1V4nJg-G1jRrkuWxK_sAx0Rx/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
