@@ -41,6 +41,85 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">20.12.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href="https://docs.google.com/document/d/1qbrP_lCZL0ybZJXEqDnSBSh49oBvF_NN/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Вітаємо Лис Ірину Володимирівну та Лиско Марію Іванівну!</p>
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Привітання</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">20.12.2023</Card.Title>
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                    <a href="https://docs.google.com/document/d/1532sBk1WG4KlGYSDYHF_BHXyPooc1Lao/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Сьогодні поговоримо про воду. Пий більше води!</p>
+                    </div>
+                    </div>
+                    </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Сьогодні поговоримо про воду</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
