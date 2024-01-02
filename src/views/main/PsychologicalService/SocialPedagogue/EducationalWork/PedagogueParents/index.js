@@ -6,6 +6,36 @@ const PedagogueParents = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1VHyHa7CEP2GQmtO9H3YzI8r8Dl5MduU6/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Протидія домашньому насильству</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1dVFXkaRyooX6S4hInC_CDJtrM65NSmqn/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Як посттравматичний стресовий розлад проявляється у дітей та підлітків</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1TxW0MrfrobBT7mu4CV_H95x5gObAg1JK/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Як допомогти дітям пережити втрату рідних на війні</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1RRY08Yy3VsWI2rSS2KQG4m_gCxSgFAqA/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">

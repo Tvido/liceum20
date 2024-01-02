@@ -8,6 +8,16 @@ const PedagogueTeachers = () => {
 
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/presentation/d/14ykh2Ul3Fy98Abf4psSmNaVZAj3mS52l/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Запобігання та протидія проявам домашнього насильства</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1msXRVzdW5jKaJOg3DJvZJfN0rgFBGkjy/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
