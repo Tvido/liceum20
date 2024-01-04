@@ -7,8 +7,21 @@ const CareerGuidanceWork = () => {
   return (
     <React.Fragment>
 
+
+
 <div className="article__wrapper">
     <div className="section__grid">
+
+    <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1uEwpDbkXQdvCqGP5gIFxEN71p8zCQ-CI/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ ЦИВІЛЬНОГО ЗАХИСТУ УКРАЇНИ</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://youtu.be/1YWWQgXp20g">
           <div className="section__box">
             <div className="section__content">
