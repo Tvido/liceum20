@@ -6,6 +6,16 @@ const Food = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+                    <a href="https://drive.google.com/file/d/1unf7qwCU_2t66QG3Z3ubMxkEeN_BxFBN/view?usp=sharing">
+                    <div className="section__box">
+                    <div className="section__content">
+                      <h3>Клікни, щоби читати</h3>
+
+                      <p>Графік харчування учнів 1-11 класів в їдальні Ліцею №20 Івано-Франківської міської ради на II семестр 2023-2024 н.р.</p>
+                    </div>
+                    </div>
+                    </a>
+
       
                     <a href="https://docs.google.com/document/d/1ib924r3V2acwuGb4uqbuoXJFPNUpRqF3/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
                     <div className="section__box">
