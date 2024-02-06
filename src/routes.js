@@ -371,6 +371,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/emergency',
+        component: lazy(() => import('./views/main/Emergency'))
+      },
+      {
+        exact: true,
         path: '/terms-of-availability',
         component: lazy(() => import('./views/add/TermsOfAvailability'))
       },

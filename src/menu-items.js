@@ -501,7 +501,15 @@ const menuItems = {
           url: '/covid',
           classes: 'nav-item',
           icon: 'feather icon-hash',
-        }
+        },
+        {
+          id: 'emergency',
+          title: 'Надзвичайні ситуації',
+          type: 'item',
+          url: '/emergency',
+          classes: 'nav-item',
+          icon: 'feather icon-hash',
+        },
       ]
     },
     {
