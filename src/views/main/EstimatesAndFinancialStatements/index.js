@@ -594,6 +594,36 @@ const EstimatesAndFinancialStatements = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11_RlTXAUqTUz-KrNRxj0OgCKqrv_lx0o/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за листопад 2023 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1-OM0JQ4g3Y8VmmaaZ20rqvpdKZ_Rvjnp/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за грудень 2023 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1hScN7BTQeUQobs8MMssQ8yGukGuGuNqK/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за січень 2024 року</p>
+            </div>
+          </div>
+        </a>
+
         
       </div>
         </div>
