@@ -6,6 +6,16 @@ const PsychologistPupils = () => {
       <div className="article__wrapper">
         <div className="section__grid">
 
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1T0KGWNy0nLkceDgmRtZGWliMuPyaC9QQ/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Жести та слова подяки для військового. Якими словами, вчинками та жестами можна продемонструвати свою шану військовим? Як підтримати розмову з військовослужбовцями, що повернулися з війни?</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://fb.watch/ky05f-XVg3/">
               <div className="section__box">
                 <div className="section__content">
