@@ -45,6 +45,16 @@ const RulesOfAdmission = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/presentation/d/1HKPz2xlIG3iAFB7weCDqon1ySiKhtgG3/edit?usp=drive_link&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Основне</p>
+            </div>
+          </div>
+        </a>
+
          {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12NmO-giVtG8w4enQDYIp8S6YxpfpAD7X/view">
           <div className="section__box">
             <div className="section__content">
