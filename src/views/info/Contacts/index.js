@@ -20,9 +20,7 @@ const Contacts = () => {
               <th>Телефон +38 (0342) 56-05-73</th>
             </tr>
             
-            <tr>
-              <th>Електронна адреса:  liceum20@ukr.net</th>
-            </tr>
+           
           </tbody>
         </Table>
       </Card.Body>
