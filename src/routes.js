@@ -362,7 +362,12 @@ const routes = [
       {
         exact: true,
         path: '/bullying',
-        component: lazy(() => import('./views/main/Bullying'))
+        component: lazy(() => import('./views/main/Bullying/Bullying'))
+      },
+      {
+        exact: true,
+        path: '/prevention-of-bullying',
+        component: lazy(() => import('./views/main/Bullying/PreventionOfBullying'))
       },
       {
         exact: true,

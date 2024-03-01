@@ -489,11 +489,29 @@ const menuItems = {
         {
           id: 'bullying',
           title: 'Булінг',
-          type: 'item',
+          type: 'collapse',
           url: '/bullying',
           classes: 'nav-item',
-          icon: 'feather icon-hash',
+          icon: 'feather icon-menu',
+          children: [
+            {
+              id: 'bullying',
+              title: 'Булінг',
+              type: 'item',
+              url: '/bullying',
+              classes: 'nav-item',
+            },
+            {
+              id: 'prevention-of-bullying',
+              title: 'Запобігання цькуванню',
+              type: 'item',
+              url: '/prevention-of-bullying',
+              classes: 'nav-item',
+            },
+          ]
         },
+       
+       
         {
           id: 'covid',
           title: 'COVID',
