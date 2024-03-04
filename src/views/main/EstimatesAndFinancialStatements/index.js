@@ -71,6 +71,65 @@ const EstimatesAndFinancialStatements = () => {
         </a>
       </div>
 
+      <h5>Фінансова  звітність за 2023р.</h5>
+
+
+
+
+      <div className="section__grid">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1LATn8nldY0zlrTzhQsXiQIfiqA1Jgk3g/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Баланс</p>
+            </div>
+          </div>
+        </a>
+      
+
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ZfEyea1TKAR_m3la13M0aYHPyCyIMTSI/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про власний капітал за 2023 р</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_I80r1tFE5vc0nWop4dmdzm4pjpEGZgc/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про рух грошових коштів за 2023 р</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1nItnON2Ny3QU5HhASaIe4JUUMXB_oCTT/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про фінансові результати за 2023 р</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12PgYoqlMnijtcK6ylqpoB4G1hOdx-nfo/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Примітки до річної фінансової звітності за 2023 р.</p>
+            </div>
+          </div>
+        </a>
+      </div>
+
+
       <h5>Фінансова  звітність за 2022р.</h5>
 
 
@@ -230,6 +289,26 @@ const EstimatesAndFinancialStatements = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Кошторис на 2023 рік (0611210)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1oWU0c6Hd01wfCcESV8te330QaC751eAM/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2024 рік (0611021)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1QPFtIe2p4Si7jTpdyVEfY-fYT4MSR3Ag/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2024 рік (0611031)</p>
             </div>
           </div>
         </a>
@@ -620,6 +699,16 @@ const EstimatesAndFinancialStatements = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Звіт про обіг бюджетних коштів за січень 2024 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lraJ5rya-4ZCcvcZ8q3ImwvcTEQQUYjZ/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за лютий 2024 року</p>
             </div>
           </div>
         </a>
