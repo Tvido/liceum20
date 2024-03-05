@@ -62,7 +62,7 @@ const PreventionOfBullying = () => {
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Комісія і засідання</p>
+              <p>Комісія і засідання.</p>
             </div>
           </div>
         </a>
