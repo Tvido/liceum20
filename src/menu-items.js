@@ -239,7 +239,7 @@ const menuItems = {
             // },
             {
               id: 'dup-2019',
-              title: 'ДЮП-2019',
+              title: 'ДЮП',
               type: 'item',
               url: '/dup-2019'
             },
