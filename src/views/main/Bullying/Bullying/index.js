@@ -91,7 +91,7 @@ const Bullying = () => {
         </a>*/}
       </div> 
 
-      <div className="cardWrapper">
+      {/* <div className="cardWrapper">
         <Col md={12}>
           <Card>
             <Card.Body>
@@ -127,7 +127,7 @@ const Bullying = () => {
             </Card.Body>
           </Card>
         </Col>
-      </div>
+      </div> */}
         </div>
 
     </React.Fragment>
