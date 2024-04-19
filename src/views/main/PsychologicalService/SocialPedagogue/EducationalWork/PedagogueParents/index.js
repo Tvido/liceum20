@@ -6,6 +6,26 @@ const PedagogueParents = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1pVwJtq6iIeiYYCL6LIo2vqJ6m7Unr1d9/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Рекомендації батькам! Хто відповідає за здоров’я та безпеку дітей?</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1DviPcr0rdsZgWbRn47yEAECcFqawVB3S/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Відповідальність за розпиття алкогольних напоїв неповнолітніми</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1O-pd4yuayXhSa6KBGEB6NTExpN20EMzJ/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
@@ -21,7 +41,7 @@ const PedagogueParents = () => {
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Порядок надання статусу дитини, яка постраждала від воєнних дій та збойних конфліктів</p>
+              <p>Порядок надання статусу дитини, яка постраждала від воєнних дій та збройних конфліктів</p>
             </div>
           </div>
         </a>
