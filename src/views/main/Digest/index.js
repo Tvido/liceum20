@@ -72,7 +72,7 @@ const Digest = () => {
 
                 <blockquote className="blockquote text-right">
                   <footer className="blockquote-footer">
-                  <a href=""><cite title="Source Title">НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ ЦИВІЛЬНОГО ЗАХИСТУ УКРАЇНИ</cite></a>
+                  <a href=""><cite title="Source Title">Про організоване завершення 2023-2024 навчального року</cite></a>
                   </footer>
                 </blockquote>
               </Card.Body>
