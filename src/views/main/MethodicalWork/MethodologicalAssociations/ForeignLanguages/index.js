@@ -37,7 +37,7 @@ const ForeignLanguages = () => {
                 <b>Іванус Людмила Олександрівна</b>
               </td>
             </tr>
-            {/* <tr>
+            <tr>
               <td>
                 <b>
                   <a target="_blank" rel="noreferrer" href="https://khrystynakalyniuk.blogspot.com/">
@@ -45,7 +45,7 @@ const ForeignLanguages = () => {
                   </a>
                 </b>
               </td>
-            </tr> */}
+            </tr>
             <tr>
               <td>
                 <b>Чувальська Юлія Петрівна</b>
