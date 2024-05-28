@@ -45,6 +45,46 @@ const Digest = () => {
           <Col md={12}>
             <Card>
               <Card.Header>
+                <Card.Title as="h5">28.05.2024</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://www.facebook.com/story.php?story_fbid=122125207790265150&id=61557954515072&mibextid=WC7FNe&rdid=HSohkOkZok7dRs2d">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>В рамках Всеукраїнської програми ментального здоров’я «Ти як?», за ініціативи першої леді України Олени Зеленської, психологом Марією Томин та соціальним педагогом Іриною Лецин проводяться тематичні уроки для учнів 7-11 класів. </p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+              
+                                  
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">В рамках Всеукраїнської програми ментального здоров’я «Ти як?», за ініціативи першої леді України Олени Зеленської, психологом Марією Томин та соціальним педагогом Іриною Лецин проводяться тематичні уроки для учнів 7-11 класів. </cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
                 <Card.Title as="h5">14.05.2024</Card.Title>
               </Card.Header>
               <Card.Body>
