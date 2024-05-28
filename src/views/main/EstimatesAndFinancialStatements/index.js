@@ -312,6 +312,26 @@ const EstimatesAndFinancialStatements = () => {
             </div>
           </div>
         </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1h_05LDugKpCpfTT8wK50udaK7Wic5iAl/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2024 рік (0611200)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1HJlqxRWZlEreW9_N8LJ1qn--jaRWy4Kp/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2024 рік (0613140)</p>
+            </div>
+          </div>
+        </a>
       </div>
 
       <h5>ФІНАНСОВИЙ ЗВІТ</h5>
