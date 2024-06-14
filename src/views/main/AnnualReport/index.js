@@ -44,6 +44,16 @@ const AnnualReport = () => {
             </div>
           </div>
         </a>
+
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/14TRfa_2LNfnkQPAd0MBb5IV9XLV11M1O/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт директора за 2023-2024 н.р.</p>
+            </div>
+          </div>
+        </a>
       </div>
         </div>
 
