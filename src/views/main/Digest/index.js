@@ -35,7 +35,7 @@ import Svitlana_Haridzhuk from './Svitlana Haridzhuk.jpg';
 import Kostyuk_Yevhen from './Kostyuk_Yevhen.jpg';
 import HNUVS from './HNUVS.png';
 import UINP from './UINP.png';
-import greeting from './greeting.PNG';
+
 
 const Digest = () => {
   return (
