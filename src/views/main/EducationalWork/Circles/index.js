@@ -7,12 +7,35 @@ import three from './three.png'
 import four from './four.png'
 import DUSSH from './DUSSH.jpg'
 
+
+
 const Certification = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
-      <h5>Розклад гурткових занять у Ліцеї № 20 на 2022-2023 н.р.</h5>
+      <h5>Розклад гурткових занять у Ліцеї № 20 на 2024-2025 н.р.</h5>
 
+      {/* <Card.Body>
+              <blockquote>
+                <div>
+                  <img src="https://drive.google.com/file/d/1sbhnxmo7rvF4t51OC3_4uAz446824gwJ/view?usp=sharing" alt="" className="cardHero" />
+                </div>
+              </blockquote>
+      </Card.Body> */}
+
+      <div className="section__grid">
+
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1sbhnxmo7rvF4t51OC3_4uAz446824gwJ/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+              <p>Розклад спортивних секцій 2024-2025 н.р.</p>
+            </div>
+          </div>
+        </a>
+        </div>
+
+{/* 
       <Card.Body>
         <Table responsive hover>
           <tbody>
@@ -100,7 +123,7 @@ const Certification = () => {
               <td>сб 10:00-11:00 – І група, 11:00-12:00 – ІІ група</td>
             </tr>*/}
 
-             <tr>
+             {/* <tr>
               <td>Хор і малі вокальні форми</td>
               <td>Протас Л.О.</td>
               <td>пн, ср, пт, 15:20-16:05, 16:15-17:00, 17:10-17:55</td>
@@ -184,12 +207,12 @@ const Certification = () => {
               <td>«Юний турист-краєзнавець» ЦТКУМ</td>
               <td>Козак Н.С.</td>
               <td>пн 17:00-19:30, вт 17:00-19:30</td>
-            </tr>
+            </tr> 
 
 
           </tbody>
         </Table>
-      </Card.Body>
+      </Card.Body> */}
 
       <Card.Body>
               <blockquote>
@@ -197,7 +220,7 @@ const Certification = () => {
                   <img src={DUSSH} alt="" className="cardHero" />
                 </div>
               </blockquote>
-            </Card.Body>
+      </Card.Body>
 
       <p>Директор Ліцею № 20 Дмитро Скиданчук</p>
 
