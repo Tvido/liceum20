@@ -6,6 +6,16 @@ const PedagogueParents = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1i70bXqKSv-Eay4oZotwAhDq4FzDkSwnQ/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Правила для зменшення залежності від гаджетів у дітей</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1DrhGl7zJggOb9v0VoMyPCMzcc6k3d4lv/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">
