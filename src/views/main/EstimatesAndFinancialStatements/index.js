@@ -7,6 +7,17 @@ const EstimatesAndFinancialStatements = () => {
 
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1T8Fxyx65EZYXQJrEmuToiO8WY2ozZUJg/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування підстави
+              для здійснення закупівлі згідно з підпунктом 5 пункту 13 Особливостей здійснення публічних закупівель товарів...</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1BhYxehjmn1yJzzYFC2BHwiAefiFtHXag/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
