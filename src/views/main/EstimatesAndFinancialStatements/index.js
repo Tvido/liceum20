@@ -7,6 +7,36 @@ const EstimatesAndFinancialStatements = () => {
 
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yBw28BYFg4KYqKNRAmr6KU2MDUshL9jM/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування характеристик (Електроенергія)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1CYpy-GhPss6RvXjopZ7S2Mvh1rCflQ8g/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування характеристик (послуги з організації харчування 1-4 класи)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1UQyOWcwxlqBXc_fOGSpaLXwJEEAC5tnu/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування характеристик (послуги з організації харчування учнів пільгових категорій)</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1T8Fxyx65EZYXQJrEmuToiO8WY2ozZUJg/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
