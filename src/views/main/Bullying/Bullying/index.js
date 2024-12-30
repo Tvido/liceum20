@@ -21,12 +21,12 @@ const Bullying = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_m84wDNW4rR-Y6qa2XsEKLQxUnhUs172/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12hyJHPxZdFx2SO0110FbkdvtRWUUWXqe/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Порядок реагування на доведені випадки булінгу (цькування) в ліцеї та відповідальність осіб, причетних до булінгу (цькування)</p>
+              <p>Порядок подання заяв або повідомлень про випадки булінгу (цькування) в ліцеї</p>
             </div>
           </div>
         </a>
