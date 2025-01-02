@@ -35,7 +35,7 @@ const Bullying = () => {
 
 
       <div className="section__grid">
-      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_m84wDNW4rR-Y6qa2XsEKLQxUnhUs172/view?usp=sharing">
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1mk4H0Xd9cX-MnWyixxh--HMb11iAQdZE/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
