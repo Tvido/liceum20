@@ -7,6 +7,16 @@ const EstimatesAndFinancialStatements = () => {
 
       <div className="section__grid">
 
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1TZAfOho5wT748xbp3bu2l43ZDbC5Sw0k/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування закупівлі послуг з організації гарячого харчування</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yBw28BYFg4KYqKNRAmr6KU2MDUshL9jM/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
