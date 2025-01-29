@@ -37,10 +37,49 @@ import HNUVS from './HNUVS.png';
 import UINP from './UINP.png';
 
 
+
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">29.01.2025</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1j9ToPfqBz2PpbVgkEZQkLg23x2evXrsd/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Результати II етапу Всукраїнських учнівських олімпіад 2024-2025 н.р.</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Результати II етапу Всукраїнських учнівських олімпіад 2024-2025 н.р.</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
 
       <div className="cardWrapper">
           <Col md={12}>

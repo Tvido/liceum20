@@ -393,6 +393,47 @@ const EstimatesAndFinancialStatements = () => {
             </div>
           </div>
         </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1iy_HWVasmwxxVxjcAldj5iV-QG3kLg1Y/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2025 рік (0611021)</p>
+            </div>
+          </div>
+        </a>
+
+        
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1hI3uvDDvxan_GpNI9lT368nr9wNYgEwU/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2025 рік (0611031)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1dItkcUyO-Cemm7SAaBKFQlzTZONQi0PS/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2025 рік (0611403)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ZQPRVv4eVoZOl213CMLcx1okTd4aH4yX/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Кошторис на 2025 рік (0611600)</p>
+            </div>
+          </div>
+        </a>
       </div>
 
       <h5>ФІНАНСОВИЙ ЗВІТ</h5>
