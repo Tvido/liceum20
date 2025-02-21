@@ -5,7 +5,7 @@ const ServiceTerritory = () => {
     <React.Fragment>
       <div className="article__wrapper">
       <div className="section__grid">
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1KE8uWcNUmUnOVgGWkdBdksud9FV9q1yE/view?usp=share_link">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1WOqbiva4YhuQvaqoqRs6d1N0ClO8k14R/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
