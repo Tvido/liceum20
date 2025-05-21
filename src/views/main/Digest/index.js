@@ -47,6 +47,44 @@ const Digest = () => {
           <Col md={12}>
             <Card>
               <Card.Header>
+                <Card.Title as="h5">21.05.2025</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1K-z9aOvuq6QJO7b9K6awg5CGi8UYIpm-/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Серія відеороликів, присвячених видатним діячам, які є символом незламності української нації</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Серія відеороликів, присвячених видатним діячам, які є символом незламності української нації</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
+      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
                 <Card.Title as="h5">27.02.2025</Card.Title>
                 
               </Card.Header>
