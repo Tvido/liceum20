@@ -43,6 +43,44 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+              <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">02.06.2025</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1p8uBnJW8wOR-P3nhKT04tfQoH_5Rd04w/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Про зарахування здобувачів освіти у перші класи 2025-2026 н.р.</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href=""><cite title="Source Title">Про зарахування здобувачів освіти у перші класи 2025-2026 н.р.</cite></a>
+                  </footer>
+                </blockquote>
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
       <div className="cardWrapper">
           <Col md={12}>
             <Card>
