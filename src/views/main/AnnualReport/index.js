@@ -55,7 +55,7 @@ const AnnualReport = () => {
           </div>
           </a>
           
-          <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1z9f_iHXOtUoA8N4fARerww6XVT02Yyxe/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1bbOKjRMmQqXVmUJl7OC9WOiBzWGyzhFr/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
