@@ -6,6 +6,26 @@ const PedagogueParents = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1gWpnMuyn0BfWght8tCsxEKk77-uDCf6U/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Не порівнюйте свою дитину з іншими дітьми...</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1eI0Q1DGC4nOVyq3lbGtnKdp5KLL5AxEg/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Як реагувати на негативне уявлення дитини про саму себе</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/16HJFDLt_IE0N6aAp9EH-zcJgJhXLuKVi/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">
