@@ -14,13 +14,22 @@ const MemorandumOnCooperation = () => {
               </div>
             </div>
           </a> */}
+          <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/10O4KsKEE0gZj_A1qZH0-pqFjG4kobrRv/view?usp=sharing">
+            <div className="section__box">
+              <div className="section__content">
+                <h3>Клікни, щоби читати</h3>
+
+                <p>Меморандум про співпрацю 2025</p>
+              </div>
+            </div>
+          </a>
 
           <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12wDdyZuFe0YczAcS2NOsEzlpVSyeHrOR/view?usp=share_link">
             <div className="section__box">
               <div className="section__content">
                 <h3>Клікни, щоби читати</h3>
 
-                <p>Меморандум про співпрацю</p>
+                <p>Меморандум про співпрацю 2022</p>
               </div>
             </div>
           </a>
