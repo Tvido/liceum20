@@ -59,7 +59,7 @@ const EducationalPrograms = () => {
           </div>
         </a> */}
 
-        <a target="_blank" href="https://docs.google.com/document/d/1AoJIKkxSptfo_640Rvgue543K4rXnNIa/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true" rel="noreferrer">
+        <a target="_blank" href="https://docs.google.com/document/d/1765xDSeXaJ1xi5xIHuiDZENsw9fo0wWG/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true" rel="noreferrer">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
