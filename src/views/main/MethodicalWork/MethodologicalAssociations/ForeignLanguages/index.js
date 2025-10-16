@@ -34,6 +34,16 @@ const ForeignLanguages = () => {
             </tr>
             <tr>
               <td>
+                <b>Куч Володимир Ігорович</b>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <b>Волощук Тетяна Яківна</b>
+              </td>
+            </tr>
+            <tr>
+              <td>
                 <b>Іванус Людмила Олександрівна</b>
               </td>
             </tr>
@@ -84,6 +94,7 @@ const ForeignLanguages = () => {
           </tbody>
         </Table>
       </Card.Body>
+        
         </div>
 
     </React.Fragment>

@@ -15,12 +15,12 @@ const Food = () => {
                     </div>
                     </a>
 
-                    <a href="https://drive.google.com/file/d/1unf7qwCU_2t66QG3Z3ubMxkEeN_BxFBN/view?usp=sharing">
+                    <a href="https://drive.google.com/file/d/1ze8oCVg9HLZDMvYsgAx8q0qyooPr69dw/view?usp=sharing">
                     <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
 
-                      <p>Графік харчування учнів 1-11 класів в їдальні Ліцею №20 Івано-Франківської міської ради на II семестр 2023-2024 н.р.</p>
+                      <p>Графік харчування учнів 1-11 класів в їдальні Ліцею №20 Івано-Франківської міської ради на I семестр 2025-2026 н.р.</p>
                     </div>
                     </div>
                     </a>

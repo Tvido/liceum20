@@ -34,7 +34,7 @@ const NaturalDisciplines = () => {
               </td>
             </tr>
 
-            <tr>
+            {/* <tr>
               <td>
                 <b>
                   <a target="_blank" rel="noreferrer" href="https://katrych-irina.blogspot.com/">
@@ -42,11 +42,17 @@ const NaturalDisciplines = () => {
                   </a>
                 </b>
               </td>
-            </tr>
+            </tr> */}
 
             <tr>
               <td>
-                <b>Гаріджук Світлана Василівна</b>
+                <b>Джус Романа Романівна</b>
+              </td>
+            </tr>
+
+             <tr>
+              <td>
+                <b>Регуш Павло Андрійович</b>
               </td>
             </tr>
 

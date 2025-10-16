@@ -24,12 +24,6 @@ const AestheticDisciplines = () => {
 
             <tr>
               <td>
-                <b>Юхно Інеса Володимирівна</b>
-              </td>
-            </tr>
-
-            <tr>
-              <td>
                 <b>Протас Любов Олександрівна</b>
               </td>
             </tr>
@@ -42,7 +36,7 @@ const AestheticDisciplines = () => {
 
             <tr>
               <td>
-                <b>Теслюк Надія Романівна</b>
+                <b>Костик Ілона Володимирівна</b>
               </td>
             </tr>
 
@@ -52,12 +46,7 @@ const AestheticDisciplines = () => {
               </td>
             </tr>
 
-            <tr>
-              <td>
-                <b>Цібій Петро Омелянович</b>
-              </td>
-            </tr>
-
+ 
             <tr>
               <td>
                 <b>Прокопів Ганна Іванівна</b>
