@@ -130,6 +130,36 @@ const EstimatesAndFinancialStatements = () => {
             </div>
           </div>
         </a>
+
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1xTlLuZ8wKvst3--v9yl0vzR1aDzCYrJR/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>обгрунтування технічних характеристик закупівлі електроенергії</p>
+            </div>
+          </div>
+        </a>
+
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1EFZvLoDinD6cZUYsL6aNf1ROpTrwiZvs/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування закупівлі послуг харчування учнів пільгових категорій</p>
+            </div>
+          </div>
+        </a>
+
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1YnyqLI2zd7SDlnfGm28Yg0sPEm6DaQx6/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування закупівлі послугз організації харчування учнів 1-4 класів</p>
+            </div>
+          </div>
+        </a>
       </div>
 
       <h5>Фінансова  звітність за 2024р.</h5>
@@ -989,6 +1019,56 @@ const EstimatesAndFinancialStatements = () => {
               <h3>Клікни, щоби читати</h3>
 
               <p>Звіт про обіг бюджетних коштів за квітень 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ZR3ri6b1zXlCT9RCluc3toNlZOk-r88T/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за травень 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1wSS2PEzWWUdgZNE6fvABXrn9CL7xbuKn/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за червень 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1nUYBba9qAKi7SfhOgVglE4wsRHedKw2H/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за липень 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1N_2akYjf9hpyQmfSoB3HpKCq0DzetmAW/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за серпень 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/18Nb0VNQqh-Qi9rJycvye-cvdK0z2yazx/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за вересень 2025 року</p>
             </div>
           </div>
         </a>
