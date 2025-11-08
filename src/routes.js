@@ -371,6 +371,16 @@ const routes = [
       },
       {
         exact: true,
+        path: '/domestic-violence',
+        component: lazy(() => import('./views/main/Bullying/DomesticViolence'))
+      },
+      {
+        exact: true,
+        path: '/preventing-and-combating-violence-and-abuse-of-children',
+        component: lazy(() => import('./views/main/Bullying/PreventingAndCombatingViolenceAndAbuseOfChildren'))
+      },
+      {
+        exact: true,
         path: '/covid',
         component: lazy(() => import('./views/main/Covid'))
       },

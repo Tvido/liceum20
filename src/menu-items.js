@@ -508,6 +508,20 @@ const menuItems = {
               url: '/prevention-of-bullying',
               classes: 'nav-item',
             },
+            {
+              id: 'domestic-violence',
+              title: 'Домашнє насильство',
+              type: 'item',
+              url: '/domestic-violence',
+              classes: 'nav-item',
+            },
+            {
+              id: 'preventing-and-combating-violence-and-abuse-of-children',
+              title: 'Запобігання і протидія насильству та жорстокому поводженню з дітьми',
+              type: 'item',
+              url: '/preventing-and-combating-violence-and-abuse-of-children',
+              classes: 'nav-item',
+            },
           ]
         },
        
