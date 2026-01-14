@@ -7,6 +7,56 @@ const EstimatesAndFinancialStatements = () => {
 
       <div className="section__grid">
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1shkXZs-Wlc3AsQg-LitX3EXeIjZMdJXc/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування підстави закупівлі (харчування пільгові категорії)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1PSQjTvjsAnekALnSDVxH7um2EmzOf1sz/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування підстави здійснення закупівлі п.п 6 п 13 (1-4 кл)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1aoc8OoWCFbqpBqwIyaZXG5uxkjVP7ZsD/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та якісних характеристик (харчування 1-4кл)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1zGfiXr-ChnytIHbhDmqRFuWBgZ-0Sfjk/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних характеристик (харчування пільгові категорії)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1qoXKtE_mcSaraaBZIYJEMVF7S1m8Uxtj/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування характеристик (Електрична енергія на 2026р)</p>
+            </div>
+          </div>
+        </a>
+
       <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1TZAfOho5wT748xbp3bu2l43ZDbC5Sw0k/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
