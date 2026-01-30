@@ -55,6 +55,16 @@ const RulesOfAdmission = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://school.bloqly.com/#/">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Електронна реєстрація для зарахування дітей у 1-й клас НУШ </p>
+            </div>
+          </div>
+        </a>
+
          {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12NmO-giVtG8w4enQDYIp8S6YxpfpAD7X/view">
           <div className="section__box">
             <div className="section__content">
