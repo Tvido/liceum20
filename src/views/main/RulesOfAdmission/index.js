@@ -15,7 +15,7 @@ const RulesOfAdmission = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/18y6Q-xJntWUDIswqdACIdTNApHSP6rUi/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1X0ynlBchdSEG3bCZ3iMhyyUQC0Cf-FKs/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -35,7 +35,7 @@ const RulesOfAdmission = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1cBgvcex-JisyJvoZdd8H3IvnZxr4IFXh/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1f8TAzd9LXFrYBaHVec7GUmtMzUTybAqY/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
