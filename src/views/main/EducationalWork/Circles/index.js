@@ -25,11 +25,19 @@ const Certification = () => {
 
       <div className="section__grid">
 
-      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1sbhnxmo7rvF4t51OC3_4uAz446824gwJ/view?usp=sharing">
+      {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1sbhnxmo7rvF4t51OC3_4uAz446824gwJ/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
               <p>Розклад спортивних секцій 2024-2025 н.р.</p>
+            </div>
+          </div>
+        </a> */}
+      <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1feGhwJLuonFFM9o8s9JMOhlsyCA22Llu/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+              <p>Розклад спортивних секцій 2025-2026 н.р.</p>
             </div>
           </div>
         </a>
