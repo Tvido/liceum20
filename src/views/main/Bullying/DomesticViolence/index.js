@@ -35,25 +35,7 @@ const DomesticViolence = () => {
           </div>
         </a>
 
-         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1cPH20XCKz9hQwg7T6ogSuUb97clKTdJ8/view?usp=sharing">
-          <div className="section__box">
-            <div className="section__content">
-              <h3>Клікни, щоби читати</h3>
-
-              <p>Про затвердження Положення про запобігання, виявлення, реагування та протидію насильству та жорстокому поводженню_з дітьми</p>
-            </div>
-          </div>
-        </a>
-
-         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/17JKY5zCyQDn9mtBXKieF1XXsukgpiWON/view?usp=sharing">
-          <div className="section__box">
-            <div className="section__content">
-              <h3>Клікни, щоби читати</h3>
-
-              <p>Про створення робочої комісії для внесення змін в Положення про запобігання. виявлення, реагування та протидію насильству та жорстокому поводженню з дітьми</p>
-            </div>
-          </div>
-        </a>
+        
 
        
 
