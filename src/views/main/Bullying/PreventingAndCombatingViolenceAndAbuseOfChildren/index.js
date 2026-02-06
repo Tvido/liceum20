@@ -52,7 +52,7 @@ const PreventingAndCombatingViolenceAndAbuseOfChildren = () => {
             </div>
           </div>
         </a>
-         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1cPH20XCKz9hQwg7T6ogSuUb97clKTdJ8/view?usp=sharing">
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1dNGCycN0pAiGxjuOL7R3EhHTm2Vi0rrm/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
