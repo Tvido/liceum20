@@ -35,12 +35,12 @@ const RulesOfAdmission = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1f8TAzd9LXFrYBaHVec7GUmtMzUTybAqY/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1GtNE04rKaNOKfuQFBPGGrVDAtG0H5kIb/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Документи для зарахування</p>
+              <p>Додаток №2. Документи для зарахування</p>
             </div>
           </div>
         </a>
