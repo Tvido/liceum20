@@ -1184,6 +1184,56 @@ const EstimatesAndFinancialStatements = () => {
           </div>
         </a>
 
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1wzwGjVsrFWG7mMTbhZiioiYC6RMPhpdn/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за жовтень 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1eDirJw0U4v-bY5zYVukZ4UhTePwIoaq0/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за листопад 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1V6udkWVoA4Lmjyxfu2ph5g7jJpgU395l/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за грудень 2025 року</p>
+            </div>
+          </div>
+        </a>
+
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1SgsWtCEkoAK2VkQ0XGxScapFZjuN5BwI/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за січень 2026 року</p>
+            </div>
+          </div>
+        </a>
+
+                 <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/169w8FPbvP3QnKJsmZBQGxojtLYBlDgL1/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за лютий 2026 року</p>
+            </div>
+          </div>
+        </a>
+
         
       </div>
         </div>
