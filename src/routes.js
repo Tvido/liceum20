@@ -381,8 +381,18 @@ const routes = [
       },
       {
         exact: true,
-        path: '/covid',
-        component: lazy(() => import('./views/main/Covid'))
+        path: '/medical-stuff',
+        component: lazy(() => import('./views/main/MedicalCare/MedicalStuff'))
+      },
+      {
+        exact: true,
+        path: '/medical-supplies',
+        component: lazy(() => import('./views/main/MedicalCare/MedicalSupplies'))
+      },
+      {
+        exact: true,
+        path: '/regulatory-and-legal-framework',
+        component: lazy(() => import('./views/main/MedicalCare/RegulatoryAndLegalFramework'))
       },
       {
         exact: true,

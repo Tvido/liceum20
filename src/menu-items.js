@@ -527,12 +527,35 @@ const menuItems = {
        
        
         {
-          id: 'covid',
-          title: 'COVID',
-          type: 'item',
-          url: '/covid',
+          id: 'medical-care',
+          title: 'Медичне обслуговування',
+          type: 'collapse',
+          url: '/medical-care',
           classes: 'nav-item',
-          icon: 'feather icon-hash',
+          icon: 'feather icon-menu',
+          children: [
+            {
+              id: 'medical-stuff',
+              title: 'Медичний персонал',
+              type: 'item',
+              url: '/medical-stuff',
+              classes: 'nav-item',
+            },
+            {
+              id: 'medical-supplies',
+              title: 'Методичні матеріали',
+              type: 'item',
+              url: '/medical-supplies',
+              classes: 'nav-item',
+            },
+            {
+              id: 'regulatory-and-legal-framework',
+              title: 'Нормативно-правова база',
+              type: 'item',
+              url: '/regulatory-and-legal-framework',
+              classes: 'nav-item',
+            },
+          ]
         },
         {
           id: 'emergency',
