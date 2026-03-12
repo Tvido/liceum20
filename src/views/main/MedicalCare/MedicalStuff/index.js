@@ -8,7 +8,7 @@ const MedicalStuff = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
-      <h5>Методичне об’єднання вчителів естетичних дисциплін, трудового навчання</h5>
+      <h5>Медичний персонал</h5>
 
       <Card.Body>
         <Table responsive hover>
@@ -21,7 +21,7 @@ const MedicalStuff = () => {
 
             <tr>
               <td>
-                <b>Дирбавка Ольга Дмитрівна</b> - медична сестра
+                <b>Дирбавка Ольга Тарасівна</b> - медична сестра
               </td>
             </tr>
 
