@@ -12,6 +12,31 @@ const AnnualPlan = () => {
 
       <div className="article__wrapper">
       <div className="section__grid">
+
+         <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1yZovFwq6MX6qMMz_-j6M4tY_7nbQ31N5/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Річний план роботи ліцею на 2025-2026 н. р.</p>
+            </div>
+          </div>
+        </a>
+
+
+
+       <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1AlvuWiIM404gddFHQ4cHaiZbV8EnriWN/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Річний план роботи ліцею на 2024-2025 н. р.</p>
+            </div>
+          </div>
+        </a>
+
+
+
       <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/19w9Wg_gx8RDBPbZdRe9MDbjaJFQOXfxq/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
           <div className="section__box">
             <div className="section__content">

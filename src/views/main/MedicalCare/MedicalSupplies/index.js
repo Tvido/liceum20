@@ -9,6 +9,66 @@ const MedicalSupplies = () => {
         <div className="article__wrapper">
     
           <div className="section__grid">
+
+            <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ZKA4Cm_spMJdKCUn75gu8Bb5PSZiBYH9/view?usp=sharing">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+    
+                  <p>Міжнародний день шкільного харчування</p>
+                </div>
+              </div>
+            </a>
+
+            <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1RtZ_ovprGXvAm3rDc0GHjk5Yx3hGDIzt/view?usp=sharing">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+    
+                  <p>Тарілка здорового харчування</p>
+                </div>
+              </div>
+            </a>
+
+            <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lSntxaoEO8m8GmbTVX9QevbxYlMkFZxI/view?usp=sharing">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+    
+                  <p>Корисна і некорисна їжа</p>
+                </div>
+              </div>
+            </a>
+
+             <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=rDxfvoO_kpU">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+    
+                  <p>Які продукти необхідні для здорового харчування?</p>
+                </div>
+              </div>
+            </a>
+
+            <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=mIu1O0VFsvM">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+    
+                  <p>Що таке тарілка здорового харчування?</p>
+                </div>
+              </div>
+            </a>
+
+            <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1jFiflKXJ5ehJguQ5Z5r4yCv0IiGYZPBM/view?usp=sharing">
+              <div className="section__box">
+                <div className="section__content">
+                  <h3>Клікни, щоби читати</h3>
+    
+                  <p>Чому важливо їсти в шкільній їдальні?</p>
+                </div>
+              </div>
+            </a>
     
             <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1NZXtd-8-B6pp_Y0D0Q_aKUEzEAmQPWJm/view?usp=sharing">
               <div className="section__box">
