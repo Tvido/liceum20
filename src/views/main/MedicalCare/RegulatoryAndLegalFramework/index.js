@@ -14,7 +14,7 @@ const RegulatoryAndLegalFramework = () => {
 
                 
         
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/254к/96-вр">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/254к/96-вр">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -24,7 +24,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/2801-12">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/2801-12">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -34,7 +34,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/2145-19">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/2145-19">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -44,7 +44,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/463-20">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/463-20">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -54,7 +54,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/389-VIII">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/389-VIII">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -64,7 +64,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/5403-VI">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/5403-VI">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -81,7 +81,7 @@ const RegulatoryAndLegalFramework = () => {
 
                 <div className="section__grid">
 
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/31-2021-%D0%BF#Text">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/31-2021-%D0%BF#Text">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -91,7 +91,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="zakon.rada.gov.ua/laws/show/z1111-20">
+                <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/z1111-20">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -101,7 +101,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="osvita.ua/legislation/doshkilna-osvita/94212/">
+                <a target="_blank" rel="noreferrer" href="https://osvita.ua/legislation/doshkilna-osvita/94212/">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -111,7 +111,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="Details/nadannia_indyvidualnoi_pidtrymky_uchniam">
+                <a target="_blank" rel="noreferrer" href="https://Details/nadannia_indyvidualnoi_pidtrymky_uchniam">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -121,7 +121,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="moz.gov.ua">
+                <a target="_blank" rel="noreferrer" href="https://moz.gov.ua">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -131,7 +131,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                 <a target="_blank" rel="noreferrer" href="moz.gov.ua">
+                 <a target="_blank" rel="noreferrer" href="https://moz.gov.ua">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -147,7 +147,7 @@ const RegulatoryAndLegalFramework = () => {
 
                 <div className="section__grid">
 
-              <a target="_blank" rel="noreferrer" href="mon.gov.ua">
+              <a target="_blank" rel="noreferrer" href="https://mon.gov.ua">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
@@ -157,7 +157,7 @@ const RegulatoryAndLegalFramework = () => {
                   </div>
                 </a>
 
-                <a target="_blank" rel="noreferrer" href="mon.gov.ua">
+                <a target="_blank" rel="noreferrer" href="https://mon.gov.ua">
                   <div className="section__box">
                     <div className="section__content">
                       <h3>Клікни, щоби читати</h3>
