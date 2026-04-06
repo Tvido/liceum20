@@ -43,6 +43,49 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+       
+
+                                <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">06.04.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1O_geoDhvqFPTObUsqSSPFmG_pZGBQzJP/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Заняття з профорієнтації в рамках швейцарсько-українського проєкту DECIDE на тему "Чому підлітки хочуть заробляти гроші?"</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://docs.google.com/document/d/1O_geoDhvqFPTObUsqSSPFmG_pZGBQzJP/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true"><cite title="Source Title">Заняття з профорієнтації в рамках швейцарсько-українського проєкту DECIDE на тему "Чому підлітки хочуть заробляти гроші?"</cite></a>
+                  </footer>
+                </blockquote>
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
+
                           <div className="cardWrapper">
           <Col md={12}>
             <Card>
