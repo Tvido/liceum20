@@ -15,6 +15,16 @@ const Orders = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1-F15Qwfz6RWr4yBV1JFDYsVDtUwu2ZSA/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Про організоване завершення навчального року 2025-2026</p>
+            </div>
+          </div>
+        </a>
+
         
       </div>
       </div> 
