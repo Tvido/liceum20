@@ -43,6 +43,52 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+            <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">11.05.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://udcnpvctum.kyiv.ua/rozdil-dzhura/">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Всеукраїнська дитячо-юнацька військово-патріотична гра «Сокіл» («Джура»)</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://udcnpvctum.kyiv.ua/rozdil-dzhura/"><cite title="Source Title">https://udcnpvctum.kyiv.ua/rozdil-dzhura/</cite></a>
+                  </footer>
+                </blockquote>
+
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://www.youtube.com/@udcnpv1786"><cite title="Source Title">https://www.youtube.com/@udcnpv1786</cite></a>
+                  </footer>
+                </blockquote>
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+      </div>
         
 
 
