@@ -519,6 +519,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/rules-of-access-and-stay-of-participants-in-the-educational-process',
+        component: lazy(() => import('./views/info/About/RulesOfAccessAndStay'))
+      },
+      {
+        exact: true,
         path: '/rules-of-conduct',
         component: lazy(() => import('./views/info/About/RulesOfConduct'))
       },

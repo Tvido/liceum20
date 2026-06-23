@@ -632,6 +632,12 @@ const menuItems = {
               url: '/internal-system-of-ensuring-the-quality-of-education'
             },
             {
+              id: 'rules-of-access-and-stay-of-participants-in-the-educational-process',
+              title: 'Правила доступу і перебування учасників освітнього процесу',
+              type: 'item',
+              url: '/rules-of-access-and-stay-of-participants-in-the-educational-process'
+            },
+            {
               id: 'rules-of-conduct',
               title: 'Правила поведінки',
               type: 'item',
