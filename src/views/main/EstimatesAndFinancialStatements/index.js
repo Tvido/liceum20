@@ -1254,6 +1254,16 @@ const EstimatesAndFinancialStatements = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1mWs5AQJXfrB2QfnS7RFEviCSnLoiBCY0/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за червень 2026 року</p>
+            </div>
+          </div>
+        </a>
+
         
       </div>
         </div>
