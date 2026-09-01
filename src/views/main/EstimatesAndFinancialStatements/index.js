@@ -7,6 +7,96 @@ const EstimatesAndFinancialStatements = () => {
 
       <div className="section__grid">
 
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yJrsIHvX51dH6QK45bQ55ZMglZYQJa5F/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі послуг з організації гарячого харчування учнів 5-11 класів Ліцею №20 (пільгові категорії учнів)</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1N7UI2276nsztjLcQtoIX1NvSGTia-TPS/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі електричної енергії Ліцей №20</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1eTtpbLaB3iVbe7C50E9OzNPEw9WYFbXQ/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі послуг з організації гарячого харчування учнів 10 класів Ліцею №20, які навчаються на базі Ліцей №10</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1RWoo_P7QL-a7P7pJiSPyiQuNWCVcccUZ/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та якісних характеристик закупівлі послуг з організації гарячого харчування учнів 10 класів Ліцею №20, які навчаються на базі Ліцей №15</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1V7n-hake6xepHU_jvJMVqfQyFQHS7EUw/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі послуг з організації гарячого харчування учнів 10 класів Ліцею №20, які навчаються на базі Ліцей №16</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1_ilX17MRLq0Q9RRcqv8FNWD1NiIW-FpJ/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі послуг з організації гарячого харчування учнів 10 класів Ліцею №20, які навчаються на базі Ліцей №19</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ar0GeW8pvBgdYfXNxC6LjowbavKffC_1/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі послуг з організації гарячого харчування учнів 10 класів Ліцею №20, які навчаються на базі Ліцей №22</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1HqxomgJX6Zc_vewUHm8E8ewVsokpUxw_/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі послуг з організації гарячого харчування учнів 10 класів Ліцею №20, які навчаються на базі Ліцей №25</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lgZg-2pM3QqwfEa67lUfF0xIk4bkwORm/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі послуг з організації гарячого харчування учнів 5-11 класів Ліцею №20</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1shkXZs-Wlc3AsQg-LitX3EXeIjZMdJXc/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
