@@ -43,6 +43,51 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+        
+         <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">19.08.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://zakon.rada.gov.ua/laws/show/4969-20#Text">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Заява Верховної Ради України щодо визнання і засудження злочинів радянської військової адміністрації на Закарпатті у 1944-1946 роках
+</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://drive.google.com/file/d/16TSKxv-PC4fRkRjiECNdYZ4IJsTNQZNF/view?usp=sharing"><cite title="Source Title">Заява Верховної Ради України щодо визнання і засудження злочинів радянської військової адміністрації на Закарпатті у 1944-1946 роках</cite></a>
+                  </footer>
+                </blockquote>
+
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
          <div className="cardWrapper">
           <Col md={12}>
             <Card>
