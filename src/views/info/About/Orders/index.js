@@ -25,6 +25,16 @@ const Orders = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11Ab7Ugt-eiaYJF2QEksB2xHI6jWcodT2/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Про завтердження та введення в дію Положення про внутрішню систему оцінювання результатів навчання та Критеріїв оцінювання здобувачів освіти Ліцею №20</p>
+            </div>
+          </div>
+        </a>
+
         
       </div>
       </div> 
