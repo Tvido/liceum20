@@ -4,8 +4,19 @@ const EvaluationCriteria = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
-      <div className="section__grid">
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lY2dWhckrbnzhQnfDKm4EAI3xOiKj0s9/view">
+
+
+       <div className="section__grid">
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1tOyJqYfX1DrmQN2jjtWopoE1xJwqYrXu/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Про затвердження та введення в дію Положення про внутрішню систему оцінювання результатів навчання та Критеріїв оцінювання здобувачів освіти Ліцею № 20</p>
+            </div>
+          </div>
+        </a>
+       {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lY2dWhckrbnzhQnfDKm4EAI3xOiKj0s9/view">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -191,7 +202,7 @@ const EvaluationCriteria = () => {
               <p>Критерії оцінювання навчальних досягнень учнів 3-4 класів НУШ з мовно-літературної галузі (англійська мова)</p>
             </div>
           </div>
-        </a> */}
+        </a> 
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1TbOaiMK8kI0jaKl5Ebv3LkJ6pgy0EQpW/view?usp=share_link">
           <div className="section__box">
@@ -221,7 +232,7 @@ const EvaluationCriteria = () => {
               <p>Критерії оцінювання навчальних досягнень учнів 10-11 класів</p>
             </div>
           </div>
-        </a>
+        </a> */}
 
         
       </div>
