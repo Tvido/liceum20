@@ -16,6 +16,23 @@ const EvaluationCriteria = () => {
             </div>
           </div>
         </a>
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1roT9-iVnbe_6_EDhZl94sz3Sq6CAhOu9/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Методичні рекомендації щодо оцінюванняу 5-9 класах НУШ природнича освітня галузь</p>
+            </div>
+          </div>
+        </a><a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1O15VZbBpnFmcBWodIIgccxvpkKrT0veh/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Методичні рекомендації щодо  оцінювання з мовно-літературної освітньої галузі (іншомовна освіта)</p>
+            </div>
+          </div>
+        </a>
        {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lY2dWhckrbnzhQnfDKm4EAI3xOiKj0s9/view">
           <div className="section__box">
             <div className="section__content">
