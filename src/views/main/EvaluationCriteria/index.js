@@ -33,6 +33,15 @@ const EvaluationCriteria = () => {
             </div>
           </div>
         </a>
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1bfL1j2NljnjP1sLYlacN7W8dByi14l6l/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Методичні рекомендації щодо оцінювання навчальних досягнень здобувачів освіти з предмету Захист України</p>
+            </div>
+          </div>
+        </a>
        {/* <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1lY2dWhckrbnzhQnfDKm4EAI3xOiKj0s9/view">
           <div className="section__box">
             <div className="section__content">
