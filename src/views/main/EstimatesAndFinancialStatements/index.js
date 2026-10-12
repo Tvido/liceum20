@@ -7,6 +7,16 @@ const EstimatesAndFinancialStatements = () => {
 
       <div className="section__grid">
 
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ru2OY49rewT7RFw0g-2Sa1k-Z6-35ygB/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Обгрунтування технічних та яксіних характеристик закупівлі ДК 021:2015 (CPV) - 45450000-6 Інші завершальні будівельні роботи (45453000-7 - капітальний ремонт і реставрація), Капітальний ремонт їдальні та харчоблоку Ліцею №20 Івано-Франківської міської ради. Коригування кошторисної документації розміру бюджетного призначення, очікуваної вартості предмета закупівлі</p>
+            </div>
+          </div>
+        </a>
+
          <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yJrsIHvX51dH6QK45bQ55ZMglZYQJa5F/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
