@@ -44,6 +44,51 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+                     <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">16.10.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href=" https://eduwork.if.ua/">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>EduWork ІФ</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://eduwork.if.ua/"><cite title="Source Title">Єдиний обласний портал вакансій педагогічних працівників: актуальні пропозиції шкіл, садочків і закладів позашкільної освіти з усіх громад області — в одному місці.<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>
+                </blockquote>
+
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
+
              <div className="cardWrapper">
           <Col md={12}>
             <Card>
