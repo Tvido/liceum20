@@ -36,13 +36,60 @@ import Kostyuk_Yevhen from './Kostyuk_Yevhen.jpg';
 import HNUVS from './HNUVS.png';
 import UINP from './UINP.png';
 import cyber from './cyber_hygiene.png';
-
+import cyber_p from './cyber_police.jpg';
 
 
 const Digest = () => {
   return (
     <React.Fragment>
       <div className="article__wrapper">
+
+                    <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">19.10.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://www.youtube.com/@BRAMA_Official_UA">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>BRAMA - Онлайн-варта Україи</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://www.youtube.com/@BRAMA_Official_UA"><cite title="Source Title"><blockquote>
+                  <div>
+                    <a href=""><img src={cyber_p} alt="" className="cardHero" /></a>
+                  </div>
+                </blockquote></cite></a>
+                  </footer>
+                </blockquote>
+
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
 
                      <div className="cardWrapper">
           <Col md={12}>
