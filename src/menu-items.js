@@ -522,6 +522,13 @@ const menuItems = {
               url: '/preventing-and-combating-violence-and-abuse-of-children',
               classes: 'nav-item',
             },
+            {
+              id: 'primary-school',
+              title: 'Початкова школа',
+              type: 'item',
+              url: '/primary-school',
+              classes: 'nav-item',
+            },
           ]
         },
        

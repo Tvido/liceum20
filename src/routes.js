@@ -381,6 +381,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/primary-school',
+        component: lazy(() => import('./views/main/Bullying/PrimarySchool'))
+      },
+      {
+        exact: true,
         path: '/medical-stuff',
         component: lazy(() => import('./views/main/MedicalCare/MedicalStuff'))
       },
