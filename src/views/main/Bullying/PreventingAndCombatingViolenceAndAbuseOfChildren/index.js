@@ -64,6 +64,25 @@ const PreventingAndCombatingViolenceAndAbuseOfChildren = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Yz6QYVULLbVjMWYPUy1GduXKhTpauGmI/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Наказ про запобігання і протидії насильству 24.09.2026 </p>
+            </div>
+          </div>
+        </a>
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1blvL_FrTfBBoJfAu6-mEp0CLl9ujqQje/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Положення про запобігання і протидію насильству</p>
+            </div>
+          </div>
+        </a>
+
 
 
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1aQc99ivxTZstiHgiMYVEhFukBGSodcxh/view?usp=sharing">
