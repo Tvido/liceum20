@@ -16,6 +16,17 @@ const PreventingAndCombatingViolenceAndAbuseOfChildren = () => {
             </div>
           </div>
         </a>
+
+         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ozlgltCnTQPqJidbS0IBOkDhmRqmnxr9/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>План заходів</p>
+            </div>
+          </div>
+        </a>
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ijoxgD3OFsbGPrrCQneWzH5q_A__0nkO/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
@@ -99,7 +110,7 @@ const PreventingAndCombatingViolenceAndAbuseOfChildren = () => {
               <p>Додаток №3. Анкета анонімного опитування для дітей</p>
             </div>
           </div>
-        </a>
+        </a> 
          <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1dNGCycN0pAiGxjuOL7R3EhHTm2Vi0rrm/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
