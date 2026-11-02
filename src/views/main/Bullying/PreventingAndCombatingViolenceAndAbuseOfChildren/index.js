@@ -7,6 +7,54 @@ const PreventingAndCombatingViolenceAndAbuseOfChildren = () => {
     <React.Fragment>
       <div className="article__wrapper">
       <div className="section__grid">
+        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1cMBilsXrNDPjtWA8AdLMk4fNb3YKX8Eg/edit">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Телефони гарячих ліній</p>
+            </div>
+          </div>
+        </a>
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ijoxgD3OFsbGPrrCQneWzH5q_A__0nkO/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Порядок застосування заходів виховного впливу</p>
+            </div>
+          </div>
+        </a>
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/15Vrd49kwFc34IzYKvgVLpaCoSXnTRX6h/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Порядок реагування на випадки булінгу</p>
+            </div>
+          </div>
+        </a>
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11dzBSBQ4bzoSPDs-LV1lKLfEJiV6UXz5/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Правила поведінки здобувачів освіти</p>
+            </div>
+          </div>
+        </a>
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1nWarMF5ipW7AErByW3XSPfzY5mTf74Fa/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Про затвердження Порядку реагування на випадки булінгу</p>
+            </div>
+          </div>
+        </a>
+
+
+
         <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1aQc99ivxTZstiHgiMYVEhFukBGSodcxh/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
