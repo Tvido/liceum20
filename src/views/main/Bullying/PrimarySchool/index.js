@@ -8,7 +8,7 @@ const PrimarySchool = () => {
       <div className="article__wrapper">
       <div className="section__grid">
 
-        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1ZS_UU7wHPwTlrlPpuikXDkGcxzkm9kK9/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1LYt_QMOEaam2kEHzE-KY0I4SmA6zdMM6/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -19,7 +19,7 @@ const PrimarySchool = () => {
         </a>
 
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1b_EIvygJP-mWhPPYweD5mP6jEKv1X_z3/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/12B9f1F2cmWygv_mCtzF5hg75ZtrS0xx5/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -29,7 +29,7 @@ const PrimarySchool = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1f2g7j_mswMNK7imVZKDAcmzZ9AC6BZpW/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1uqyjiXAEF8crvtNWK_4PLfZ17DKPs1Uw/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -39,7 +39,7 @@ const PrimarySchool = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1CupStL_zNRwgRJ9YsEHGtUgQJr80kjZ-/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1vtrNdegegqjOW3_-qNcX-lK2FaAbIk5-/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>

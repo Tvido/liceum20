@@ -7,7 +7,7 @@ const PreventingAndCombatingViolenceAndAbuseOfChildren = () => {
     <React.Fragment>
       <div className="article__wrapper">
       <div className="section__grid">
-        <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1cMBilsXrNDPjtWA8AdLMk4fNb3YKX8Eg/edit">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1at3OyvLXjUWHZ-JNIkt0b6gQeX-VUL45/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
@@ -64,12 +64,12 @@ const PreventingAndCombatingViolenceAndAbuseOfChildren = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Yz6QYVULLbVjMWYPUy1GduXKhTpauGmI/view?usp=sharing">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1gnmoyCXAHlPOipeNps0Gnloj7R50ZJ7x/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Наказ про запобігання і протидії насильству 24.09.2026 </p>
+              <p>Наказ про запобігання і протидію насильству 2026 </p>
             </div>
           </div>
         </a>

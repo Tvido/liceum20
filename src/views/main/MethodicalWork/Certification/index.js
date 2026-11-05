@@ -71,12 +71,12 @@ const Certification = () => {
           </div>
         </a>
 
-        <a target="_blank" rel="noreferrer" href=" https://docs.google.com/document/d/1QJpwyXz-4cFmVNeW40W-hqMjH0iDUGET/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true">
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1wKbBBm0PLAnGyxSmZJ86ls8yiCpjWFnx/view?usp=sharing">
           <div className="section__box">
             <div className="section__content">
               <h3>Клікни, щоби читати</h3>
 
-              <p>Список педагогічних працівників Ліцею №20, які атестуються у 2026</p>
+              <p>Список педагогічних працівників Ліцею №20, які атестуються у 2027</p>
             </div>
           </div>
         </a>
