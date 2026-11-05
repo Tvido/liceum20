@@ -1384,6 +1384,46 @@ const EstimatesAndFinancialStatements = () => {
           </div>
         </a>
 
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1tNUg9N-aXE_Dc230KRVaHKiA0g3yoCB0/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за липень 2026 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ClrDdQC58g1LY7Z4pq7ChR3TK3I18kFY/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за серпень 2026 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/106xfHKVusvrGA2_iUzYgnCKZOo6HgFmB/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за вересень 2026 року</p>
+            </div>
+          </div>
+        </a>
+
+        <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1vdXydxKQvpTNlDfF8mlarkKWboCWnTtR/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Звіт про обіг бюджетних коштів за жовтень 2026 року</p>
+            </div>
+          </div>
+        </a>
+
         
       </div>
         </div>
