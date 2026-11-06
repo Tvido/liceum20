@@ -44,7 +44,50 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
-            <div className="cardWrapper">
+         <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">06.11.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://www.facebook.com/61557954515072/videos/%D1%81%D0%B2%D1%96%D1%82-%D0%BC%D0%B5%D0%B4%D1%96%D0%B0-%D0%B7%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8-%D1%8F%D0%BA-%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%B8%D0%BA%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D0%BB%D0%B8-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D1%81%D1%8C%D0%BE%D0%B3%D0%BE/4441519255991642/?rdid=g7sBUifpq1wHFjXx">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Світ медіа зсередини: як дев’ятикласники відкривали секрети тележурналістики​</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://www.facebook.com/61557954515072/videos/%D1%81%D0%B2%D1%96%D1%82-%D0%BC%D0%B5%D0%B4%D1%96%D0%B0-%D0%B7%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8-%D1%8F%D0%BA-%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%B8%D0%BA%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D0%BB%D0%B8-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D1%81%D1%8C%D0%BE%D0%B3%D0%BE/4441519255991642/?rdid=g7sBUifpq1wHFjXx"><cite title="Source Title">Світ медіа зсередини: як дев’ятикласники відкривали секрети тележурналістики​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                </blockquote>
+
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
+      <div className="cardWrapper">
           <Col md={12}>
             <Card>
               <Card.Header>
