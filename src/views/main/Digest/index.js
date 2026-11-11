@@ -44,6 +44,98 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+                      <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">11.11.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Cb7sPROQkP9okA-2YRVzsmWYgqFzyHY_/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Інформаційні матеріали щодо шкільного харчування​</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://docs.google.com/document/d/1tZlcH5usTDthcxRoEZSxSS8OKhDBfaNH/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true"><cite title="Source Title">Написи на продуктах можуть вводити в оману: що означають «без цукру» та «джерело клітковини»​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                </blockquote>
+
+                   <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://docs.google.com/document/d/1sLRoGbtOFjedu0J65N__qn2P-8zwawGl/edit?usp=sharing&ouid=104991853798134703900&rtpof=true&sd=true"><cite title="Source Title">Шкільне харчування: чи можна змінювати страви у шкільному меню? ​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                </blockquote>
+
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
+                <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">11.11.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1A-B5EdRh3Gw9EakwFMbCjmiMzOMMCoKl/view">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Соціальний ролик БО «БЛАГОДІЙНИЙ ФОНД «РОКАДА»​</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://drive.google.com/file/d/1A-B5EdRh3Gw9EakwFMbCjmiMzOMMCoKl/view"><cite title="Source Title">Соціальний ролик БО «БЛАГОДІЙНИЙ ФОНД «РОКАДА»​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                </blockquote>
+
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
          <div className="cardWrapper">
           <Col md={12}>
             <Card>
