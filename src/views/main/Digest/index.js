@@ -44,7 +44,122 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
-                      <div className="cardWrapper">
+          <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">13.11.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://youtu.be/rg0UMXAcdDw">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Відеоматеріали присвячені розвитку кіберосвіти та цифрової стійкості
+молоді, кар’єрним можливостям у сфері кібербезпеки, а також практичним
+форматам навчання, зокрема CTF-змаганням, симуляціям та програмам пошуку
+вразливостей (bug bounty)​</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://youtu.be/rg0UMXAcdDw"><cite title="Source Title">
+Практична кіберосвіта: CTF, симуляції та bug bounty для майбутніх кіберфахівців | Кирило Ткачов​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                
+                </blockquote>
+
+                 <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://youtu.be/mqJm6pc8qBI"><cite title="Source Title">
+Кар’єра в кібербезпеці: можливості для молоді та потреби держави і бізнесу​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                
+                </blockquote>
+
+                 <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://youtu.be/jy2CbKoGH2c"><cite title="Source Title">Кіберосвіта нового покоління | Youth Cybersecurity Talent​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                
+                </blockquote>
+
+                 <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://youtu.be/vdnkdRau1og"><cite title="Source Title">Кар’єрний шлях у кібербезпеці: Антон Коржинський та Джорж Папарига​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                
+                </blockquote>
+
+                 
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
+        <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">13.11.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1Cmkdse5kwp8KVdqsRxwN0eKY1IJkcCbX/view?usp=sharing">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>План заходів Тижня математики, інформатики та фізики​</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+                <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://drive.google.com/file/d/1Cmkdse5kwp8KVdqsRxwN0eKY1IJkcCbX/view?usp=sharing"><cite title="Source Title">План заходів Тижня математики, інформатики та фізики​<blockquote>
+                                 </blockquote></cite></a>
+                  </footer>                </blockquote>
+
+                 
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
+      <div className="cardWrapper">
           <Col md={12}>
             <Card>
               <Card.Header>
