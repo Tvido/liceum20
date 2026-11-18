@@ -37,6 +37,7 @@ import HNUVS from './HNUVS.png';
 import UINP from './UINP.png';
 import cyber from './cyber_hygiene.png';
 import cyber_p from './cyber_police.jpg';
+import cyber_m from './cyber_month.png';
 
 
 const Digest = () => {
@@ -44,11 +45,64 @@ const Digest = () => {
     <React.Fragment>
       <div className="article__wrapper">
 
+           <div className="cardWrapper">
+          <Col md={12}>
+            <Card>
+              <Card.Header>
+                <Card.Title as="h5">18.11.2026</Card.Title>
+                
+              </Card.Header>
+              <Card.Body>
+
+              <blockquote>
+                  <div>
+                  <a target="_blank" rel="noreferrer" href="https://osvita.diia.gov.ua/courses/digital-skills-and-online-safety">
+          <div className="section__box">
+            <div className="section__content">
+              <h3>Клікни, щоби читати</h3>
+
+              <p>Місяць цифрової грамотності​</p>
+            </div>
+          </div>
+        </a>
+                  </div>
+                </blockquote>
+           
+             
+                
+              <br></br>
+
+             
+
+
+               <blockquote className="blockquote text-right">
+                  <footer className="blockquote-footer">
+                  <a href="https://osvita.diia.gov.ua/courses/digital-skills-and-online-safety"><cite title="Source Title"><blockquote>
+                  <div>
+                   <img src={cyber_m} alt="" className="cardHero" />
+                   
+                  </div>
+                </blockquote></cite></a>
+                  </footer>
+                </blockquote>
+
+               
+
+                 
+
+               
+
+              </Card.Body>
+            </Card>
+          </Col>
+
+      </div>
+
           <div className="cardWrapper">
           <Col md={12}>
             <Card>
               <Card.Header>
-                <Card.Title as="h5">13.11.2026</Card.Title>
+                <Card.Title as="h5">18.11.2026</Card.Title>
                 
               </Card.Header>
               <Card.Body>
@@ -412,7 +466,7 @@ const Digest = () => {
                   <footer className="blockquote-footer">
                   <a href="https://www.youtube.com/@BRAMA_Official_UA"><cite title="Source Title"><blockquote>
                   <div>
-                    <a href=""><img src={cyber_p} alt="" className="cardHero" /></a>
+                    <img src={cyber_p} alt="" className="cardHero" />
                   </div>
                 </blockquote></cite></a>
                   </footer>
@@ -504,7 +558,7 @@ const Digest = () => {
                   <footer className="blockquote-footer">
                   <a href="https://cip.gov.ua/ua/faqs/gaid-iz-kibergigiyeni"><cite title="Source Title"><blockquote>
                   <div>
-                    <a href=""><img src={cyber} alt="" className="cardHero" /></a>
+                    <img src={cyber} alt="" className="cardHero" />
                   </div>
                 </blockquote></cite></a>
                   </footer>
