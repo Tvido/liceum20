@@ -326,6 +326,11 @@ const routes = [
       },
       {
         exact: true,
+        path: '/academic-liceum',
+        component: lazy(() => import('./views/main/AcademicLiceum'))
+      },
+      {
+        exact: true,
         path: '/educational-programs',
         component: lazy(() => import('./views/main/EducationalPrograms'))
       },

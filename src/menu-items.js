@@ -434,6 +434,13 @@ const menuItems = {
           icon: 'feather icon-hash',
         },
         {
+          id: 'academic-lyceum',
+          title: 'Академічний ліцей',
+          type: 'item',
+          url: '/academic-lyceum',
+          icon: 'feather icon-hash',
+        },
+        {
           id: 'educational-programs',
           title: 'Освітні програми',
           type: 'item',
