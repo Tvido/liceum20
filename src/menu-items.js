@@ -21,6 +21,20 @@ const menuItems = {
           icon: 'feather icon-hash'
         },
         {
+          id: 'elementary-school',
+          title: 'Початкова школа',
+          type: 'collapse',
+          icon: 'feather icon-menu',
+          children: [
+          {
+          id: 'financial-statements',
+          title: 'Фінансова звітність',
+          type: 'item',
+          url: '/financial-statements',
+          }
+          ]
+        },
+        {
           id: 'methodical-work',
           title: 'Методична робота',
           type: 'collapse',

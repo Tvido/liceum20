@@ -41,6 +41,12 @@ const routes = [
         path: '/digest',
         component: lazy(() => import('./views/main/Digest'))
       },
+      {
+        exact: true,
+        path: '/financial-statements',
+        component: lazy(() => import('./views/main/ElementarySchool/FinancialStatements'))
+      },
+
       // Методична робота
       {
         exact: true,
